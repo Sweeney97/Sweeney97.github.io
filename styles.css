@@ -1,17 +1,11 @@
-.float-container {
-    border: 3px solid black;
-    padding: 20px;
-}
 
-.float-child1 {
+.float1 {
     width: 20%;
     float: left;
-    padding: 20px;
 }
 
-.float-child2 {
-    width: 50%;
-    float: right;
+.float2 {
+    width: 80%;
     padding: 20px;
     border: 1px solid black;
 }
