@@ -1,6 +1,6 @@
 ---
 Date: février 2021
-layout: GFM
+title-heading: false
 ---
 
 ### page test
