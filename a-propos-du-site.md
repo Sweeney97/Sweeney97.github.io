@@ -1,4 +1,4 @@
-# [À propos de moi](https://www.antoinesweeney.com)
+# [À propos de ce site](https://www.antoinesweeney.com)
 
 ### Pourquoi cette section
 
