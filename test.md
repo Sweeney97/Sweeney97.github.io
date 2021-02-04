@@ -1,3 +1,7 @@
+---
+Date: février 2021
+---
+
 ### page test
 
 Est-ce que la page s'affiche, même depuis markdown?
@@ -8,3 +12,4 @@ Liste
 - élément c
 
 ***
+[Retour à l'accueil](https://www.antoinesweeney.com)
