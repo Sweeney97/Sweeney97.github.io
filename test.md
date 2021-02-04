@@ -1,6 +1,6 @@
 ---
 Date: février 2021
-layout: post
+layout: GFM
 ---
 
 ### page test
