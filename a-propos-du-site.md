@@ -8,23 +8,21 @@ Dans cet optique, tous les sites web «artisanaux» devraient inclure une sectio
 
 ### Utiliser GitHub pour créer un site en quelques minutes
 
-Le premier est la syntaxe Markdown qui sert à mettre en forme du texte brut (format txt).
+Premièrement il suffit d'apprendre la syntaxe [Markdown](https://www.markdownguide.org/) qui sert à mettre en forme du texte brut (format txt).
 C’est une syntaxe incroyablement simple, qui ne prend que quelques minutes à apprendre, une quinzaine à maîtriser.
-Si vous n’avez pas d’éditeur texte, il en existe plusieurs; voici mes coups de cœur: Atom, Mark Text et Gedit.
+Si vous n’avez pas d’éditeur texte, il en existe plusieurs; voici mes coups de cœur: [Atom](https://atom.io/), [Mark Text](https://marktext.app/) et [Gedit](https://wiki.gnome.org/Apps/Gedit).
 Vous pouvez toujours utiliser Bloc-notes sur Windows, mais la visibilité n’est pas idéale.
-Le deuxième outil que j’ai utilisé est Pandoc, qui permet en un tour de main de convertir ses textes depuis Markdown vers Html.
-Cette fonction est aussi incluse dans Mark Text.
-Le troisième outil que j’ai utilisé est la plateforme GitHub.
+Pour placer mes fichers Markdown en ligne, j’ai utilisé est la plateforme [GitHub](https://github.com/).
 Après la création d’un compte, l’utilisateur obtient automatiquement un lien publique qui lui est propre.
-La marche à suivre pour initialiser son site web depuis GitHub est détaillée sur la page GitHub Pages.
+La marche à suivre pour initialiser son site web depuis GitHub est détaillée sur [GitHub Pages](https://pages.github.com/).
 Si vous n’êtes pas initié à GitHub, cela peut prendre quelque temps avant que vous y soyez à l’aise, mais il existe plusieurs tutoriels sur GitHub, YouTube et sur le web.
-À partir de là, il vous est possible d’écrire des pages en Markdown, de les convertir en Html et de les déposer sur votre dépôt dans GitHub.
+À partir de là, il vous est possible d’écrire des pages en Markdown et de les déposer sur votre dépôt dans GitHub.
 Seulement, le lien de votre page sera votre_nom_d’utilisateur.github.io.
 Afin de choisir un lien personalisé pour votre page, il vous faudra louer un nom de domaine.
-Pour ce faire, je vous recommande Gandi, pour sa simplicité et pour son implication sociale.
+Pour ce faire, je vous recommande [Gandi](https://www.gandi.net/fr), pour sa simplicité et pour son implication sociale.
 Après avoir acheté la location d’un nom de domaine, vous devez aller dans les paramètres DNS.
-De là, vous devez créer un CNAME qui pointe vers votre page originelle de GitHub en ajoutant un point à la fin: [votre_nom_d’utilisateur.github.io.], et ensuite vous pouvez configurer quatre entrées A qui pointent vers les adresses IP de GitHub, voyez la procédure ici.
+De là, vous devez créer un CNAME qui pointe vers votre page originelle de GitHub en ajoutant un point à la fin: [votre_nom_d’utilisateur.github.io.], et ensuite vous pouvez [configurer quatre entrées A qui pointent vers les adresses IP de GitHub](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site).
 Vous pouvez choisir si votre site contient www ou non, cela est précisé dans votre CNAME.
 
 
-Pour voir le code source de ce site web, visitez son dépôt GitHub.
+Pour voir le code source de ce site web, visitez son dépôt [GitHub](https://github.com/Sweeney97).
