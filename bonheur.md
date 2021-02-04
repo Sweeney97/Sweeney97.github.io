@@ -95,6 +95,17 @@ Mais cet aveuglement entraîne aussi la colère divine puisqu’ultimement, cet 
 Cela n’est pas sans rappeler la lucidité de Paul, l’un des personnages d’Au Bonheur des Dames, « qui, dans l’ennui de son pessimisme, continuait à trouver inepte la turbulence de cette humanité, pour des chiffons[^42] ».
 Finalement, le texte semble disséminer les indices de la mort prochaine de cette vie en train de prendre forme, en raison de « cette lutte pour la vie qui [fait] pousser les êtres sur le charnier de l’éternelle destruction[^43] », et pose en filigrane la fatuité humaine : « la foule n’était plus que poussière humaine [^44] », ce qui rappelle, sans conteste le «tu es poussière et tu retourneras en poussière» de la génèse.
 
+### Bibliographie
+
+LAROUSSE, Pierre. [Entrées « Bazar » et « Bazars (Les grands) »](https://gallica.bnf.fr/ark:/12148/bpt6k39804b/f506.image), *Grand Dictionnaire universel du XIXe siècle*, t. XVII, 2e supplément, 1878, p.503-504, (page consultée le 6 avril 2020).
+
+MITTERAND, Henri. [« Le "rêveur définitif" »](https://www.cairn.info/zola-tel-qu-en-lui-meme--9782130570820-page-107.htm), *Zola tel qu’en lui-même*, PUF, 2009, p. 107-124, (page consultée le 6 avril 2020).
+
+MITTERAND, Henri. [« Regard et modernité »](https://www.cairn.info/le-regard-et-le-signe--9782130397632-page-55.htm), *Le regard et le signe. Poétique du roman réaliste et naturaliste*, PUF, 1987, p. 57-74, (page consultée le 6 avril 2020).
+
+WOLFF, Albert (Ignotus). [« Les grands bazars »](https://gallica.bnf.fr/ark:/12148/bpt6k2777790.item), *Le Figaro*, 23 mars 1881, p.1, (page consultée le 6 avril 2020).
+
+ZOLA, Émile. *Au Bonheur des Dames*. Édition avec dossier, Paris, Gallimard-Flammarion, 2009, 567 p., (Les Rougon-Macquart).
 
 ### Notes de bas de page
 
@@ -185,15 +196,3 @@ Finalement, le texte semble disséminer les indices de la mort prochaine de cett
 [^43]: *Ibid.*, p. 443.
 
 [^44]: *Ibid.*, p. 314.
-
-### Bibliographie
-
-LAROUSSE, Pierre. [Entrées « Bazar » et « Bazars (Les grands) »](https://gallica.bnf.fr/ark:/12148/bpt6k39804b/f506.image), *Grand Dictionnaire universel du XIXe siècle*, t. XVII, 2e supplément, 1878, p.503-504, (page consultée le 6 avril 2020).
-
-MITTERAND, Henri. [« Le "rêveur définitif" »](https://www.cairn.info/zola-tel-qu-en-lui-meme--9782130570820-page-107.htm), *Zola tel qu’en lui-même*, PUF, 2009, p. 107-124, (page consultée le 6 avril 2020).
-
-MITTERAND, Henri. [« Regard et modernité »](https://www.cairn.info/le-regard-et-le-signe--9782130397632-page-55.htm), *Le regard et le signe. Poétique du roman réaliste et naturaliste*, PUF, 1987, p. 57-74, (page consultée le 6 avril 2020).
-
-WOLFF, Albert (Ignotus). [« Les grands bazars »](https://gallica.bnf.fr/ark:/12148/bpt6k2777790.item), *Le Figaro*, 23 mars 1881, p.1, (page consultée le 6 avril 2020).
-
-ZOLA, Émile. *Au Bonheur des Dames*. Édition avec dossier, Paris, Gallimard-Flammarion, 2009, 567 p., (Les Rougon-Macquart).
