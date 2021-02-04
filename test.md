@@ -1,6 +1,6 @@
 ---
 Date: février 2021
-layout: null
+layout: post
 ---
 
 ### page test
