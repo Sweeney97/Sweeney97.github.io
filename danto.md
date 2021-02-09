@@ -1,3 +1,10 @@
+---
+Auteur: Antoine Sweeney
+Lieu: Montréal
+Établissement: Université de Montréal
+Date: avril 2018
+---
+
 ### [L'art selon Danto](https://www.antoinesweeney.com/)
 
 Selon Danto, il existe des prédicats esthétiques spécifiques aux œuvres d’art.
