@@ -1,4 +1,4 @@
-## Antoine Sweeney
+## [Antoine Sweeney](www.antoinesweeney.com)
 antoine.sweeney{arobas}umontreal.ca
 
 Montréal - Rosemont
