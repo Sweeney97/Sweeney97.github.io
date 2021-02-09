@@ -32,7 +32,7 @@ Montréal - Rosemont
 - Stagiaire chez Atelier 10 - été 2018
 
    - Révision de fond et de forme des textes
-   - Vérification des faits (« fact-checking »)
+   - Vérification des faits 
    - Correction d’épreuves
    - Suivi des corrections
 
