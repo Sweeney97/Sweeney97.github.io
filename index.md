@@ -1,8 +1,8 @@
-### Antoine Sweeney -Site en construction-
+# Antoine Sweeney -Site en construction-
 
-#### - [Curriculum vitæ](https://www.antoinesweeney.com/CV)
+## - [Curriculum vitæ](https://www.antoinesweeney.com/CV)
 
-#### - Travaux d'université
+## - Travaux d'université
    - [*Dom Juan*: analyse de la déclamation de Sganarelle](https://www.antoinesweeney.com/declamation)
    - [Donne Elvire et Dircé: le tragique au féminin](https://www.antoinesweeney.com/tragique)
    - [*Eupalinos ou l'architecte*: compte rendu](https://www.antoinesweeney.com/eupalinos)
@@ -12,6 +12,6 @@
    - [Temps et espace dans *Le ravissement de Lol V. Stein*](https://www.antoinesweeney.com/ravissement)
    - [33e concours interuniversitaire de photographie](https://www.antoinesweeney.com/photo)
 
-#### - [À propos de moi](https://www.antoinesweeney.com/a-propos-de-moi)
+## - [À propos de moi](https://www.antoinesweeney.com/a-propos-de-moi)
 
-#### - [À propos de ce site](https://www.antoinesweeney.com/a-propos-du-site)
+## - [À propos de ce site](https://www.antoinesweeney.com/a-propos-du-site)
