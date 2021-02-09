@@ -4,7 +4,7 @@ Auteur: Antoine
 Établissement: Université de Montréal
 Lieu: Montréal
 ---
-# *Eupalinos ou l'architecte*: compte rendu
+# [*Eupalinos ou l'architecte*: compte rendu](https://www.antoinesweeney.com/)
 
 *Eupalinos ou l'Architecte* a tout d'un texte philosophique: dialogues pédagogiques entre deux philosophes éminents, réflexions sur l'art, la philosophie, la nature ainsi que nombre de concepts et définitions.
 Pourtant, le texte lui-même ne se réclame pas de la philosophie.
