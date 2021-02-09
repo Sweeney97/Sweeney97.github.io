@@ -17,7 +17,7 @@ Ce travail aborde superficiellement le contexte de l'œuvre, puis montre comment
 Paul Valéry nait en 1871 à Sète le 30 octobre 1971 dans une période transitoire, à la fin du Second Empire, au début de la Troisième République.
 Valéry termine une licence en droit en 1894, et s'installe ensuite dans Paris.
 Il travaille pour le ministère de la guerre quelques années, puis devient secrétaire.
-C'est vers les années 1917-1920 qu'il devient célèbre, brisant un long silence d'écriture de près de 20 ans en publiant *La jeune parque* ou encore *Le cimetière marin*; *L'Eupalinos* quant à lui est écrit en 1923.
+C'est vers les années 1917-1920 qu'il devient célèbre, brisant un long silence d'écriture de près de 20 ans en publiant *La jeune parque* ou encore *Le cimetière marin*; *Eupalinos* quant à lui est écrit en 1923.
 Il est élu à l'Académie française en 1925, et devient professeur du Collège de France en 1937.
 Sous l'Occupation, il fait preuve de résistance en prononçant un discours funèbre sur Bergson ou encore en refusant d'adresser des félicitations pour la rencontre entre Pétain et Hitler.
 Il décède à Paris en 1945, vers la fin de la guerre.
@@ -33,21 +33,21 @@ L'influence de Mallarmé sur Valéry fut importante tant comme auteur qu'ami; Ma
 Donc Valéry s'inscrit aussi dans le mouvement des symbolistes, puisqu'il accorde dans son écriture poétique une grande place non seulement à la forme et au rythme qui prime sur le sens, mais aussi au processus d'élaboration: « la composition d’un poème n’implique pas d’organisation préalable, elle s’impose peu à peu [à Valéry] dans l'obligation de remplir son cadre rythmique  [@pierrebarriere1974]; donc, à ce qui se rattache principalement à l'aspect technique.
 Il fut découragé à un moment de sa vie de ne pouvoir créer quelque chose d'aussi parfait que la musique de Wagner, dont il était l'admirateur, ce qui, encore une fois, démontre son attachement à une forme « pure ».
 
-### *L'Eupalinos ou l'Architecte*
-*L'Eupalinos* est écrit sous forme de dialogues entre deux protagonistes, Phèdre et Socrate.
+### *Eupalinos ou l'Architecte*
+*Eupalinos* est écrit sous forme de dialogues entre deux protagonistes, Phèdre et Socrate.
 Le texte fait environ une centaine de pages et ne comporte aucune didascalie ou aucune écriture en dehors des dialogues, il n'y a pas d'intervention d'un narrateur.
 L'histoire se déroule dans le monde des morts, peu de temps après la mort de Socrate: quoique publié au 20e siècle, Valéry tente de circonscrire son écriture afin de pasticher le style antique.
 Le texte travaille plusieurs problématiques, notamment la valeur de l'architecture et de la musique, ainsi que de la peinture et de la littérature, puis finalement de la philosophie.
-*L'Eupalinos* est donc un texte littéraire qui représente des philosophes, en utilisant le style platonicien, c'est-à-dire celui des dialogues à caractère pédagogique, où le lecteur peut suivre l'élaboration de la pensée et des arguments pas à pas.
+*Eupalinos* est donc un texte littéraire qui représente des philosophes, en utilisant le style platonicien, c'est-à-dire celui des dialogues à caractère pédagogique, où le lecteur peut suivre l'élaboration de la pensée et des arguments pas à pas.
 Seulement, le texte prend une distance critique par rapport aux philosophes, et par rapport à la philosophie en général, puisque les deux protagonistes développent qu'elle est vaine en comparaison de l'architecture ou de la musique.
 La situation est ironique, puisque Socrate est mis en scène disant des choses contraires à ce qu'il dit dans les écrits platoniciens, et cette démarche me semble proprement littéraire plutôt que philosophique.
 Le texte n'élabore pas un récit, dans le sens où aucune action n'est commise par les personnages sinon celle de parler. En sus, il n'y a ni quête au sens romanesque du terme (il y a probablement une quête du savoir) ni moteur diégétique. D'un autre côté, l'espace-temps (le monde des morts) du récit concorde parfaitement à ce point zéro de l'histoire.
-D'ailleurs, Socrate dit dans *L'Eupalinos*: « ne crois-tu pas que nous devions maintenant employer cet immense loisir que la mort nous abandonne, à nous juger nous-mêmes, et à nous rejuger infatigablement, reprenant, corrigeant, essayant d’autres réponses aux événements qui sont arrivés ; et cherchant, en somme, à nous défendre de l’inexistence par des illusions, comme font les vivants de leur existence ? » [@paulvalery1923].
+D'ailleurs, Socrate dit dans *Eupalinos*: « ne crois-tu pas que nous devions maintenant employer cet immense loisir que la mort nous abandonne, à nous juger nous-mêmes, et à nous rejuger infatigablement, reprenant, corrigeant, essayant d’autres réponses aux événements qui sont arrivés ; et cherchant, en somme, à nous défendre de l’inexistence par des illusions, comme font les vivants de leur existence ? » [@paulvalery1923].
 
 ### Philosophie et objet blanc
-Si l'on définit la philosophie par l'amour de la sagesse, ou encore par cette quête constante du savoir, cette posture qui refuse tout savoir préconçu, alors *L'Eupalinos* est un texte véritablement philosophique, avec en outre des qualités littéraires indéniables.
+Si l'on définit la philosophie par l'amour de la sagesse, ou encore par cette quête constante du savoir, cette posture qui refuse tout savoir préconçu, alors *Eupalinos* est un texte véritablement philosophique, avec en outre des qualités littéraires indéniables.
 Mais il est intéressant de voir comment le texte produit lui-même sa définition de la philosophie.
-Dans *L'Eupalinos*, la philosophie est décrite comme une connaissance portée au-delà du Tout, au-delà du réel, une connaissance trop prompte, qui s'enferme en soi-même, dans sa propre virtualité.
+Dans *Eupalinos*, la philosophie est décrite comme une connaissance portée au-delà du Tout, au-delà du réel, une connaissance trop prompte, qui s'enferme en soi-même, dans sa propre virtualité.
 En opposition, l'artiste pense ou ressent puis produit quelque chose issue de cette pensée, qui a quelque concordance avec le monde réel.
 Dans la hiérarchie artistique, l'architecture est placée en première place, puisqu'elle est obligatoirement fonctionnelle.
 Il ne pourrait exister de maison constituée d'idées pures.
