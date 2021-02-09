@@ -7,7 +7,7 @@ Date: avril 2020
 
 # [La représentation des grands magasin dans *Au bonheur des Dames*](https://www.antoinesweeney.com/)
 
-*Note : afin d’éviter toute confusion, le Bonheur renvoie au magasin, tandis qu’Au Bonheur des Dames, au roman.*
+<i>Note : afin d’éviter toute confusion, le Bonheur renvoie au magasin, tandis qu’</i>Au Bonheur des Dames<i>, au roman.</i>
 
 
 « Il ne me reste qu’à les coucher[^1] ».
