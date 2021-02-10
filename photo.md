@@ -1,6 +1,6 @@
 # [33^e^ concours de photographie interuniversitaire](https://www.antoinesweeney.com)
 
-###*Note: ces liens mènenent à l'extérieur du site*
+### *Note: ces liens mènenent à l'extérieur du site*
 
 
 - [Lien vers la page de la 33^e^ édition](https://interuniversitaire.ca/concours-interuniversitaire-de-photographie-et-de-bande-dessinee-2018-2019/)
