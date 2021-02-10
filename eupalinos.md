@@ -24,13 +24,13 @@ Il décède à Paris en 1945, vers la fin de la guerre.
 
 #### Époque
 L'homme qui entre dans le 19e siècle est bouleversé par plusieurs changements scientifiques.
-« [Au début du 19e], la science multiplie ses découvertes et leurs applications pratiques : la chimie qui tend à modifier toutes les relations de l’homme avec la matière modifie en même temps toutes les conditions de la vie; la thermodynamique et l’électricité sont des conquêtes essentielles qui, par l’introduction de la vitesse, la suppression de la distance, ont transformé complètement les rapports entre les hommes et les pays, mais aussi la constitution de chaque pays et de chaque individu » [@pierrebarriere1974].
-L'homme se tourne vers lui-même, cherchant sa part irréductible, celle irremplaçable par les machines, sa connaissance se porte alors en premier lieu sur sa conscience, non plus sur ses productions, mais sur le processus même de création [@pierrebarriere1974].
-On sait par exemple qu'à l'âge de 21 ans environ, Valéry tenta de concevoir un système qui schématisait le fonctionnement de l'esprit, et que ce système faisait appel à divers savoirs, dont l'électromagnétisme et la thermodynamique [@jarrety_valery_nodate].
+« [Au début du 19e], la science multiplie ses découvertes et leurs applications pratiques : la chimie qui tend à modifier toutes les relations de l’homme avec la matière modifie en même temps toutes les conditions de la vie; la thermodynamique et l’électricité sont des conquêtes essentielles qui, par l’introduction de la vitesse, la suppression de la distance, ont transformé complètement les rapports entre les hommes et les pays, mais aussi la constitution de chaque pays et de chaque individu » (Barriere 1974).
+L'homme se tourne vers lui-même, cherchant sa part irréductible, celle irremplaçable par les machines, sa connaissance se porte alors en premier lieu sur sa conscience, non plus sur ses productions, mais sur le processus même de création (Barriere 1974).
+On sait par exemple qu'à l'âge de 21 ans environ, Valéry tenta de concevoir un système qui schématisait le fonctionnement de l'esprit, et que ce système faisait appel à divers savoirs, dont l'électromagnétisme et la thermodynamique (JARRETY, s. d.).
 
 #### Littérature
-L'influence de Mallarmé sur Valéry fut importante tant comme auteur qu'ami; Mallarmé était un poète symboliste, mouvement littéraire qui met l'accent sur la forme [@noauthor_symbolisme_nodate].
-Donc Valéry s'inscrit aussi dans le mouvement des symbolistes, puisqu'il accorde dans son écriture poétique une grande place non seulement à la forme et au rythme qui prime sur le sens, mais aussi au processus d'élaboration: « la composition d’un poème n’implique pas d’organisation préalable, elle s’impose peu à peu [à Valéry] dans l'obligation de remplir son cadre rythmique  [@pierrebarriere1974]; donc, à ce qui se rattache principalement à l'aspect technique.
+L'influence de Mallarmé sur Valéry fut importante tant comme auteur qu'ami; Mallarmé était un poète symboliste, mouvement littéraire qui met l'accent sur la forme (« SYMBOLISME », s. d.).
+Donc Valéry s'inscrit aussi dans le mouvement des symbolistes, puisqu'il accorde dans son écriture poétique une grande place non seulement à la forme et au rythme qui prime sur le sens, mais aussi au processus d'élaboration: « la composition d’un poème n’implique pas d’organisation préalable, elle s’impose peu à peu [à Valéry] dans l'obligation de remplir son cadre rythmique (Barriere 1974); donc, à ce qui se rattache principalement à l'aspect technique.
 Il fut découragé à un moment de sa vie de ne pouvoir créer quelque chose d'aussi parfait que la musique de Wagner, dont il était l'admirateur, ce qui, encore une fois, démontre son attachement à une forme « pure ».
 
 ### *Eupalinos ou l'Architecte*
@@ -42,7 +42,7 @@ Le texte travaille plusieurs problématiques, notamment la valeur de l'architect
 Seulement, le texte prend une distance critique par rapport aux philosophes, et par rapport à la philosophie en général, puisque les deux protagonistes développent qu'elle est vaine en comparaison de l'architecture ou de la musique.
 La situation est ironique, puisque Socrate est mis en scène disant des choses contraires à ce qu'il dit dans les écrits platoniciens, et cette démarche me semble proprement littéraire plutôt que philosophique.
 Le texte n'élabore pas un récit, dans le sens où aucune action n'est commise par les personnages sinon celle de parler. En sus, il n'y a ni quête au sens romanesque du terme (il y a probablement une quête du savoir) ni moteur diégétique. D'un autre côté, l'espace-temps (le monde des morts) du récit concorde parfaitement à ce point zéro de l'histoire.
-D'ailleurs, Socrate dit dans *Eupalinos*: « ne crois-tu pas que nous devions maintenant employer cet immense loisir que la mort nous abandonne, à nous juger nous-mêmes, et à nous rejuger infatigablement, reprenant, corrigeant, essayant d’autres réponses aux événements qui sont arrivés ; et cherchant, en somme, à nous défendre de l’inexistence par des illusions, comme font les vivants de leur existence ? » [@paulvalery1923].
+D'ailleurs, Socrate dit dans *Eupalinos*: « ne crois-tu pas que nous devions maintenant employer cet immense loisir que la mort nous abandonne, à nous juger nous-mêmes, et à nous rejuger infatigablement, reprenant, corrigeant, essayant d’autres réponses aux événements qui sont arrivés ; et cherchant, en somme, à nous défendre de l’inexistence par des illusions, comme font les vivants de leur existence ? » (Valéry 1923).
 
 ### Philosophie et objet blanc
 Si l'on définit la philosophie par l'amour de la sagesse, ou encore par cette quête constante du savoir, cette posture qui refuse tout savoir préconçu, alors *Eupalinos* est un texte véritablement philosophique, avec en outre des qualités littéraires indéniables.
@@ -57,10 +57,10 @@ L'architecture et la musique peuvent incarner des lois et des formes sans figure
 Une notion sur laquelle le texte revient inlassablement est celle d'équivalence, et elle condense la pensée de l'auteur, et permet d'expliquer en d'autres mots cette hiérarchisation des modes d'expression de la pensée.
 L'équivalence est l'échange permanent, cette fusion même, entre le réel et le virtuel.
 La fusion parfaite est la nature: elle ne fait rien pour rien, la nature est nécessairement nécessaire en tout et pour tout.
-Pour reprendre les termes du texte, mais ce sera sans échapper à l'aspect pléonastique: « la nature naturante elle-même » [@paulvalery1923].
+Pour reprendre les termes du texte, mais ce sera sans échapper à l'aspect pléonastique: « la nature naturante elle-même » (Valéry 1923).
 La nature est une équivalence parfaite entre les principes et ce qui est fait, et l'artiste doit tendre vers cette perfection, quoiqu'impossible.
 Le philosophe, au contraire, est dans l'erreur, puisqu'il tente de tirer de la nature, de son expérience, une vérité intemporelle qui serait en dehors de cette même nature.
-Or, pour le texte, ce qui existe doit pouvoir mourir, et ce qui ne peut mourir n'est qu'inexistant: « Il en est ainsi dans tous les domaines, à l’exception de celui des philosophes, dont c’est le grand malheur qu’ils ne voient jamais s’écrouler les univers qu’ils imaginent, puisque enfin ils n’existent pas » [@paulvalery1923].
+Or, pour le texte, ce qui existe doit pouvoir mourir, et ce qui ne peut mourir n'est qu'inexistant: « Il en est ainsi dans tous les domaines, à l’exception de celui des philosophes, dont c’est le grand malheur qu’ils ne voient jamais s’écrouler les univers qu’ils imaginent, puisque enfin ils n’existent pas » (Valéry 1923).
 Or l'équivalence, celle que semble fuir la philosophie, mais que l'art doit chercher, créer une certaine résistance au temps, mais non une intemporalité: l'art peut mourir et c'est là le signe de sa réelle beauté.
 
 J'en viens donc à parler de l'objet blanc, qui se présente comme un pivot du texte, un moment charnière.
@@ -70,7 +70,7 @@ Le texte met en place plusieurs dispositifs pour figurer l'indéfini: l'objet ap
 Elle est aussi ce lieu où se croisent le fini (la terre, statique) et l'indéfini (la mer, le mouvement).
 Pivot donc dans la structure du texte (milieu du texte), dans l'espace du récit (plage) et dans le temps du récit (adolescence), cet objet n'est certainement pas anodin.
 Il permet notamment au texte d'aborder la notion d'infini: « mais peut-être, ce n'était que le fruit d’un temps infini...
-Moyennant l’éternel travail des ondes [cet objet pourrait être plusieurs choses], les siècles ne coûtant rien, qui en dispose, change ce qu’il veut en ce qu’il veut » [@paulvalery1923].
+Moyennant l’éternel travail des ondes [cet objet pourrait être plusieurs choses], les siècles ne coûtant rien, qui en dispose, change ce qu’il veut en ce qu’il veut » (Valéry 1923).
 Le texte discrédite l'infini, car en son sein tout s'annule, se tempère, et rien n'est singulier. Au contraire, l'art prend place dans un espace nécessairement fini, concret.
 Et l'homme, par son acte créateur, abrège les millers de siècles du hasard, abrège la nature, en construisant il impose ses idées à la matière, il fabrique par abstraction, suivant ses conditions arbitraires.
 En opposition, la nature ne crée que par nécessité, dans une parfaite concordance substance-forme-foncion.
@@ -96,14 +96,14 @@ La parole qui doit incarner des fonctions, des relations, un transfert entre les
 Cette conception de la langue implique une certaine rigueur, une certaine exactitude; pour reprendre les mots du texte, le discours équivaut à un calcul. D'autre part, une réflexion plus générale sur l'art se dégage du texte.
 L'art devrait être une recherche de concordance, d'équivalence, entre forme-substance-fonction, ayant pour modèle la nature.
 Mais il y a aussi des réflexions philosophiques qui émergent du texte.
-On peut par exemple apercevoir un constat métaphysique: « l’univers est l’effet de quelque acte ; cet acte lui-même, d’un Être ; et d’un besoin, d’une pensée, d’une science et d’une puissance qui appartiennent à cet Être » [@paulvalery1923].
+On peut par exemple apercevoir un constat métaphysique: « l’univers est l’effet de quelque acte ; cet acte lui-même, d’un Être ; et d’un besoin, d’une pensée, d’une science et d’une puissance qui appartiennent à cet Être » (Valéry 1923).
 En effet, puisqu’il y a équivalence dans la nature entre substance, forme et fonction, la nature aurait une concordance si parfaite qu’elle se serait engendrée réciproquement, l’idée de la vie créant la vie et lui participant en retour: la pensée de la vie, c’est la vie même.
-Elle n'aurait d'autre visée qu'elle-même: « [la nature est] sans visée particulière »[@paulvalery1923].
+Elle n'aurait d'autre visée qu'elle-même: « [la nature est] sans visée particulière »(Valéry 1923).
 Mais le texte, ultimement, dénigre la philosophie et lui préfère plutôt l'art.
 La philosophie ne crée pas du mouvement, de l'équivalence, de la résistance au temps.
 Elle cristallise, s'enferme dans un virtuel néant, et développe des concepts intemporels, donc inexistants.
 À cela, le texte l'oppose aux arts non figuratifs, qui incarnent directement, sans biais, les formes et lois; structure et texture mêmes de l'univers.
-Mais pour que ces lois composent une forme, il faut que la proposition « soit obéie de tous les moments [d'un] mouvement de telle sorte que toutes les parties de la figure soient une me chose dans la pensée, quoique différente dans l’étendue »[@paulvalery1923].
+Mais pour que ces lois composent une forme, il faut que la proposition « soit obéie de tous les moments [d'un] mouvement de telle sorte que toutes les parties de la figure soient une me chose dans la pensée, quoique différente dans l’étendue »(Valéry 1923).
 Au fond, les consignes de ce travail contenaient en germe ce texte, qui n’est que ces même consignes appliquées à mon esprit, qui les applique à un objet, ici *L'Eupalinos*.
 
 ### Bibliographie
