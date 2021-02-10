@@ -1,6 +1,13 @@
-L’ouvrage analysé dans le présent travail est Le ravissement de Lol V. Stein.
-Afin d’éviter tout alourdissement, les citations de cette œuvre seront faites dans le corps de l’ouvrage.
-Pour la référence complète du ravissement, voir la bibliographie.
+---
+Lieu: Montréal
+Auteur: Antoine Sweeney
+Établissement: Université de Montréal
+Date: décembre 2019
+---
+
+<i>L’ouvrage analysé dans le présent travail est </i>Le ravissement de Lol V. Stein.
+<i>Afin d’éviter tout alourdissement, les citations de cette œuvre seront faites dans le corps de l’ouvrage.
+Pour la référence complète du </i>ravissement<i>, voir la bibliographie.</i>
 
 Parler du temps et de l’espace comme deux choses distinctes semble problématique.
 D’ailleurs, le concept physique d’espace-temps entrevoit le temps et l’espace comme une seule entité.
