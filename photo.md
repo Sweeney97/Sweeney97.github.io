@@ -2,7 +2,7 @@
 
 ### *Note: ces liens mènenent à l'extérieur du site*
 
-</br>
+<br />
 
 - [Lien vers la page de la 33<sup>e</sup> édition](https://interuniversitaire.ca/concours-interuniversitaire-de-photographie-et-de-bande-dessinee-2018-2019/)
 
