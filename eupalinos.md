@@ -98,7 +98,7 @@ L'art devrait être une recherche de concordance, d'équivalence, entre forme-su
 Mais il y a aussi des réflexions philosophiques qui émergent du texte.
 On peut par exemple apercevoir un constat métaphysique: « l’univers est l’effet de quelque acte ; cet acte lui-même, d’un Être ; et d’un besoin, d’une pensée, d’une science et d’une puissance qui appartiennent à cet Être » (Valéry 1923).
 En effet, puisqu’il y a équivalence dans la nature entre substance, forme et fonction, la nature aurait une concordance si parfaite qu’elle se serait engendrée réciproquement, l’idée de la vie créant la vie et lui participant en retour: la pensée de la vie, c’est la vie même.
-Elle n'aurait d'autre visée qu'elle-même: « [la nature est] sans visée particulière »(Valéry 1923).
+Elle n'aurait d'autre visée qu'elle-même: « [la nature est] sans visée particulière » (Valéry 1923).
 Mais le texte, ultimement, dénigre la philosophie et lui préfère plutôt l'art.
 La philosophie ne crée pas du mouvement, de l'équivalence, de la résistance au temps.
 Elle cristallise, s'enferme dans un virtuel néant, et développe des concepts intemporels, donc inexistants.
