@@ -1,4 +1,4 @@
-# Antoine Sweeney -Site en construction-
+# Antoine Sweeney 
 
 ### - [Curriculum vitæ](https://www.antoinesweeney.com/CV)
 
