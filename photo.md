@@ -1,6 +1,5 @@
 # [33<sup>e</sup> édition du concours de photographie interuniversitaire](https://www.antoinesweeney.com)
 
-### *Note: ces liens mènenent à l'extérieur du site*
 
 <br />
 
