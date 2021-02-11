@@ -5,15 +5,15 @@ Lieu: Montréal
 Date: hiver 2019
 ---
 
-# [Analyse de la déclamation de Sganarelle dans Dom Juan](https://www.antoinesweeney.com)
+# [Analyse de la déclamation de Sganarelle dans *Dom Juan*](https://www.antoinesweeney.com)
 
 « Si tant est qu’il existe des invariants de la déclamation classique, ils relèvent probablement d’une opposition plus large entre passions violentes et passions contrôlées[^1] ».
-Dans Dom Juan, cette opposition traverse la pièce.
+Dans *Dom Juan*, cette opposition traverse la pièce.
 En effet, le personnage éponyme incarne en lui cette tension du théâtre classique entre passion libérée et passion contenue.
-Dom Juan un homme qui se fie qu’à son jugement tout au long de la pièce (je crois que deux et deux font quatre et quatre et quatre font huit dit-il à son valet qui lui demande s’il croit en Dieu), tant et si bien qu’il renie Dieu et sa raison le conduit vers l’hédonisme : il préfère l’expérience du réel et la discipline de la raison au lieu de la foi...
-ainsi qu’une sexualité libérée à la monogamie. C’est aussi un antihéros, puisque la raison devrait mener, selon la pensée de l’époque, à la bienséance, à la vertu, à la contenance des passions.
+Dom Juan est un homme qui se fie qu’à son jugement tout au long de la pièce (« je crois que deux et deux font quatre et quatre et quatre font huit » dit-il à son valet qui lui demande s’il croit en Dieu), tant et si bien qu’il renie Dieu et sa raison le conduit vers l’hédonisme : il préfère l’expérience du réel et la discipline de la raison au lieu de la foi...
+ainsi qu’une sexualité libérée de la monogamie. C’est aussi un antihéros, puisque la raison devrait mener, selon la pensée de l’époque, à la bienséance, à la vertu, à la contenance des passions.
 Par sa capacité à se contenir en discourant, à ne pas s’emporter facilement, par ses réflexions pointues, et du fait qu’il repose ses actions sur des réflexions, Dom Juan incarne l’idéal classique, et pourtant, nous le savons bien, il en est l’antithèse par ses actes.
-Je me penche dans ce travail sur un exemple rationnel d’argumentation dans Dom Juan, acte 4, scène 2, qui est suivi par un contre-exemple de Sganarelle, avant d’en relever les conséquences déclamatoires et je termine par une brève analyse.
+Je me penche dans ce travail sur un exemple rationnel d’argumentation dans *Dom Juan*, acte 4, scène 2, qui est suivi par un contre-exemple de Sganarelle, avant d’en relever les conséquences déclamatoires et je termine par une brève analyse.
 
 *Note : l’extrait analysé (et son découpage) se trouve en annexe.*
 
@@ -23,17 +23,17 @@ La tirade de Dom Juan est dénudée de pathos, car elle ne contient ni point de 
 Elle contient cependant une interrogation, mais celle-ci est tempérée, j'y reviendrai.
 C’est donc une tirade purement rationnelle, de type délibératif, puisqu’elle oppose l’utile et l’inutile[^2]: il est utile de revêtir le masque de l’hypocrisie et serait inutile de ne pas le faire.
 Autre preuve que nous sommes en présence d’un discours épidictique, Dom Juan fait référence à l’avenir[^3], en utilisant plus de 15 verbes au futur.
-Ce personnage introduit son discours sans gêne et de plain-pied avec un captatio benevolentia pour le moins importun : « Il n'y a plus de honte maintenant à cela : l'hypocrisie est un vice à la mode, et tous les vices à la mode passent pour vertus; le personnage d'homme de bien est le meilleur de tous les personnages qu'on puisse jouer aujourd'hui, et la profession d'hypocrite a de merveilleux avantages[^4]. » Introduction qui aura pour effet de plutôt repousser son auditeur (Sganarelle), fidèle croyant.
+Ce personnage introduit son discours sans gêne et de plain-pied avec un *captatio benevolentia* pour le moins importun : « Il n'y a plus de honte maintenant à cela : l'hypocrisie est un vice à la mode, et tous les vices à la mode passent pour vertus; le personnage d'homme de bien est le meilleur de tous les personnages qu'on puisse jouer aujourd'hui, et la profession d'hypocrite a de merveilleux avantages[^4]. » Introduction qui aura pour effet de plutôt repousser son auditeur (Sganarelle), fidèle croyant.
 Ensuite, Dom Juan enchaine avec une narration qui décrit l’état de fait de l’hypocrisie chez les hommes, il utilisera pour ce faire force d’exemples en « on » (l’étymologie de ce pronom est, à titre de rappel, l’homme, d’où sa valeur générale).
 Cette narration se termine lorsqu’il bascule au « je », amorçant la confirmation de son discours, confirmation qui se termine par « enfin c'est là le vrai moyen de faire impunément tout ce que je voudrai[^5]. »
-Ensuite, Dom Juan fait une digression dans son discours, il raconte (car la digression est un récit [^6]) tout ce qu’il ferait alors étant hypocrite, ce récit au futur projette le style délibératif dans un espace virtuel d’intelligibilité ou l’utile est démontré, mis en application, presque effectif.
-Finalement, la péroraison, assez courte, clôt succinctement son discours : « C'est ainsi qu'il faut profiter des foiblesses des hommes, et qu'un sage esprit s'accommode aux vices de son siècle.[^7] »
+Ensuite, Dom Juan fait une digression dans son discours, il raconte (car la digression est un récit[^6]) tout ce qu’il ferait alors étant hypocrite, ce récit au futur projette le style délibératif dans un espace virtuel d’intelligibilité ou l’utile est démontré, mis en application, presque effectif.
+Finalement, la péroraison, assez courte, clôt succinctement son discours : « C'est ainsi qu'il faut profiter des foiblesses des hommes, et qu'un sage esprit s'accommode aux vices de son siècle[^7]. »
 Étant donné l’absence de noblesse du sujet, on pourra qualifier ce discours de style moyen[^8] et malgré la forte impression rationnelle du texte, l’argumentaire de Dom Juan y est très pauvre.
 Pour utiliser des termes plus précis, c’est l’argumentaire artificiel qui est absent de sa tirade, et c’est l’argumentaire naturel qui la compose entièrement[^9].
-En effet, Dom Juan n’utilise pas de type particulier d’argumentation, il décrit une société des hommes corrompue, viciée, puis tire la conclusion logique qu’il doit en faire de même afin de s’y fondre, phrase qu’explicite sa péroraison (citée ci-dessus) et clarifie l’essentiel de sa pensée.
+En effet, Dom Juan n’utilise pas de type particulier d’argumentation, il décrit une société d'hommes corrompus, viciée, puis tire la conclusion logique qu’il doit en faire de même afin de s’y fondre, phrase qu’explicite sa péroraison (citée ci-dessus) et clarifie l’essentiel de sa pensée.
 
 À cela, Sganarelle ne peut rester muet.
-Puisque rien ne semble toucher son maitre, ni les émotions des femmes qu’il maltraite ou situations embarrassantes, ni les conseils qu’il reçoit d’autrui, le valet se décide à « jouer » sur le terrain de son maitre : l’argumentation.
+Puisque rien ne semble toucher son maitre, ni les émotions des femmes qu’il maltraite ou les situations embarrassantes, ni les conseils qu’il reçoit d’autrui, le valet se décide à « jouer » sur le terrain de son maitre : l’argumentation.
 Sganarelle réplique avec un discours qui prend en pied de nez celui de son maitre, discours de style épidictique, puisqu’il tente de le convaincre[^10], et d’un style moyen, car il s’agit encore ici d’argumentation[^11].
 D’emblée son discours argumentatif est faussé, car porte la marque d’une forte émotion : « Ô ciel! qu’entend-je ici?[^12] »
 L’exclamation en plus de l’interrogation étant une double marque du pathos.
@@ -69,12 +69,12 @@ La seule marque de pathos de son discours, l’interrogation, sert à « éclair
 Pour son valet, la déclamation pourrait être à l’image de son argumentation : incorrectement utilisée. L’exorde, elle, est nécessairement marqué par le pathos.
 Pour l’interrogation par exemple, on peut supposer qu’elle est prononcée d’une voix plaintive, mais ferme[^22].
 La narration pourrait être précipitée, et la confirmation récitée d’un ton égal, trop rapidement aussi, cela sachant que la narration doit être déclamée clairement afin d’être bien entendue, et la confirmation en augmentant le ton graduellement.
-Certains du discours du valet sont des mots emphatiques, et pourraient nécessiter une prononciation marquée[^23] : hypocrite, abomination, damné et diable par exemple, mots tous contenus dans l’exorde et la péroraison, et qui attaquent directement Dom Juan, alors qu’ailleurs dans la pièce Sganarelle peine à lui dire en face ce qu’il pense de son maitre.
+Certains mots du discours du valet sont des mots emphatiques, et pourraient nécessiter une prononciation marquée[^23] : hypocrite, abomination, damné et diable par exemple, mots tous contenus dans l’exorde et la péroraison, et qui attaquent directement Dom Juan, alors qu’ailleurs dans la pièce Sganarelle peine à lui dire en face ce qu’il pense de son maitre.
 On sait que, selon Grimarest, un valet demande de l’inégalité dans les tons et quantités[^24].
 Dans l’ensemble de sa réplique donc, Sganarelle illustrerait en plus par sa déclamation qu’il est incapable d’articuler sa pensée, ne maitrisant pas la rhétorique par sa voix et ses gestes.
 D’ailleurs pour les gestes, il est amusant de penser comment Sganarelle appuierait sa chaine cause-conséquence: un discours aussi ridiculement long ne peut que venir qu’avec des gestes drolatiques ou maladroits.
 De manière générale, une certaine colère anime Sganarelle.
-Cette colère doit être murmurée fortement[^25], car le valet est en position d’infériorité vis- à-vis son maitre, mêlée d’indignation puisque Sganarelle est excité par le désir d’empêcher Dom Juan de commettre le mal, ainsi que par le déplaisir de le voir sous les honneurs alors qu’il devrait être honni[^26] (ce que permet la projection dans le futur qu’avec faite Dom Juan).
+Cette colère doit être murmurée fortement[^25], car le valet est en position d’infériorité vis- à-vis son maitre, mêlée d’indignation puisque Sganarelle est excité par le désir d’empêcher Dom Juan de commettre le mal, ainsi que par le déplaisir de le voir sous les honneurs alors qu’il devrait être honni[^26] (ce que permet la projection dans le futur qu’avait faite Dom Juan).
 On pourrait penser que le serment prononcé par Sganarelle lors de la péroraison, partie généralement prononcée avec plus de verve étant le point culminant de sa tirade, serait prononcé d’un ton éclatant, car « il est prononcé par qui veut assurer la vérité[^27] ».
 On pourrait supposer que Sganarelle s’exclame d’une exclamation de crainte ou de peur, ces deux dernières demandent un ton plus élevé qu’une exclamation ordinaire[^28] (au début de l’exorde).
 Peut-être qu’un peu d’audace se mêle au discours de Sganarelle, mais étant donné sa position, elle ne sera pas hautaine, mais à tout le moins d’une voix ferme[^29] (et peut-être mal assurée en raison de son personnage et du genre de la pièce), donc médiocrement ferme, et ce, lors de son exorde.
@@ -94,14 +94,14 @@ La figure du bon croyant est incarnée par Done Elvire et Sganarelle.
 Or, ni un ni l’autre n’incarnent l’intelligence, car elle revient à Dom Juan.
 L’intelligence s’oppose à l’amour christique de Done Elvire, et l’échange entre Sganarelle et son maitre illustre le fait que le bon croyant ne peut s’élever contre le libertinage par l’intelligence de sa rhétorique.
 En fait, on pourrait presque s’aventurer à parler de la faillite de la raison: elle ne peut défaire l’hypocrisie ou le libertinage.
-Réfléchir au contraire, ce sera au contraire abonder en ce sens.
+Réfléchir, ce sera au contraire abonder en ce sens.
 Pourtant, on le sait, cette conduite mène à la damnation.
 Le pathos prend ici une valeur rédemptrice, ce qui est aux antipodes de la pensée de l’époque.
 Le « oh ciel » de Sganarelle contient en germe tous ces réseaux de tensions : un homme simple, mais sensible, touché par des événements tragiques, et ne pouvant articuler ces dépits par la raison, car alors il se ridiculise.
 Cette confrontation dans l’extrait analysé, c’est celle d’un homme intelligent qui fait peut d’effort pour articuler son discours, car tout existe déjà à sa portée contre un homme sot qui tire le diable par la queue pour construire du sens, mais qui n’y parvient pas, car il enferme sa raison en elle-même, dans un argumentaire vide de référent concret.
 La déclamation de cet extrait peut donc refléter ou aider à illustrer ces oppositions : d’un côté un homme libertin, vil par ses actes, brillant par son esprit, tour à tour noble, intelligent ou bas, qui prône par la raison exactement le contraire de ce que la raison devrait prôner.
 D’un autre un homme sot, de basse condition, mais sensible et touché par Dieu, témoin du pathétique de la situation, qui rend comme il peut ce combat perdu d’avance sur le terrain de la rhétorique.
-D’une manière plus large, ces oppositions peuvent trouver écho dans la pensée générale de Molière, par exemple avec le Tartuffe ou L’École des femmes, où l’hypocrisie prend corps dans la manipulation du langage, et la réelle valeur apparaît par les actes.
+D’une manière plus large, ces oppositions peuvent trouver écho dans la pensée générale de Molière, par exemple avec *Tartuffe* ou *L’École des femmes*, où l’hypocrisie prend corps dans la manipulation du langage, et la réelle valeur apparaît par les actes.
 
 ### Conclusion
 
@@ -117,12 +117,12 @@ En effet, nous l’avons remarqué dans le présent travail, la déclamation cor
 À l’inverse, la mauvaise articulation du discours pourrait s’accompagner pour le valet, par une mauvaise déclamation, qui renforcerait l’écart déjà présent sur le plan textuel entre les deux personnages.
 Elle rend aussi, part ce contraste, plus pathétique le vain essai de la foi à s’ériger par la raison, où elle se confine dans le pathos, dont son plus fort représentant, l’amour, est incarné par Done Elvire.
 Si Dom Juan est une comédie, son sujet n’a rien de drôle, et comme d’autres comédies de Molière, il est facile de comprendre pourquoi la pièce fut bannie à l’époque.
-Pour conclure, comme mentionnée dans la brève analyse, cette opposition entre foi et raison se trouve de manière plus générale dans le théâtre de Molière sous cette forme : la fausseté des mots versus la vérité des actes.
+Pour conclure, comme mentionnée dans la brève analyse, cette opposition entre foi et raison se trouve de manière plus générale dans le théâtre de Molière sous cette forme : la fausseté des mots *versus* la vérité des actes.
 Comme quoi avoir de l’esprit et bien parler n’est en rien une garantie de probité.
 
 ### Anexe
 
-Extrait de la page 105 à 108, De Molière, Dom Juan, *opt. cit.*
+MOLIÈRE. *Dom Juan*. Paris, Flammarion et la Librairie des bibliophiles, 1891, p. 105-108 (gallica.bnf.fr).
 
 ##### Dom Juan
 
