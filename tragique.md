@@ -235,11 +235,11 @@ VOISINE, Nive. « [Jansénisme](https://www.thecanadianencyclopedia.ca/fr/articl
 
 [^6]: BOVET, Jeanne. *FRA 2223: Formes dramatiques*, hiver 2020, Université de Montréal.
 
-[^7]:  VERNANT, Jean-Pierre et Pierre VIDAL-NAQUET. *Mythe et tragédie en Grèce ancienne*, Paris, La Découverte, 2001 [1972], p. 78-82.
+[^7]: VERNANT, Jean-Pierre et Pierre VIDAL-NAQUET. *Mythe et tragédie en Grèce ancienne*, Paris, La Découverte, 2001 [1972], p. 78-82.
 
 [^8]: LAZARIDÈS, Alexandre. « Tragique et tragédie », *Jeu*, No 68, 1993, p. 31.
 
-[^9]: Jeanne Bovet, *Opt. Cit*.
+[^9]: Bovet, *Opt. Cit*.
 
 [^10]: RIBARD Dinah et Alain VIALA. *Le tragique*, Paris, Gallimard, 2002, p. 209-210.
 
@@ -253,9 +253,9 @@ VOISINE, Nive. « [Jansénisme](https://www.thecanadianencyclopedia.ca/fr/articl
 
 [^15]: Aristote, *opt. cit.*
 
-[^16]: Dinah Ribard et Alain Viala, *opt. cit.*, p. 325.
+[^16]: Ribard et Viala, *opt. cit.*, p. 325.
 
-[^17]: Alexandre Lazaridès, *opt. cit.,* p. 32.
+[^17]: Lazaridès, *opt. cit.,* p. 32.
 
 [^18]: CAMUS, Albert. « Sur l'avenir de la tragédie » [1955], dans *Théâtre, récits, nouvelles*, Paris, Gallimard, « Bibliothèque de la Pléiade », 1974, p. 1706-1709.
 
@@ -263,16 +263,16 @@ VOISINE, Nive. « [Jansénisme](https://www.thecanadianencyclopedia.ca/fr/articl
 
 [^20]: DE ROMILLY, Jacqueline. *La tragédie grecque*, Paris, PUF, 1970.
 
-[^21]: Jeanne Bovet, *opt. cit.*
+[^21]: Bovet, *opt. cit.*
 
 [^22]: Aristote, *opt. cit.*
 
-[^23]: Jeanne Bovet, *opt. cit.*
+[^23]: Bovet, *opt. cit.*
 
 [^24]: BOVET, Jeanne. *Tragédie et collectivité : le chœur antique*, PDF, hiver 2020, p. 3.
 
 [^25]: OMESCO, Ion. *La métamorphose de la tragédie*, Paris, PUF, 1978, p. 27.
 
-[^26]: Jeanne Bovet, *opt. cit.*
+[^26]: Bovet, *opt. cit.*
 
 [^27]: SRIBNAI, Judith. *FRA 2110 : Littérature française du 17<sup>e</sup> siècle*, automne 2019, Université de Montréal.
