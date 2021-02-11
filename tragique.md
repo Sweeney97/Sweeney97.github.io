@@ -5,6 +5,8 @@ Date: avril 2020
 Lieu: Montréal
 ---
 
+# [Donne Elvire et Dircé : le tragique au féminin](https://www.antoinesweeney.com)
+
 Les tragédies font offices de modèles sociétaux, tant durant l'Antiquité que durant l'Ancien Régime.
 Or, il arrive que la tragédie sorte don son cadre pour déborder; il sera alors question du tragique, et si la tragédie est nécessairement tragique, il peut arriver que le tragique se trouve dans une comédie par exemple.
 Le tragique sert à aménager un espace de réflexion collective sur le destin et la condition humaine; à cet égard, il est intéressant de se pencher sur la femme tragique, afin de voir comment elle peut incarner un idéal sociétal.
@@ -185,20 +187,17 @@ CORNEILLE. *Œdipe,* Théâtre III, Paris, Gallimard-Flammarion, 2006 [1659], p.
 
 #### Corpus théorique
 
+ARISTOTE, *Poétique*, traduction de J. Hardy, Paris, Gallimard, coll. « Tel », 1996 [1990 ; 1969].
+
+BATTEUX, Charles. « De la tragédie », *Cours de Belles-Lettres ou Principes de littérature*, Paris, Casterman, 1861 [1774], p. 60.
+
 BERVEILLER, Michel. « [Don Juan](http://www.universalis-edu.com/encyclopedie/don-juan/) », *Encyclopӕdia Universalis*, (page consultée le 26 avril 2020).
 
 BIET, Christian. « [Dom Juan, Molière -- Fiche de lecture](http://www.universalis-edu.com/encyclopedie/dom-juan-moliere/) », *Encyclopӕdia Universalis*, consultée le 26 avril 2020).
 
-BOVET, Jeanne. *Cours 7,* PDF, 25 mars 2020, 7 p.
+BOVET, Jeanne. *FRA 2223: Formes dramatiques*, hiver 2020, Université de Montréal.
 
-BOVET, Jeanne. *Cours 8*, PDF, 1^er^ avril 2020, 9 p.
-
-BOVET, Jeanne. *La tragédie grecque -- Citations*, PDF, hiver 2020, 11 p.
-
-BOVET, Jeanne. *Tragédie et collectivité : le chœur antique,* PDF, hiver
-2020, 4 p.
-
-BOVET, Jeanne. *Tragédie et tragique au XX^e^ siècle -- Citations*, PDF, hiver 2020, 9 p.
+CAMUS, Albert. « Sur l'avenir de la tragédie » [1955], dans *Théâtre, récits, nouvelles*, Paris, Gallimard, « Bibliothèque de la Pléiade », 1974, p. 1706-1709.
 
 CHAPUIS, Nicolas. « [Qui sont les jésuites?](https://www.lemonde.fr/europe/article/2013/03/14/qui-sont-les-jesuites_1847826_3214.html) », *Le Monde*, 14 mars 2013 (page consultée le 26 avril 2020).
 
@@ -206,9 +205,19 @@ CNRTL. [*Tragi-comédie*](https://www.cnrtl.fr/definition/tragi-com%C3%A9die), (
 
 DANDREY, Patrick. « [Française Littérature, XVII^e^ s.](http://www.universalis-edu.com/encyclopedie/litterature-francaise-xviie-s/) », *Encyclopӕdia Universalis*, (page consultée le 26 avril 2020).
 
+ DE ROMILLY, Jacqueline. *La tragédie grecque*, Paris, PUF, 1970.
+
 LAZARIDÈS, Alexandre. « [Tragique et tragédie](https://www.erudit.org/fr/revues/jeu/1993-n68-jeu1071473/29264ac/) », *Jeu*, N^o^ 68, 1993, p. 31-46, (page consultée le 26 avril 2020).
 
 MOLIÈRE. [*Le festin de pierre ou l'athée foudroyé*](https://gallica.bnf.fr/ark:/12148/bpt6k72652s/f5.image.r=le%20festin%20de%20pierre), Paris, 1679, 76 p., (page consultée le 26 avril 2020).
+
+OMESCO, Ion. *La métamorphose de la tragédie*, Paris, PUF, 1978, p. 27.
+
+RIBARD Dinah et Alain VIALA. *Le tragique*, Paris, Gallimard, 2002.
+
+SRIBNAI, Judith. *FRA 2110 : Littérature française du 17e siècle*, automne 2019, Université de Montréal.
+
+VERNANT Jean-Pierre et Pierre VIDAL-NAQUET. *Mythe et tragédie en Grèce ancienne*, Paris, La Découverte, 2001 [1972], p. 78-82.
 
 VOISINE, Nive. « [Jansénisme](https://www.thecanadianencyclopedia.ca/fr/article/jansenisme) », *L'encyclopédie canadienne*, 16 décembre (page consultée le 26 avril 2020).
 
