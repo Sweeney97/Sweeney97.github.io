@@ -4,7 +4,7 @@
 
 Le web participe de cette idée de démocratisation de l’information.
 Or, la démocratisation n’est pas que l’accès à une ressource, mais la possibilité de se l’approprier, de la comprendre.
-Dans cet optique, tous les sites web «artisanaux» devraient inclure une section sur la manière dont ils furent créés, afin que chacun puisse saisir à son tour le fonctionnement du médium et comment l’information s’y inscrit.
+Dans cette optique, tous les sites web «artisanaux» devraient inclure une section sur la manière dont ils furent créés, afin que chacun puisse saisir à son tour le fonctionnement du médium et comment l’information s’y inscrit.
 
 ### Utiliser GitHub pour créer un site en quelques minutes
 
