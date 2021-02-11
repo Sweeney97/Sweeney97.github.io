@@ -1,3 +1,10 @@
+---
+Auteur: Antoine Sweeney
+Lieu: Montréal
+Établiseement: Université de Montréal
+Date: hiver 2019
+---
+
 # [Analyse de la déclamation de Sganarelle dans Dom Juan](https://www.antoinesweeney.com)
 
 « Si tant est qu’il existe des invariants de la déclamation classique, ils relèvent probablement d’une opposition plus large entre passions violentes et passions contrôlées[^1] ».
