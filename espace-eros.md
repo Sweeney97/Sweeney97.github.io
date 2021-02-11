@@ -1,4 +1,4 @@
-# [Espace et Eros: analyse de deux œuvres du Moyen Âge](https://www.antoinesweeney.com/)
+# [Espace et Eros dans la littérature du Moyen Âge](https://www.antoinesweeney.com/)
 
 ### Introduction
 
