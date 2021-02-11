@@ -239,7 +239,7 @@ VOISINE, Nive. « [Jansénisme](https://www.thecanadianencyclopedia.ca/fr/articl
 
 [^8]: LAZARIDÈS, Alexandre. « Tragique et tragédie », *Jeu*, No 68, 1993, p. 31.
 
-[^9]: Bovet, *Opt. Cit*.
+[^9]: Bovet, *opt. Cit*.
 
 [^10]: RIBARD Dinah et Alain VIALA. *Le tragique*, Paris, Gallimard, 2002, p. 209-210.
 
