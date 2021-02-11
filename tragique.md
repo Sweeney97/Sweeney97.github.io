@@ -203,11 +203,11 @@ CHAPUIS, Nicolas. « [Qui sont les jésuites?](https://www.lemonde.fr/europe/art
 
 CNRTL. [*Tragi-comédie*](https://www.cnrtl.fr/definition/tragi-com%C3%A9die), (page consultée le 26 avril 2020).
 
-DANDREY, Patrick. « [Française Littérature, XVII^e^ s.](http://www.universalis-edu.com/encyclopedie/litterature-francaise-xviie-s/) », *Encyclopӕdia Universalis*, (page consultée le 26 avril 2020).
+DANDREY, Patrick. « [Française Littérature, XVII<sup>e</sup>s.](http://www.universalis-edu.com/encyclopedie/litterature-francaise-xviie-s/) », *Encyclopӕdia Universalis*, (page consultée le 26 avril 2020).
 
  DE ROMILLY, Jacqueline. *La tragédie grecque*, Paris, PUF, 1970.
 
-LAZARIDÈS, Alexandre. « [Tragique et tragédie](https://www.erudit.org/fr/revues/jeu/1993-n68-jeu1071473/29264ac/) », *Jeu*, N^o^ 68, 1993, p. 31-46, (page consultée le 26 avril 2020).
+LAZARIDÈS, Alexandre. « [Tragique et tragédie](https://www.erudit.org/fr/revues/jeu/1993-n68-jeu1071473/29264ac/) », *Jeu*, N<sup>o</sup> 68, 1993, p. 31-46, (page consultée le 26 avril 2020).
 
 MOLIÈRE. [*Le festin de pierre ou l'athée foudroyé*](https://gallica.bnf.fr/ark:/12148/bpt6k72652s/f5.image.r=le%20festin%20de%20pierre), Paris, 1679, 76 p., (page consultée le 26 avril 2020).
 
