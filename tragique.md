@@ -259,7 +259,7 @@ VOISINE, Nive. « [Jansénisme](https://www.thecanadianencyclopedia.ca/fr/articl
 
 [^18]: CAMUS, Albert. « Sur l'avenir de la tragédie » [1955], dans *Théâtre, récits, nouvelles*, Paris, Gallimard, « Bibliothèque de la Pléiade », 1974, p. 1706-1709.
 
-[^19]: Aristote, *opt cit.*
+[^19]: Aristote, *opt. cit.*
 
 [^20]: DE ROMILLY, Jacqueline. *La tragédie grecque*, Paris, PUF, 1970.
 
