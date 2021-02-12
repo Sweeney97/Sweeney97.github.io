@@ -1,0 +1,1 @@
+# Tous les contenus à l'exception de ce travail: Les jeux vidéo en ligne, nouveaux réseaux sociaux? Le cas d’Animal Crossing, sont sous la licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
