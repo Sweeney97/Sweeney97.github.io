@@ -10,7 +10,7 @@ Lieu: Montréal
 Les tragédies font offices de modèles sociétaux, tant durant l'Antiquité que durant l'Ancien Régime.
 Or, il arrive que la tragédie sorte don son cadre pour déborder; il sera alors question du tragique, et si la tragédie est nécessairement tragique, il peut arriver que le tragique se trouve dans une comédie par exemple.
 Le tragique sert à aménager un espace de réflexion collective sur le destin et la condition humaine; à cet égard, il est intéressant de se pencher sur la femme tragique, afin de voir comment elle peut incarner un idéal sociétal.
-Je comparerai donc deux pièces d'Anciens Régime : *Œdipe* de Corneille et *Don Juan* de Molière, soit une tragédie et une comédie, ayant toute deux une protagoniste tragique; Dircé et Don Elvire.
+Je comparerai donc deux pièces d'Ancien Régime : *Œdipe* de Corneille et *Don Juan* de Molière, soit une tragédie et une comédie, ayant toute deux une protagoniste tragique; Dircé et Don Elvire.
 Pour ce faire, je devrai aborder le contexte, effleurer quelques notions nodales sur le tragique, afin de pouvoir dégager et cerner l'idéal qu'elles incarnent, puisque pour les deux femmes, quelque chose de plus grand se place devant leurs sentiments.
 Pour l'une le devoir, pour l'autre Dieu.
 
@@ -52,7 +52,7 @@ Don Elvire et Dircé appartiennent à des grandes familles (respectivement les T
 Premièrement il est essentiel d'avoir cette « idée de malheur et celle de souffrance, le plus souvent associée à celle de mort, et l'idée que, dans la souffrance, la peine est dite sur un mode qui manifeste une certaine grandeur[^13] ».
 Mais aussi, il faut deuxièmement que le héros tragique suscite chez le spectateur « de la compassion et du respect[^14] ».
 Don Elvire, par la malchance d'être tombé sur un fourbe, et par sa discipline religieuse et émotionnelle exemplaire, inspire à la fois de la compassion et du respect, et Dircé, par sa volonté courageuse et en raison de la malédiction, en inspire tout autant.
-Et toutes deux ont l'aura de la grandeur (leur lignée, leur comportement) ainsi que du malheur (être floué pour Don Elvire, la fatalité pour Dircé). Finalement, pour qu'on puisse parler de héros tragique, il doit y avoir l'hamartia, et, la plupart du temps, l'hybris.
+Et toutes deux ont l'aura de la grandeur (leur lignée, leur comportement) ainsi que du malheur (être flouée pour Don Elvire, la fatalité pour Dircé). Finalement, pour qu'on puisse parler de héros tragique, il doit y avoir l'hamartia, et, la plupart du temps, l'hybris.
 
 ### Hybris et hamartia
 
@@ -71,7 +71,7 @@ Ainsi, Don Elvire est un personnage dénué d'hybris.
 ### Confrontation
 
 Dircé et Done Elvire subissent différents types de confrontation : confrontation face aux hommes, face à leur destin et face à leur erreur.
-Done Elvire confronte Don Juan alors qu’il la fuyait; lâche, il tourne la tête dès l’approche de Don Elvire, après l’avoir pourtant reconnue : «me ferez-vous la grâce, don Juan, de vouloir bien me reconnaître ?
+Done Elvire confronte Don Juan alors qu’il la fuyait; lâche, il tourne la tête dès l’approche de Don Elvire, après l’avoir pourtant reconnue : « me ferez-vous la grâce, don Juan, de vouloir bien me reconnaître ?
 Et puis-je au moins espérer que vous daigniez tourner le visage de ce côté ? » (acte 1, scène 3).
 Il envoie son valet pour lui fournir des explications inexistantes, puis invente un mensonge pour justifier ses actes.
 Or, si Don juan se fait un plaisir d’expliquer à son valet les raisons de ses aventures galantes, il invente de toutes pièces un pieux repentir pour justifier son abandon.
@@ -87,7 +87,7 @@ Pour ce qui est de leur attitude face destin, elle est semblable mais légèreme
 Done Elvire accepte son destin et ne crain pas la mort : « je ne demande qu’assez de vie pour pouvoir expier la faute que j’ai faite, et mériter, par une austère pénitence, le pardon de l’aveuglement où m’ont plongée les transports d’une passion condamnable » (acte 4, scène 9).
 Dircé aussi non seulement ne crain pas la mort, mais elle veut littéralement y courir : « ma flamme à la mort m’avait trop résolue /Pour ne pas y courir quand les Dieux l’ont voulue » (acte 2, scène 3).
 Finalement, l’acceptation de la faute participe chez ces femmes d’un idéal de pureté et de franchise. Donne Elvire n’en glisse que quelques mots, dont en autres : « ce même ciel, qui m’a touché le cœur et fait jeter les yeux sur les égarements de ma conduite » (acte 4, scène 9), peu après dans le même paragraphe, elle avoue avoir « oublié son devoir » (acte 4, scène 9).
-Dircé de son côté affirme aussi son erreur : « si j’ai causé sa mort, puis-je vivre sans crime? » (acte 2, scène 3) pour ensuite conclure quelque vers plus loin « ainsi j’en fus la cause » (acte 2, scène 3).
+Dircé de son côté affirme aussi son erreur : « si j’ai causé sa mort, puis-je vivre sans crime? » (acte 2, scène 3) pour ensuite conclure quelques vers plus loin « ainsi j’en fus la cause » (acte 2, scène 3).
 Ainsi donc, toutes deux acceptent sans détour leur erreur, leur destin et confrontent les hommes de manière à en ressortir plus grande qu’eux, plus forte qu’eux dans leur franchise.
 La seule différence étant l’idéologie jésuitique ou janséniste qui fait de la première une résignée, et de l’autre, une combattante.
 Et chacune portent un idéal de société : pour Done Elvire, il s’agit de la femme pieuse, et même, plus encore, du pieux qu’il soit homme ou femme.
@@ -133,7 +133,7 @@ Pour Don Juan il est intéressant de voir comment Molière s’oppose aux essenc
 En effet, durant l’Ancien Régime, les caractères permettaient la reconnaissance, ainsi qu’une étiquette, du personnage et des actions qu’il devait commettre.
 Au contraire, en bon matérialiste, Aristote indique que c’est plutôt le contraire : les actions déterminent les caractères[^22].
 Là où le bât blesse, c’est que malgré l’étiquette du personnage (par exemple, Don Juan, gentilhomme) les actes transgressent l’éthique.
-Et c’est encore pire quand l’auteur se permet de nuancer : Don Juan n’est pas qu’un méchant homme, en fait foi le sauvetage des deux hommes assaillis par des brigands à l’acte 3.
+Et c’est encore pire quand l’auteur se permet de nuancer : Don Juan n’est pas qu’un méchant homme, en fait foi le sauvetage des deux hommes assaillis par des brigands à l’acte trois.
 Le personnage devait se trouver dès lors dans une zone grise inconfortable pour le public d’époque.
 À ce titre Don Juan soulève bien des questions, autre trait principal de la tragédie, autant que par son incarnation sur l’espèce humaine pécheresse.
 Œdipe soulève aussi des questions quant à la monstruosité de son destin, alors qu’il est innocent; ce destin malheureux est aussi à l’image de l’espèce humaine, qui doit composer avec des malheurs sans pour autant qu’ils soient explicables.
@@ -161,7 +161,7 @@ En vers libres, elle peut déverser ses sentiments; ce passage témoigne de l’
 Pour Don Juan cependant, son aspect tragi-comique lui permet de mettre en tension « ces deux manières d’exister – l’une dans laquelle l’homme décide d’assumer sa condition d’être-pour-la-mort et l’autre où il décide, d’une manière tout aussi résolue bien que non explicite, d’ignorer la possibilité de sa fin et de transformer son horizon temporaire en une suite d’instants – sont, en même temps, les deux modalités fondamentales [tragédie et comédie] du théâtre histrionique[^25] ».
 Donc, Don Juan refuse de voir sa fin (annoncée par tous les personnages) et la fuit dans une suite d’instants comiques, dans une « temporalité éternelle », comme « amnésique ».
 Au contraire, le personnage tragique de Donne Elvire est celle la temporalité mouvante, qui voit sa fin, et qui se rappelle ses fautes. En cela Don Juan me paraît, tant par son genre inclassable que par son personnage presque « prophétique » d’une humanité moderne, quasi anachronique.
-En effet, si l’on prend une citation sur la tragédie moderne, l’on peut voir à quel point peut y avoir quelque résonnance : « le problème de la liberté de choix se pose alors dans des termes nouveaux, non pas face au destin ordonné par les dieux, mais face à la nature profonde de l’homme[^26] ».
+En effet, si l’on prend une citation sur la tragédie moderne, l’on peut voir à quel point il peut y avoir quelque résonnance : « le problème de la liberté de choix se pose alors dans des termes nouveaux, non pas face au destin ordonné par les dieux, mais face à la nature profonde de l’homme[^26] ».
 Car même si Don Juan est puni par Dieu, c’est par sa faute et non en raison de son destin qu’il subit la damnation, et sa faute est sa nature profonde.
 
 ### Conclusion
