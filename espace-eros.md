@@ -4,7 +4,7 @@
 
 Il va de soi que l'érotisme et l'espace sont intrinsèquement liés.
 Encore aujourd'hui, l'érotisme est plutôt confiné au domaine de l'intime; et cela est aussi vrai pour le Moyen Âge.
-Je veux toutefois proposer une réflexion plus étendue sur le lien entre l'érotisme et l'espace, en démontrant comment l'espace est incarne toujours les deux faces l'érotisme : la violence et le désir.
+Je veux toutefois proposer une réflexion plus étendue sur le lien entre l'érotisme et l'espace, en démontrant comment l'espace incarne toujours les deux faces l'érotisme : la violence et le désir.
 Pour ce faire, j'utiliserai deux œuvres du Moyen Âge, *Le Conte du graal*[^1] de Chrétien de Troyes, écrit vers 1180, et les *Lais*[^2] de Marie de France, écrit vers 1160 ainsi que le livre *Érotisme et merveilles* de Gingras.
 Le présent travail est divisé en parties qui représentent une gradation de l'éloignement spatial avec la cour; de l'orée de la forêt à la forêt elle-même, en terminant avec l'Autre Monde.
 
