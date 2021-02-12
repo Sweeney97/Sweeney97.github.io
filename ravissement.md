@@ -32,7 +32,6 @@ Le chronotope, qui par son nom annonce déjà la réunion de l’espace-temps, e
 Pour lui, le chronotope véhicule une vision du monde, configuré dans et par le récit.
 Le chronotope apparaît pour Bakhtine comme un point de convergence essentiel dans le récit, qui matérialise les idées, l’intrigue, dialogues signifiants: « ici, le temps se condense, devient compact, visible pour l’art, tandis que l’espace s’intensifie, s’engouffre dans le mouvement du temps, du sujet, de l’Histoire.
 Les indices de temps se découvrent dans l’espace, celui-ci est mesuré d’après le temps  ».
-Finalement, le terme diégèse, qui renvoie à l’histoire, aux événements pris dans leur spatialité et leur chronologie.
 
 ### Le bal
 
