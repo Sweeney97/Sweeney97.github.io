@@ -17,3 +17,5 @@
 ### - [À propos de moi](https://www.antoinesweeney.com/a-propos-de-moi)
 
 ### - [À propos de ce site](https://www.antoinesweeney.com/a-propos-du-site)
+
+### - [Licences](https://www.antoinesweeney.com/licences)
