@@ -183,53 +183,53 @@ VERCHERE, Chantal. "[Périphérie et croisement : aspect du nain dans la littér
 
 ### Notes de bas de page
 
-[^1]: DE TROYES, chrétien. *Perceval ou le Conte du graal*. Paris, Flammarion, 1997, 513 p. (Collection Le Moyen Âge). Les prochaines références à la même œuvre seront signalées entre parenthèses, dans le corps du texte, par l'appellation *Le Conte du graal.*
+[^1]: DE TROYES, chrétien. Perceval ou le Conte du graal. Paris, Flammarion, 1997, 513 p. (Collection Le Moyen Âge). Les prochaines références à la même œuvre seront signalées entre parenthèses, dans le corps du texte, par l'appellation *Le Conte du graal.*
 
-[^2]: DE FRANCE, Marie. *Lais*. Dix-neuvième édition, Paris, Le livre de poche, 2017, 351 p. (Collection Lettres gothiques). Les prochaines références à la même œuvre seront signalées entre parenthèses, dans le corps du texte, par l'appellation du lai correspondant.
+[^2]: DE FRANCE, Marie. Lais. Dix-neuvième édition, Paris, Le livre de poche, 2017, 351 p. (Collection Lettres gothiques). Les prochaines références à la même œuvre seront signalées entre parenthèses, dans le corps du texte, par l'appellation du lai correspondant.
 
-[^3]: GINGRAS, Francis. *Érotisme et merveilles dans le récit français des douzième et treizième siècles*, p. 30.
+[^3]: GINGRAS, Francis. Érotisme et merveilles dans le récit français des douzième et treizième siècles, p. 30.
 
-[^4]: Sur la tente, sa symbolique et l'initiatrice sexuelle : GINGRAS, FRANCIS, *op. cit.,* p. 265-270
+[^4]: Sur la tente, sa symbolique et l'initiatrice sexuelle : Gingras, *op. cit.,* p. 265-270
 
 [^5]: *Ibid*., p. 23.
 
-[^6]: DESSAINT, Micheline. *La femme médiatrice dans de grandes œuvres romanesques du douzième siècle*, p. 184.
+[^6]: DESSAINT, Micheline. La femme médiatrice dans de grandes œuvres romanesques du douzième siècle, p. 184.
 
-[^7]: GINGRAS, FRANCIS, *op. cit.*, p. 212.
+[^7]: Gingras, *op. cit.*, p. 212.
 
 [^8]: *Ibid.,* p. 250.
 
 [^9]: *Ibid.*, p. 250.
 
-[^10]: Gingras, Francis, *op. cit*., p. 250.
+[^10]: Gingras, *op. cit*., p. 250.
 
-[^11]: DESSAINT, Micheline, *opt. cit.*, p. 18.
+[^11]: Dessaint, *opt. cit.*, p. 18.
 
-[^12]: GINGRAS, Francis, *opt. cit.,* p. 250-259.
+[^12]: Gingras, *opt. cit.*, p. 250-259.
 
 [^13]: *Ibid*., p. 177.
 
 [^14]: *Ibid.*, p. 227.
 
-[^15]: RIEGER, Dietmar, *op. cit.*
+[^15]: Rieger, *op. cit.*
 
 [^16]: *Graelant.* Lais anonymes, document PDF, matériel didactique du cours FRA 110.
 
-[^17]: RIEGER, Dietmar, *op. cit.*
+[^17]: Rieger, *op. cit.*
 
-[^18]: RIEGER, Dietmar, *op. cit.*
+[^18]: Rieger, *op. cit.*
 
-[^19]: GINGRAS, Francis, *opt. cit*., p. 23.
+[^19]: Gingras, *opt. cit.*, p. 23.
 
 [^20]: ACTES DU COLLOQUE ARTHURIEN DE RENNES. Le monde et l'Autre Monde.
 
 [^21]: *Loc. cit.*
 
-[^22]: GINGRAS, Francis, *opt. cit*., p. 335.
+[^22]: Gingras, *opt. cit.*, p. 335.
 
-[^23]: *La matière de Bretagne*, *opt. cit.,* p. 7.
+[^23]: Plaisant-Soler, Lycée Saint-Exupéry, Mantes-la-jolie, *opt. cit.*, p. 7.
 
-[^24]: *GINGRAS*, Francis, *opt. cit.,* p. 335.
+[^24]: Gingras, *opt. cit.*, p. 335.
 
 [^25]: *Ibid.*, p. 309.
 
@@ -239,8 +239,8 @@ VERCHERE, Chantal. "[Périphérie et croisement : aspect du nain dans la littér
 
 [^28]: POIRION, Daniel. "Le merveilleux dans la littérature française du moyen âge", Cahiers de civilisation médiévale, p. 421.
 
-[^29]: DESSAINT, Micheline, *op. cit.* (Si elle ne le dit pas textuellement, Dessaint nous fait comprendre dans son œuvre que la femme c'est l'Autre, dans le sens où elle fascine et inquiète l'homme, car elle est pour lui inconnue.)
+[^29]: Dessaint, *op. cit.* (Si elle ne le dit pas textuellement, Dessaint nous fait comprendre dans son œuvre que la femme c'est l'Autre, dans le sens où elle fascine et inquiète l'homme, car elle est pour lui inconnue.)
 
 [^30]: POIRION, Daniel. "Le merveilleux dans la littérature française du moyen âge", Cahiers de civilisation médiévale, p. 421.
 
-[^31]: GINGRAS, Francis, *opt. cit.,* p. 49.
+[^31]: Gingras, *opt. cit.*, p. 49.
