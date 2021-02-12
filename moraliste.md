@@ -156,7 +156,7 @@ TRÉMOLIÈRES, François. "[MORALISTES](http://www.universalis-edu.com/encyclope
 
 [^6]: Centre National de Ressources Textuelles et Lexicales. « [Moeurs](https://www.cnrtl.fr/definition/moeurs) » (consulté de le 06 novembre 2019).
 
-[^7]: TRÈMOLIÈRES, François. *Op. cit.*
+[^7]: Trèmolières, *Opt. cit.*
 
 [^8]: *Ibid.*
 
@@ -180,15 +180,15 @@ TRÉMOLIÈRES, François. "[MORALISTES](http://www.universalis-edu.com/encyclope
 
 [^18]: *Ibid.*
 
-[^19]: BLAISE, Pascal. *Op. cit.*, p. 72.
+[^19]: Blaise, *Opt. cit.*, p. 72.
 
 [^20]: *Ibid.,* p. 81.
 
-[^21]: COGNET, Louis *et al*. *Op. cit.*
+[^21]: Cognet *et al*, *Op. cit.*
 
-[^22]: BLAISE, Pascal. *Op. cit.,* p. 385.
+[^22]: Blaise, *Opt. cit.,* p. 385.
 
-[^23]: COGNET, Louis *et al*. *Op. cit.*
+[^23]: Cognet *et al*, *Opt. cit.*
 
 [^24]: *Ibid.*
 
@@ -200,13 +200,13 @@ TRÉMOLIÈRES, François. "[MORALISTES](http://www.universalis-edu.com/encyclope
 
 [^28]: *Ibid.*
 
-[^29]: TRÈMOLIÈRES, François. *Op. cit.*
+[^29]: Trèmolières, *Opt. cit.*
 
 [^30]: *Ibid.*
 
 [^31]: *Ibid.*
 
-[^32]: BLAISE, Pascal. *Op. cit.,* p. 402.
+[^32]: Blaise, *Opt. cit.,* p. 402.
 
 [^33]: *Ibid.*, p. 73.
 
@@ -232,12 +232,12 @@ TRÉMOLIÈRES, François. "[MORALISTES](http://www.universalis-edu.com/encyclope
 
 [^44]: *Ibid.*, p. 77.
 
-[^45]: COGNET, Louis. *Op. Cit.*
+[^45]: Cognet, *Opt. Cit.*
 
 [^46]: *Ibid.*
 
 [^47]: *Ibid.*
 
-[^48]: TRÈMOLIÈRES, François. *Op. cit.*
+[^48]: Trèmolières, *Opt. cit.*
 
 [^49]: BIET, Christian. "[LES PROVINCIALES, Blaise Pascal -- Fiche de lecture](http://www.universalis-edu.com/encyclopedie/les-provinciales/)", Encyclopædia Universalis, (consulté le 06 novembre 2019).
