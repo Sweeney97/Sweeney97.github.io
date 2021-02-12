@@ -64,11 +64,11 @@ La forêt inverse la topique traditionnelle de l'amour; là, plusieurs inconnus 
 Dans le lai *Lanval* de Marie de France, le chevalier  
 
 >si vit venir dous dameiseles;
-
+>
 >unc n'en ot veües plus beles.
-
+>
 >Vestues furent richement
-
+>
 >e laciees estreitement (v. 55-58)
 
 La forêt est de plus un lieu où le chevalier devient voyeur, et ce voyeurisme préside l'érotisme.
