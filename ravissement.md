@@ -80,7 +80,7 @@ Est-ce à dire que la plage est une œuvre éternellement en parachèvement, pui
 Disons simplement que le texte joue avec la figure du temps, comme une chose instable, aléatoire.
 Lol est parfois décrite par Hold comme vieillie ou rajeunie, selon le contexte.
 Mais la mer reste la plus forte figure du temps incertain; elle est d’ailleurs annoncée par le texte à plusieurs reprises, parfois en lien avec la dépersonnalisation.
-Par exemple à un moment elle regarde dans une glace et y aperçoit la mer.
+Par exemple à un moment Lol regarde dans une glace et y aperçoit la mer.
 Or, le texte joue avec la polysémie de glace, qui peut à la fois renvoyer à un miroir ou à une fenêtre.
 Le texte utilise la formule « dans la glace » (p.152), ce qui renforce l’impression qu’elle regarde un miroir, puisqu’autrement le mot au travers aurait été préféré.
 Mais juste avant il est question de crépuscule, des tons de lumières, éléments qui renvoient plutôt à une fenêtre.
