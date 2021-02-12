@@ -26,12 +26,12 @@ Ce travail se penche sur trois espace-temps dans Le ravissement : le bal, la mer
 
 Définir le temps ou l’espace peut sembler une tâche ardue, voire quasi impossible, d’un point de vue philosophique.
 Je me bornerai à ce sujet à dire que l’espace-temps structure à priori notre perception du réel.
-L’espace en littérature est décrit par Antje Ziethen comme « enjeu diégétique, substance génératrice, agent structurant et vecteur signifiant  », en étant de plus « moteur de l’intrigue, véhicule de mondes possibles et médium permettant aux auteurs d’articuler une critique sociale  ».
+L’espace en littérature est décrit par Antje Ziethen comme « enjeu diégétique, substance génératrice, agent structurant et vecteur signifiant[^1]  », en étant de plus « moteur de l’intrigue, véhicule de mondes possibles et médium permettant aux auteurs d’articuler une critique sociale[^2]  ».
 On voit l’importance de l’espace littéraire pour Ziethen, mais il est intéressant de voir les variations que lui apporte Bakhtine en ajoutant le temps grâce à la notion de chronotope.
-Le chronotope, qui par son nom annonce déjà la réunion de l’espace-temps, est définit par Bakhtine comme étant : « ce qui se traduit, littéralement, par "temps-espace " : la corrélation essentielle des rapports spatio-temporels, telle qu’elle a été assimilée par la littérature  ».
+Le chronotope, qui par son nom annonce déjà la réunion de l’espace-temps, est définit par Bakhtine comme étant : « ce qui se traduit, littéralement, par "temps-espace " : la corrélation essentielle des rapports spatio-temporels, telle qu’elle a été assimilée par la littérature[^3]  ».
 Pour lui, le chronotope véhicule une vision du monde, configuré dans et par le récit.
 Le chronotope apparaît pour Bakhtine comme un point de convergence essentiel dans le récit, qui matérialise les idées, l’intrigue, dialogues signifiants: « ici, le temps se condense, devient compact, visible pour l’art, tandis que l’espace s’intensifie, s’engouffre dans le mouvement du temps, du sujet, de l’Histoire.
-Les indices de temps se découvrent dans l’espace, celui-ci est mesuré d’après le temps  ».
+Les indices de temps se découvrent dans l’espace, celui-ci est mesuré d’après le temps[^4]  ».
 
 ### Le bal
 
@@ -134,7 +134,7 @@ La plage quant à elle entraîne inévitablement la fin de l’histoire. Une foi
 Pour la ville, les déambulations de Lol donnent lieu à cette scène particulière d’enfilade et de dédoublement narratif.
 Ils permettent aussi au récit à trouver son souffle, comme Lol, qui ne peut continuer dans la parfaite virtualité de U. Bridge, ni dans sa crise de folie à S. Thala.
 Cette analyse spatio-temporelle permet de voir comment le texte s’inscrit aussi dans le courant de la post-mémoire : en effet, même si ce récit ne porte pas sur des événements de la guerre, Marguerite Duras fait partie des écrivains d’après-guerre.
-Elle a d’ailleurs écrit La douleur, autofiction qui relate le vécu de Duras durant l’Occupation. Le ravissement emprunte des éléments propres à certains écrivains qui écrivent sur leur vécu d’après-guerre : le récit est déconstruit, il s’empile sur lui-même, le commencement apparaît à la page 76, le narrateur dit des choses contradictoires, parfois dans la même phrase, semble balbutier, ou reconstruire un souvenir, une mémoire à partir de bribes qu’il renoue ensemble.
+Elle a d’ailleurs écrit *La douleur*, autofiction qui relate le vécu de Duras durant l’Occupation. Le ravissement emprunte des éléments propres à certains écrivains qui écrivent sur leur vécu d’après-guerre : le récit est déconstruit, il s’empile sur lui-même, le commencement apparaît à la page 76, le narrateur dit des choses contradictoires, parfois dans la même phrase, semble balbutier, ou reconstruire un souvenir, une mémoire à partir de bribes qu’il renoue ensemble.
 Nous avons donc vu à quel point l’espace-temps est structurant dans un récit, et les impacts qu’il peut avoir sur le moteur de l’histoire, les personnages ou encore la narration.
 À preuve, j’avais commencé l’écriture de ce travail en disposant l’espace-temps narratif et diégétique en une section à part, mais l’impossibilité de cette séparation m’a poussé à intégrer l’espace-temps du bal, de la mer et de la ville, à la narration et à la diégèse. Parler d’un de ces trois espace-temps revenait à parler, nécessairement, de l’espace-temps de la narration et de la diégèse.
 Une fusion aussi essentielle que l’espace-temps lui-même?
@@ -146,3 +146,13 @@ BAKHTINE, Mikhaïl. *Esthétique et théorie du roman*, Paris, Gallimard, 1987 [
 DURAS, Marguerite. *Le ravissement de Lol V. Stein*, Paris, Gallimard, 2018 [1964], 190 p. (Collection Folio).
 
 ZIETHEN, Antje. « La littérature et l’espace », *Arborescence*, Toronto, n<sup>o</sup> 3 (juillet 2013), p. 1-28.
+
+### Note de bas de page
+
+[^1]: ZIETHEN, Antje. « La littérature et l’espace », Arborescence, Toronto, no 3 (juillet 2013), p. 4.
+
+[^2]: *Ibid.*, p. 4.
+
+[^3]: BAKHTINE, Mikhaïl. Esthétique et théorie du roman, Paris, Gallimard, 1987 [1978], p.237
+
+[^4]: *Ibid.*, p. 237.
