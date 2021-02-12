@@ -42,7 +42,7 @@ Cette citation illustre l’imbrication entre un événement et un axe spatio-te
 Dès le début du récit, le texte brouille les frontières spatio-temporelles; Jaques Hold rencontre Lol plusieurs années après l’événement. Ce brouillage n’est possible qu’en raison de la narration articulée par un personnage : l’espace narratif est une histoire dans l’histoire qui permet ce repli sur soi.
 D’ailleurs le narrateur-témoin, Hold, est un narrateur faillible : « c’était impossible, c’est impossible de savoir quand, par conséquent, commence mon histoire de Lol V. Stein » (p.16).
 Or, le point initial est primordial dans une histoire, mais dans Le ravissement, il semble n’y avoir ni commencement ni fin, qu’un cercle replié sur lui-même.
-S’il y aurait un commencement à identifier dans Le ravissement, ce serait lorsque le narrateur se présente au lecteur, se découvre, à la page 76, en plein milieu de l’histoire.
+S’il y avait un commencement à identifier dans Le ravissement, ce serait lorsque le narrateur se présente au lecteur, se découvre, à la page 76, en plein milieu de l’histoire.
 Ce narrateur faillible donc, cette voix, balbutie, prise entre passé et présent, entre une histoire isolée dans le temps -celle qu’elle construit-, et une autre qui est la sienne propre, celle du personnage, qui continue -celle qu’elle vit-.
 Si le narrateur semble embourbé dans le récit, le couple Richardson-Stretter, eux, sortent de cette nuit, donc de la diégèse : « [Richardson et Stretter] s’étaient silencieusement contemplés, longuement, ne sachant que faire, comment sortir de la nuit » (p.21), puis peu après, ils sortent de la salle de bal.
 Ce sont les seuls personnages qui réussissent leur sortie de la nuit, les autres y seront empêtrés.
