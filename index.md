@@ -2,7 +2,7 @@
 
 ### - [Curriculum vitæ](https://www.antoinesweeney.com/CV)
 
-### - Travaux d'université
+### - Travaux universitaires
    - [*Dom Juan*: analyse de la déclamation de Sganarelle](https://www.antoinesweeney.com/declamation)
    - [Donne Elvire et Dircé: le tragique au féminin](https://www.antoinesweeney.com/tragique)
    - [*Eupalinos ou l'architecte*: compte rendu](https://www.antoinesweeney.com/eupalinos)
