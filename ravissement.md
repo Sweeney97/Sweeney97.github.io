@@ -153,6 +153,6 @@ ZIETHEN, Antje. « La littérature et l’espace », *Arborescence*, Toronto, n<
 
 [^2]: *Ibid.*, p. 4.
 
-[^3]: BAKHTINE, Mikhaïl. Esthétique et théorie du roman, Paris, Gallimard, 1987 [1978], p.237
+[^3]: BAKHTINE, Mikhaïl. Esthétique et théorie du roman, Paris, Gallimard, 1987 [1978], p.237.
 
 [^4]: *Ibid.*, p. 237.
