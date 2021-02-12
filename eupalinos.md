@@ -23,8 +23,8 @@ Sous l'Occupation, il fait preuve de résistance en prononçant un discours fun�
 Il décède à Paris en 1945, vers la fin de la guerre.
 
 #### Époque
-L'homme qui entre dans le 19e siècle est bouleversé par plusieurs changements scientifiques.
-« [Au début du 19e], la science multiplie ses découvertes et leurs applications pratiques : la chimie qui tend à modifier toutes les relations de l’homme avec la matière modifie en même temps toutes les conditions de la vie; la thermodynamique et l’électricité sont des conquêtes essentielles qui, par l’introduction de la vitesse, la suppression de la distance, ont transformé complètement les rapports entre les hommes et les pays, mais aussi la constitution de chaque pays et de chaque individu » (Barriere 1974).
+L'homme qui entre dans le 19<sup>e</sup> siècle est bouleversé par plusieurs changements scientifiques.
+« [Au début du 19<sup>e</sup>], la science multiplie ses découvertes et leurs applications pratiques : la chimie qui tend à modifier toutes les relations de l’homme avec la matière modifie en même temps toutes les conditions de la vie; la thermodynamique et l’électricité sont des conquêtes essentielles qui, par l’introduction de la vitesse, la suppression de la distance, ont transformé complètement les rapports entre les hommes et les pays, mais aussi la constitution de chaque pays et de chaque individu » (Barriere 1974).
 L'homme se tourne vers lui-même, cherchant sa part irréductible, celle irremplaçable par les machines, sa connaissance se porte alors en premier lieu sur sa conscience, non plus sur ses productions, mais sur le processus même de création (Barriere 1974).
 On sait par exemple qu'à l'âge de 21 ans environ, Valéry tenta de concevoir un système qui schématisait le fonctionnement de l'esprit, et que ce système faisait appel à divers savoirs, dont l'électromagnétisme et la thermodynamique (JARRETY, s. d.).
 
@@ -40,7 +40,7 @@ L'histoire se déroule dans le monde des morts, peu de temps après la mort de S
 Le texte travaille plusieurs problématiques, notamment la valeur de l'architecture et de la musique, ainsi que de la peinture et de la littérature, puis finalement de la philosophie.
 *Eupalinos* est donc un texte littéraire qui représente des philosophes, en utilisant le style platonicien, c'est-à-dire celui des dialogues à caractère pédagogique, où le lecteur peut suivre l'élaboration de la pensée et des arguments pas à pas.
 Seulement, le texte prend une distance critique par rapport aux philosophes, et par rapport à la philosophie en général, puisque les deux protagonistes développent qu'elle est vaine en comparaison de l'architecture ou de la musique.
-La situation est ironique, puisque Socrate est mis en scène disant des choses contraires à ce qu'il dit dans les écrits platoniciens, et cette démarche me semble proprement littéraire plutôt que philosophique.
+La situation est ironique, puisque Socrate est mis en scène disant des choses contraires à ce qu'il dit dans les écrits platoniciens: démarche proprement littéraire plutôt que philosophique.
 Le texte n'élabore pas un récit, dans le sens où aucune action n'est commise par les personnages sinon celle de parler. En sus, il n'y a ni quête au sens romanesque du terme (il y a probablement une quête du savoir) ni moteur diégétique. D'un autre côté, l'espace-temps (le monde des morts) du récit concorde parfaitement à ce point zéro de l'histoire.
 D'ailleurs, Socrate dit dans *Eupalinos*: « ne crois-tu pas que nous devions maintenant employer cet immense loisir que la mort nous abandonne, à nous juger nous-mêmes, et à nous rejuger infatigablement, reprenant, corrigeant, essayant d’autres réponses aux événements qui sont arrivés ; et cherchant, en somme, à nous défendre de l’inexistence par des illusions, comme font les vivants de leur existence ? » (Valéry 1923).
 
