@@ -19,8 +19,8 @@ L’espace-temps structure la réalité même; dans la fiction, dans n’importe
 Or, ce qui est intéressant avec la fiction, c’est qu’elle peut prendre l’espace-temps comme matériau même et le moduler, le distorde dans son écriture.
 Toute œuvre littéraire peut se prêter à une analyse de l’espace-temps, puisque les œuvres fictionnelles sont toujours dans un rapport particulier entre le réel et la fiction comme représentation ou incarnation du réel.
 Particulièrement les romanciers d’après-guerre et ceux du Nouveau Roman : ils tentent d’aller aux limites de la fiction, de l’annihiler, et ces auteurs sont particulièrement intéressants pour une analyse spatio-temporelle.
-Je me pencherai donc sur le cas du roman Le ravissement de Lol V. Stein de Duras.
-Ce travail se penche sur trois espace-temps dans Le ravissement : le bal, la mer et la ville et tente de relever leur symbolique et leur lien avec la narration ou la diégèse.
+Je me pencherai donc sur le cas du roman *Le ravissement de Lol V. Stein* de Duras.
+Ce travail se penche sur trois espace-temps dans *Le ravissement* : le bal, la mer et la ville et tente de relever leur symbolique et leur lien avec la narration ou la diégèse.
 
 ### Définitions
 
@@ -36,13 +36,13 @@ Finalement, comptons le terme diégèse, qui renvoie à l’histoire, aux évén
 
 ### Le bal
 
-Le bal apparaît d’emblée comme une scène récurrente, traumatique, qui structure l’ensemble diégétique du ravissement.
+Le bal apparaît d’emblée comme une scène récurrente, traumatique, qui structure l’ensemble diégétique du *ravissement*.
 Le bal est rapproché, par le texte, à la nuit, au jour qui meurt, et cette nuit avec la fin de quelque chose. Le texte joue avec cette figure de l’attente, attente de la fin, du jour, fin du récit, fin de Lol, fin des choses : « le bal sera au bout du voyage, il tombera comme château de cartes comme en ce moment le voyage lui-même » (p. 175).
 Cette citation illustre l’imbrication entre un événement et un axe spatio-temporel, le bal se retrouve à plat sur une ligne horizontale, au bout de cette, qui se trouve à être aussi la fin de la diégèse. Le bal se déroule à T. Beach, implique Anne-Marie Stretter, Michael Richardson, Lol, son amie Tatianna, et curieusement, Jaques Hold : « Je vais donc la chercher, je la prends, là où je crois devoir le faire, au moment où elle me paraît commencer à bouger pour venir à ma rencontre, au moment précis où les dernières venues, deux femmes, franchissent la porte de la salle de bal du Casino municipal de T. Beach » (p.14).
 Dès le début du récit, le texte brouille les frontières spatio-temporelles; Jaques Hold rencontre Lol plusieurs années après l’événement. Ce brouillage n’est possible qu’en raison de la narration articulée par un personnage : l’espace narratif est une histoire dans l’histoire qui permet ce repli sur soi.
 D’ailleurs le narrateur-témoin, Hold, est un narrateur faillible : « c’était impossible, c’est impossible de savoir quand, par conséquent, commence mon histoire de Lol V. Stein » (p.16).
-Or, le point initial est primordial dans une histoire, mais dans Le ravissement, il semble n’y avoir ni commencement ni fin, qu’un cercle replié sur lui-même.
-S’il y avait un commencement à identifier dans Le ravissement, ce serait lorsque le narrateur se présente au lecteur, se découvre, à la page 76, en plein milieu de l’histoire.
+Or, le point initial est primordial dans une histoire, mais dans *Le ravissement*, il semble n’y avoir ni commencement ni fin, qu’un cercle replié sur lui-même.
+S’il y avait un commencement à identifier dans *Le ravissement*, ce serait lorsque le narrateur se présente au lecteur, se découvre, à la page 76, en plein milieu de l’histoire.
 Ce narrateur faillible donc, cette voix, balbutie, prise entre passé et présent, entre une histoire isolée dans le temps -celle qu’elle construit-, et une autre qui est la sienne propre, celle du personnage, qui continue -celle qu’elle vit-.
 Si le narrateur semble embourbé dans le récit, le couple Richardson-Stretter, eux, sortent de cette nuit, donc de la diégèse : « [Richardson et Stretter] s’étaient silencieusement contemplés, longuement, ne sachant que faire, comment sortir de la nuit » (p.21), puis peu après, ils sortent de la salle de bal.
 Ce sont les seuls personnages qui réussissent leur sortie de la nuit, les autres y seront empêtrés.
@@ -93,7 +93,7 @@ Et comme le bal se termine avec la fin du jour, avec l’obscurité, ainsi se te
 
 ### La ville
 
-Deux villes prennent corps dans Le ravissement : S. Thala et U. Bridge.
+Deux villes prennent corps dans *Le ravissement* : S. Thala et U. Bridge.
 Pourtant, de U. Bridge, le texte ne dit pas grand-chose.
 Et parfois U. Bridge apparaît que pour mieux montrer sa nullité.
 Par exemple, lorsque Lol rencontre Tatianna, et qu’elle lui pose des questions sur son passé à U. Brige, Lol raconte qu’elle voyait la mer d’où elle était.
@@ -113,7 +113,7 @@ La marche permettra à Lol de reconstruire continuellement l’instant du bal, s
 Cette dernière image permet de consolider ce qui a déjà été mentionné dans la première section : Lol construit, aménage, elle vit dans ce souvenir plus que dans la réalité.
 Elle habite dans son souvenir du bal, et n’ayant pas de souvenir de S. Thala, elle n’y habite pas, la ville se donne comme immédiate, absolue.
 Du reste, les déambulations urbaines de Lol donnent lieu à une scène narrativement très forte, où Hold entre dans le jeu de Lol, se dédouble, et se suit lui, Hold, en train de suivre Lol.
-Ce chassé-croisé narratif rappelle au lecteur que la narration s’effectue de manière différée dans Le ravissement, et que nous assistons à l’histoire d’une histoire.
+Ce chassé-croisé narratif rappelle au lecteur que la narration s’effectue de manière différée dans *Le ravissement*, et que nous assistons à l’histoire d’une histoire.
 Le temps de l’enfilade se mêle au temps « réel » du récit, qui part le fait qu’il est raconté, permet d’être distordu.
 Ainsi l’espace littéraire met en lumière ses propres capacités spécifiques, à savoir de distordre l’espace-temps.
 L’importance de la marche en lien avec le temps est aussi mise de l’avant dans le texte lorsqu’elle rencontre le narrateur, Hold : « d’une minute à l’autre la distance qui les sépare de cette terrasse sera couverte à jamais » (p.73).
@@ -124,7 +124,7 @@ Bien sûr cela est peine perdue, puisque dans ce mouvement de fuite perpétuelle
 
 ### Conclusion
 
-Ainsi, certains espace-temps structurent Le ravissement : le bal, la mer, la ville, etc.
+Ainsi, certains espace-temps structurent *Le ravissement* : le bal, la mer, la ville, etc.
 Évidemment, il y en a bien plus que les trois espace-temps couverts par ce travail, mais j’ai tenté de m’attarder sur ceux qui me semblaient plus importants.
 Ils révèlent une importance tantôt symbolique : le bal est lié à la structuration d’un désir axé sur l’excentration, la plage à la quête de la dépersonnalisation et la ville au déplacement, à la construction, à l’agencement.
 Mais de plus, ils organisent aussi l’espace-temps diégétique et narratif.
@@ -135,7 +135,7 @@ La plage quant à elle entraîne inévitablement la fin de l’histoire. Une foi
 Pour la ville, les déambulations de Lol donnent lieu à cette scène particulière d’enfilade et de dédoublement narratif.
 Ils permettent aussi au récit à trouver son souffle, comme Lol, qui ne peut continuer dans la parfaite virtualité de U. Bridge, ni dans sa crise de folie à S. Thala.
 Cette analyse spatio-temporelle permet de voir comment le texte s’inscrit aussi dans le courant de la post-mémoire : en effet, même si ce récit ne porte pas sur des événements de la guerre, Marguerite Duras fait partie des écrivains d’après-guerre.
-Elle a d’ailleurs écrit *La douleur*, autofiction qui relate le vécu de Duras durant l’Occupation. Le ravissement emprunte des éléments propres à certains écrivains qui écrivent sur leur vécu d’après-guerre : le récit est déconstruit, il s’empile sur lui-même, le commencement apparaît à la page 76, le narrateur dit des choses contradictoires, parfois dans la même phrase, semble balbutier, ou reconstruire un souvenir, une mémoire à partir de bribes qu’il renoue ensemble.
+Elle a d’ailleurs écrit *La douleur*, autofiction qui relate le vécu de Duras durant l’Occupation. *Le ravissement* emprunte des éléments propres à certains écrivains qui écrivent sur leur vécu d’après-guerre : le récit est déconstruit, il s’empile sur lui-même, le commencement apparaît à la page 76, le narrateur dit des choses contradictoires, parfois dans la même phrase, semble balbutier, ou reconstruire un souvenir, une mémoire à partir de bribes qu’il renoue ensemble.
 Nous avons donc vu à quel point l’espace-temps est structurant dans un récit, et les impacts qu’il peut avoir sur le moteur de l’histoire, les personnages ou encore la narration.
 À preuve, j’avais commencé l’écriture de ce travail en disposant l’espace-temps narratif et diégétique en une section à part, mais l’impossibilité de cette séparation m’a poussé à intégrer l’espace-temps du bal, de la mer et de la ville, à la narration et à la diégèse. Parler d’un de ces trois espace-temps revenait à parler, nécessairement, de l’espace-temps de la narration et de la diégèse.
 Une fusion aussi essentielle que l’espace-temps lui-même?
