@@ -65,7 +65,7 @@ La dépersonnalisation est la quête véritable du récit, moment qui s’accomp
 Certains éléments textuels dénotent l’importance de la mer dans le récit.
 Ne serait-ce que structurellement : la mer apparaît au début du récit et à la fin, en plus d’être mentionnée tout au long de l’histoire.
 Il y a aussi un rapport d’équivalence entre le bal et la mer : « il aurait fallu murer le bal, en faire ce navire de lumière sur lequel chaque après-midi Lol s’embarque mais qui reste là, dans ce port impossible, à jamais amarré et prêt à quitter, avec ces trois passagers, tout cet avenir-ci dans lequel Lol V. Stein maintenant se tient » (p.49).
-Ainsi, en plus de spatialiser le temps sous la métaphore du vaisseau amarrer pris dans son immobilité, ce passage dénote l’importance essentielle de la mer dans le récit, malgré le fait que par le nom où se déroule le bal, à savoir T. Beach, mer et bal sont intimement liés ensemble dès le début du texte, car mer et plage sont presque des équivalents référentiels.
+Ainsi, en plus de spatialiser le temps sous la métaphore du vaisseau amarré pris dans son immobilité, ce passage dénote l’importance essentielle de la mer dans le récit, malgré le fait que par le nom où se déroule le bal, à savoir T. Beach, mer et bal sont intimement liés ensemble dès le début du texte, car mer et plage sont presque des équivalents référentiels.
 La plage, c’est la métaphore par excellence du temps et de l’infini.
 Le sable y est indénombrable, et n’est pas sans rappeler les sabliers, le temps qui s’écoule :
 
