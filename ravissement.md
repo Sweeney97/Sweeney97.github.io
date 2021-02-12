@@ -46,7 +46,7 @@ S’il y avait un commencement à identifier dans *Le ravissement*, ce serait lo
 Ce narrateur faillible donc, cette voix, balbutie, prise entre passé et présent, entre une histoire isolée dans le temps -celle qu’elle construit-, et une autre qui est la sienne propre, celle du personnage, qui continue -celle qu’elle vit-.
 Si le narrateur semble embourbé dans le récit, le couple Richardson-Stretter, eux, sortent de cette nuit, donc de la diégèse : « [Richardson et Stretter] s’étaient silencieusement contemplés, longuement, ne sachant que faire, comment sortir de la nuit » (p.21), puis peu après, ils sortent de la salle de bal.
 Ce sont les seuls personnages qui réussissent leur sortie de la nuit, les autres y seront empêtrés.
-Même Tatianna, qui pourtant n’est pas directement impliqué dans la folie de Lol : « Tatiana est enfoncée dans le bal de T. Beach » (p.100).
+Même Tatianna, qui pourtant n’est pas directement impliquée dans la folie de Lol : « Tatiana est enfoncée dans le bal de T. Beach » (p.100).
 Le narrateur, étant pris dans le jeu de Lol, est forcément impliqué dans le bal : « je suis dans la nuit de T. Beach » (p.112).
 Mais pour que le bal perdure au-delà de son avènement, il faut qu’il soit réactivé constamment.
 Le bal est donc cet instant que Lol s’efforce de construire : « le bal est un événement vivant, elle y entre chaque jour, Lol progresse chaque jour dans la reconstitution de cet instant » (p.46). En plus, il est écrit qu’elle « rebâtit la fin du monde » (p.47), fin du monde?
