@@ -55,7 +55,7 @@ Notons que ces extraits dénotent un flou entre ce qui est temporel et spatial (
 Lol construit donc cette fin, cette fin du bal, la fin de son monde, et insère dans sa construction les autres : « ces jours-ci vont être pour ces gens, plus précisément qu’un avenir plus lointain, ceux qu’elle en fera, elle, Lol V. Stein.
 Elle fabriquera les circonstances nécessaires, puis elle ouvrira les portes qu’il faudra : ils passeront » (p.71).
 Elle force les autres protagonistes à entrer dans le bal, dans sa symbolique; elle ne peut reconstruire seule un événement qui s’est vécu à plusieurs: « ce soir, en nous retenant, elle joue avec ce feu, cette attente, elle le déplace sans cesse, on dirait qu’elle attend encore à T. Beach ce qui va arriver ici. [...] [elle veut] s’avancer sur nous, nous engloutir, l’obscurité de demain qui sera celle de la nuit de T. Beach » (p.103).
-Lol est la nuit de T. Beach, et y engloutie Tatiana et Jaques Hold.
+Lol est la nuit de T. Beach, et y engloutit Tatiana et Jaques Hold.
 Le bal est le moment clef de la construction du désir chez Lol, puisqu’elle y voit son fiancé partir avec une autre femme, et aspire à reproduire ce schéma d’exclusion dans un triangle amoureux.
 La reproduction de ce schéma du désir est l’un des moteurs principaux du récit, qui en cache un plus important encore : celui de la dépersonnalisation.
 La dépersonnalisation est la quête véritable du récit, moment qui s’accomplit à la mer.
