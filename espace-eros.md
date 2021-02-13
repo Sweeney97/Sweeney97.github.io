@@ -26,7 +26,7 @@ Forte d'une symbolique séculaire, elle est l'incarnation matérielle du pouvoir
 Le faste extérieur préside au faste intérieur, celui de la femme initiatrice qui s'y trouve[^4] et malgré lui, le lecteur se transforme en voyeur et transgresse les interdits de son époque[^5], par exemple en assistant, dans *Le Conte du graal,* à une scène inconfortable où Perceval : «La beisa volsist ele ou non,/ Vint foiz, si con li contes dit» (v. 708-709).
 Si l'on considère la quête chevaleresque comme une recherche individuelle à laquelle le désir prend une place considérable[^6], alors la tente qui héberge l'initiatrice érotique qu'est la pucelle de cette scène représente, encore une fois, un lieu de transition.
 Pour toutes ces raisons, elle est, dans *Le Conte du graal*, véritablement un lieu de passage vers la forêt, où le désir se module en un lieu d'intimité presque merveilleux, lieu lui-même tendu entre le réel et le merveilleux; l'ailleurs et le maintenant, le monde des hommes et celui qui point, de la femme.
-Dans *Le Conte du graal,* ce lieu érotique se teinte aussi de violence, celle d'un homme maladroit, brusque.
+Dans *Le Conte du graal,* ce lieu érotique se teinte aussi d'une violence: celle d'un homme maladroit, brusque.
 
 ##### Le guide merveilleux
 
