@@ -112,8 +112,8 @@ Barriere, Pierre. 1974. *Vie Intellectuelle En France (La) (Collections Histoire
 
 JARRETY, Michel. s. d. « [VALÉRY PAUL - (1871-1945) ](http://www.universalis-edu.com/encyclopedie/valery-paul-1871-1945/)». Encyclopædia Universalis.
 
-« Paul VALÉRY ». s. d. Institution publique. [*L’Académie française*](http://www.academie-francaise.fr/les-immortels/paul-valery.).
+« Paul VALÉRY ». s. d. Institution publique. [*L’Académie française*](http://www.academie-francaise.fr/les-immortels/paul-valery).
 
 « SYMBOLISME ». s. d. [*Centre National de Ressources Textuelles et Lexicales*](https://www.cnrtl.fr/definition/symbolisme).
 
-Valéry, Paul. 1921. [*Eupalinos ou l’Architecte*](https://fr.wikisource.org/wiki/Eupalinos_ou_l%E2%80%99Architecte#).
+Valéry, Paul. 1923. [*Eupalinos ou l’Architecte*](https://fr.wikisource.org/wiki/Eupalinos_ou_l%E2%80%99Architecte#).
