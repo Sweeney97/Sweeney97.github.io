@@ -147,8 +147,8 @@ Comme si Done Elvire servait à cacher habilement la déréliction, la nature ma
 
 ### Forme
 
-Œdipe de Corneille, en filiation avec celui de Sophocle, est une tragédie.
-Pourtant, plusieurs siècles les séparent, et, la société ayant changée grandement, le terme tragédie ne revoit plus exactement à la même réalité.
+*Œdipe* de Corneille, en filiation avec celui de Sophocle, est une tragédie.
+Pourtant, plusieurs siècles les séparent, et, la société ayant changée grandement, le terme tragédie ne renvoie plus exactement à la même réalité.
 Par exemple, la tragédie antique portait en elle une symbolique collective beaucoup plus forte.
 À preuve, le chœur, personnification de la multitude, du peuple, qui rendait intelligible le drame, disparaît au profit du confident : « la tragédie du XVI<sup>e</sup> et surtout du XVII<sup>e</sup> siècle voit se développer la dimension psychologique de l’intrigue.
 La tragédie se centre ainsi de plus en plus sur l’intériorité du héros ou de l’héroïne, phénomène qui coïncide avec l’émergence du sujet moderne[^23] ».
@@ -158,10 +158,10 @@ De plus, l’absence du chœur pour nuancer et problématiser le drame peut mene
 Du reste, dans la forme de la pièce de Corneille, le cadre formel encarcane l’intrigue, en alexandrins bien découpés.
 À l’exception de Dircé, qui à l’acte 3, scène 1, peut se permettre de déroger de la forme.
 En vers libres, elle peut déverser ses sentiments; ce passage témoigne de l’autonomie et de la force de l’héroïne, qui est la seule à pouvoir prendre ces licences.
-Pour Don Juan cependant, son aspect tragi-comique lui permet de mettre en tension « ces deux manières d’exister – l’une dans laquelle l’homme décide d’assumer sa condition d’être-pour-la-mort et l’autre où il décide, d’une manière tout aussi résolue bien que non explicite, d’ignorer la possibilité de sa fin et de transformer son horizon temporaire en une suite d’instants – sont, en même temps, les deux modalités fondamentales [tragédie et comédie] du théâtre histrionique[^25] ».
+Pour *Don Juan* cependant, son aspect tragi-comique lui permet de mettre en tension « ces deux manières d’exister – l’une dans laquelle l’homme décide d’assumer sa condition d’être-pour-la-mort et l’autre où il décide, d’une manière tout aussi résolue bien que non explicite, d’ignorer la possibilité de sa fin et de transformer son horizon temporaire en une suite d’instants – sont, en même temps, les deux modalités fondamentales [tragédie et comédie] du théâtre histrionique[^25] ».
 Donc, Don Juan refuse de voir sa fin (annoncée par tous les personnages) et la fuit dans une suite d’instants comiques, dans une « temporalité éternelle », comme « amnésique ».
-Au contraire, le personnage tragique de Donne Elvire est celle la temporalité mouvante, qui voit sa fin, et qui se rappelle ses fautes. En cela Don Juan me paraît, tant par son genre inclassable que par son personnage presque « prophétique » d’une humanité moderne, quasi anachronique.
-En effet, si l’on prend une citation sur la tragédie moderne, l’on peut voir à quel point il peut y avoir quelque résonnance : « le problème de la liberté de choix se pose alors dans des termes nouveaux, non pas face au destin ordonné par les dieux, mais face à la nature profonde de l’homme[^26] ».
+Au contraire, le personnage tragique de Donne Elvire est celle la temporalité mouvante, qui voit sa fin, et qui se rappelle ses fautes. En cela *Don Juan* me paraît, tant par son genre inclassable que par son personnage presque « prophétique » d’une humanité moderne, quasi anachronique.
+En effet, si l’on prend une citation sur la tragédie moderne, l’on peut voir à quel point il peut y avoir résonnance : « le problème de la liberté de choix se pose alors dans des termes nouveaux, non pas face au destin ordonné par les dieux, mais face à la nature profonde de l’homme[^26] ».
 Car même si Don Juan est puni par Dieu, c’est par sa faute et non en raison de son destin qu’il subit la damnation, et sa faute est sa nature profonde.
 
 ### Conclusion
@@ -172,8 +172,8 @@ Ces deux femmes inspirent sans conteste la pitié et la grandeur.
 Mais, malgré cela, elles ne semblent pas être le point principal de leur pièce.
 En effet, il semblerait que la tragédie se joue en dehors de ses personnages tragiques.
 Dès lors, leur perfection semble détourner le regard du public de la tragédie.
-Cachée dans Don Juan derrière l’humour, il s’agit de la nature impie de l’espèce humaine.
-Et, caché dans Œdipe par l’histoire d’amour propre aux tragédies psychologiques du 17<sup>e</sup>, il semblerait que ce soit une remise en question de la légitimité du pouvoir politique.
+Cachée dans *Don Juan* derrière l’humour, il s’agit de la nature impie de l’espèce humaine.
+Et, caché dans *Œdipe* par l’histoire d’amour propre aux tragédies psychologiques du 17<sup>e</sup>, il semblerait que ce soit une remise en question de la légitimité du pouvoir politique.
 Dans les deux cas, les auteurs avaient tout intérêt à camoufler ce genre de thématique.
 Après tout, comme l’a dit la spécialiste du 17<sup>e</sup> Judith Sribnai, la littérature d’Ancien Régime est une esthétique du biais[^27].
 
