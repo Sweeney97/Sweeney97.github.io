@@ -143,7 +143,7 @@ En conclusion, cette accumulation de définitions autour de la tragédie nous ai
 Cela m’amène à soulever la question suivante : ces femmes ne sont-elles que des paravents camouflant la tragédie?
 Des idéaux qui se tendent comme remparts devant l’inexplicable, le nœud de ces pièces?
 Et pourtant, toutes deux sont plus élevées que les hommes, plus grandes, plus fortes.
-Comme si Done Elvire servait à cacher habilement la déréliction, la nature mauvaise de l’homme, et Dircé la légitimité du pouvoir politique incarné par Œdipe.
+Comme si Done Elvire servait à cacher habilement la déréliction, la nature mauvaise de l’homme, et Dircé les questionnements de la légitimité du pouvoir politique incarné par Œdipe.
 
 ### Forme
 
