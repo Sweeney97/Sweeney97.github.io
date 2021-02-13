@@ -97,7 +97,7 @@ En fait, on pourrait presque s’aventurer à parler de la faillite de la raison
 Réfléchir, ce sera au contraire abonder en ce sens.
 Pourtant, on le sait, cette conduite mène à la damnation.
 Le pathos prend ici une valeur rédemptrice, ce qui est aux antipodes de la pensée de l’époque.
-Le « oh ciel » de Sganarelle contient en germe tous ces réseaux de tensions : un homme simple, mais sensible, touché par des événements tragiques, et ne pouvant articuler ces dépits par la raison, car alors il se ridiculise.
+Le « oh ciel&nbsp;» de Sganarelle contient en germe tous ces réseaux de tensions : un homme simple, mais sensible, touché par des événements tragiques, et ne pouvant articuler ces dépits par la raison, car alors il se ridiculise.
 Cette confrontation dans l’extrait analysé, c’est celle d’un homme intelligent qui fait peut d’effort pour articuler son discours, car tout existe déjà à sa portée contre un homme sot qui tire le diable par la queue pour construire du sens, mais qui n’y parvient pas, car il enferme sa raison en elle-même, dans un argumentaire vide de référent concret.
 La déclamation de cet extrait peut donc refléter ou aider à illustrer ces oppositions : d’un côté un homme libertin, vil par ses actes, brillant par son esprit, tour à tour noble, intelligent ou bas, qui prône par la raison exactement le contraire de ce que la raison devrait prôner.
 D’un autre un homme sot, de basse condition, mais sensible et touché par Dieu, témoin du pathétique de la situation, qui rend comme il peut ce combat perdu d’avance sur le terrain de la rhétorique.
