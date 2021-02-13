@@ -11,7 +11,7 @@ Date: avril 2020
 
 
 « Il ne me reste qu’à les coucher[^1] ».
-Cette phrase, lancée par Mouret alors qu’il toise sa « machine », son invention, et la foule de cliente succomber à la tentation d’un tissu à rabais, renseigne sur la volonté de Mouret d’autonomiser son magasin en ville miniature.
+Cette phrase, lancée par Mouret alors qu’il toise sa « machine », son invention, et la foule de clientes prêtes à succomber à la tentation d’un tissu à rabais, renseigne sur la volonté de Mouret d’autonomiser son magasin en ville miniature.
 Mais après tout, comme le dit Ignotus dans son article du Figaro, « les grands bazars sont les premières maisons de la grande cité de l’avenir[^2] ».
 Mais afin d’en arriver là, il faut « conquérir [...] l’acheteuse[^3] » écrit Pierre Larousse dans son dictionnaire de 1878.
 Et pour ce faire, paradoxalement, la rendre reine. Ces textes de Larousse et Ignotus font partie des discours ambiants qui circulaient lorsque Zola écrivait son roman Au Bonheur des Dames, et ils n’ont pas été sans répercussions.
