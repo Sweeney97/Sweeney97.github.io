@@ -121,22 +121,22 @@ Il a pour caractéristique la richesse, la démesure, le renversement des codes 
 D'ailleiurs, la quête de Gauvain réussie au ver 7875 environ, alors que pour ses multiples désirs qui vont à l'encontre de la norme courtoise, le chevalier aurait dû être puni.
 L'Autre Monde est en fait une métaphore de la mort ou du rêve.
 Par exemple, le château du roi pêcheur dans *Le conte du graal* semble avoir disparu pour Perceval à son réveil, ce qui n'est pas sans le rapprocher d'un rêve[^22]; pour la mort, par sa suspension du temps, mais aussi, dans *Le conte du graal*, et dans *Guigemar*, par l'incapacité de donner la vie[^23] symbolisée par la blessure à la cuisse: le roi pêcheur dit à Perceval : «je n'ai nul pooir de mon cors» (v.3342).
-Mais l'Autre Monde, c'est aussi ce qui est réel, mais spatialement éloigné : «l'Orient offre pêle-mêle les délices de ses jardins et les abominations de ses monstres divers pour donner un ailleurs où l'amour et la merveille peuvent se conjuguer au présent[^24] ».
-Et Gingras d'écrire au sujet des Îles que l'Occident y «exile» ses monstres, dont une créature particulière : l'amazone[^25], qui met en péril « l'ordre féodal et patriarcal [de] la sexualité masculine[^26]».
-Surtout, l'île y est représentée comme à la fois «un espace infernal et un lieu paradisiaque[^27] », ce qui illustre bien comment l'espace réussit à représenter la face antithétique du désir.
+Mais l'Autre Monde, c'est aussi ce qui est réel, mais spatialement éloigné : « l'Orient offre pêle-mêle les délices de ses jardins et les abominations de ses monstres divers pour donner un ailleurs où l'amour et la merveille peuvent se conjuguer au présent[^24] ».
+Et Gingras d'écrire au sujet des Îles que l'Occident y « exile » ses monstres, dont une créature particulière : l'amazone[^25], qui met en péril « l'ordre féodal et patriarcal [de] la sexualité masculine[^26] ».
+Surtout, l'île y est représentée comme à la fois « un espace infernal et un lieu paradisiaque[^27] », ce qui illustre bien comment l'espace réussit à représenter la face antithétique du désir.
 
 ##### L'Autre Monde, c'est l'Autre
 
 L'Autre Monde est certes un espace difficilement circonscriptible de la littérature médiévale, mais en définitive, il s'avère être l'Autre.
 L'Autre, c'est tout ce qui nous est inconnu : c'est soi-même, cette part d'inconscient en nous[^28], c'est la femme[^29], c'est la mythologie antique, c'est l'Orient, les Germains et les Celtes[^30].
-Et le lien entre l'Autre et l'érotisme est souligné par Gingras : «l'érotisme est la brèche par laquelle la merveille fait irruption dans la vie des hommes, brèche elle-même produite par l'émerveillement, l'incompréhension[^31]».
+Et le lien entre l'Autre et l'érotisme est souligné par Gingras : « l'érotisme est la brèche par laquelle la merveille fait irruption dans la vie des hommes, brèche elle-même produite par l'émerveillement, l'incompréhension[^31] ».
 Ce qui nous est étranger, et cela est encore vrai aujourd'hui, fascine et confond.
 
 ##### Conclusion
 
 Nous avons vu dans ce travail comment l'espace se module en fonction du désir, qui est toujours double: fascination et peur.
 Chaque espace décrit dans ce travail rend cette double réalité.
-L'orée de la forêt, point d'entrée vers la merveille, incarne l'espace d'un désir double en ce que les chevaliers s'y rendront souvent pour de chasser, jeu mortel entre l'animal et l'homme.
+L'orée de la forêt, point d'entrée vers la merveille, incarne l'espace d'un désir double en ce que les chevaliers s'y rendront souvent pour chasser, jeu mortel entre l'animal et l'homme.
 Dans la tente de la pucelle, l'initiatrice sexuelle de Perceval est abouchée par le chevalier, acte qui lui cause un immense déshonneur.
 La forêt quant à elle, lieu qui sans être merveilleux, l'héberge et qui par la nudité de ses personnages les rapproche de leur bestialité, porte en elle tant des scènes de viols, summum de la violente sexualité masculine problématique, que des figures exclues de la sexualité et du monde féodal, ainsi que des scènes de voyeurisme entre des chevaliers et des fées; s'y déroulent à la fois le désir et la violence sexuelle.
 Finalement vient l'Autre Monde.
