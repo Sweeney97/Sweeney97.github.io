@@ -34,7 +34,7 @@ Les guides merveilleux sont un motif récurrent de la littérature médiévale.
 Ceux-ci se présentent sous forme d'animal blanc, apparition subtile de l'Autre Monde.
 Par exemple, dans *Guigemar* de Marie de France, le chevalier «vit une bisse od sun foün./ Tute fu blanche cele beste» (v. 90-91).
 Tout comme la tente, l'animal incarne physiquement la transition vers l'inconnu, doté d'une double symbolique chrétienne et païenne[^7].
-Selon Paul Bretel, il faut faire la différence entre les ermites situés à l'orée de la forêt, informateurs et introducteur, et ceux dans la forêt, conseillers spirituels et charismatiques[^8].
+Selon Paul Bretel, il faut faire la différence entre les ermites situés à l'orée de la forêt, informateurs et introducteurs, et ceux dans la forêt, conseillers spirituels et charismatiques[^8].
 Un parallèle est à faire avec le guide merveilleux et la fée qui remplissent les mêmes fonctions.
 C'est une récupération du motif de l'ermite religieux qui s'opère au profit du merveilleux païen, un réinvestissement érotique de l'ermite en somme.
 Si ce dernier permet à l'individu de se retrouver par le biais de Dieu, mêmement, le guide amène le chevalier à la dame *faé*.
@@ -59,8 +59,8 @@ Elle permet à l'homme de libérer sa bestialité, sa violence.
 
 ##### Symbolique
 
-La forêt est un lieu où s'exprime l'ambivalence du désir : «Le jardin enchanté du locus *amoenus* pourrait bien trouver son double inversé dans les terreurs de la forêt, véritable locus *horroris* de la littérature médiévale[^10]».
-La forêt inverse la topique traditionnelle de l'amour; là, plusieurs inconnus s'y terrent, dont la femme « [qui] cache au cœur de la forêt, comme si elle était elle-même une créature sauvage[^11]».
+La forêt est un lieu où s'exprime l'ambivalence du désir : «Le jardin enchanté du locus *amoenus* pourrait bien trouver son double inversé dans les terreurs de la forêt, véritable locus *horroris* de la littérature médiévale[^10] ».
+La forêt inverse la topique traditionnelle de l'amour; là, plusieurs inconnus s'y terrent, dont la femme « [qui] se cache au cœur de la forêt, comme si elle était elle-même une créature sauvage[^11]».
 Dans le lai *Lanval* de Marie de France, le chevalier  
 
 >si vit venir dous dameiseles;
