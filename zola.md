@@ -75,10 +75,10 @@ Ainsi, la lutte entre les commis, lutte alimentée par Mouret, autant que la fou
 À preuve, au fil de l’histoire, le Bonheur devient plus éclairé, puisque le magasin est à la toute fin allumé par la lumière électrique, il y a toujours plus de commis qui y travaillent, de gens qui y achètent, et cela est possible par un plus grand agrandissement de la structure, qui par son aménagement laisse autant circuler l’air, la foule, la lumière.
 Le progrès est tellement développé qu’au faîte de sa gloire, le Bonheur peut se débarrasser des couleurs, il devient blanc, tout comme un concentré de lumière, de progrès.
 De plus, Zola aménage au sein de sa fiction une opposition marquée avec l’ancien commerce situé en face du Bonheur; celui-ci est froid, mal éclairé, confiné, l’air n’y circule point, il y a peu de clients et même la matière du bâtiment est sujet à caution.
-Pour la lumière électrique, il est intéressant de voir le traitement qu’en fait Ignotus : « leur [les bazars] lumière électrique, c’est la clarté qui continuera dans la nuit celle du soleil ».
+Pour la lumière électrique, il est intéressant de voir le traitement qu’en fait Ignotus : « [la] lumière électrique [des bazars], c’est la clarté qui continuera dans la nuit celle du soleil ».
 Dès le journal, en vérité, les grands magasins semblent mythiques : « les grands bazars sont les premières maisons de la grande cité de l’avenir![^35] ».
 Cette dernière grande étape, l’autonomisation des grands magasins, ne se passe pas exactement comme le prévoyait Mouret : alors qu’il pensait en cycle fermé au sujet des clientes, sans voir l’absurdité du traitement réservé à ses employés, c’est par le biais de Denise qu’il réalise une réelle autonomisation du Bonheur en « cité de l’avenir ».
-Puisque Denise représente les employés, elle apporte un contre-pouvoir essentiel et permet d’améliorer la condition des employés, et de l’amélioration de leur condition né un écosystème plus stable.
+Puisque Denise représente les employés, elle apporte un contre-pouvoir essentiel et permet d’améliorer la condition des employés, et de l’amélioration de leur condition nait un écosystème plus stable.
 Le monstre se transforme en mécanique moins coercitive, plus « humaine », et, ses plus grosses tares passées, il devient réellement « une belle et une bonne œuvre de notre époque – malgré [quelques] défauts[^36] ».
 
 ### Conclusion
