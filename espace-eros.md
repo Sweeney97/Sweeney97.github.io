@@ -94,7 +94,7 @@ Il pourrait difficilement se dérouler à la cour; un acte aussi contraire aux n
 > domestiquée[^15].
 
 La forêt se pose comme lieu double ou se découvre le désir dans ce qu'il a d'érotique, mais aussi dans sa violente crudité.
-Dans le *Graelent*, après que la fée refuse de se donner, le héros «fait de li ce que li plest[^16] » (v.296).
+Dans le *Graelent*, après que la fée refuse de se donner, le héros « fait de li ce que li plest[^16] » (v.296).
 Ceci est un exemple parmi beaucoup d'autres, tellement que cela « prend une dimension particulièrement récurrente dans littérature courtoise qui traite, dans ses fictions, les obsessions patriarcales intensifiées par le christianisme[^17]. »
 Mais le cas de *Graelant* est intéressant en ce que le chevalier se trouve récompensé de cet acte.
 Les répercussions sociales positives de son viol sont imputables au fait que « Le monde des fées ne connaît pas les contraintes courtoises[^18] ».
@@ -105,7 +105,7 @@ La forêt permet de libérer toute la violence sexuelle masculine dans sa forme 
 Dans une réécriture du désir, dans son actualisation au confluent du folklore celte et du monde chrétien, la forêt rend bien toute son ambivalence; un lieu traversé par des symboles et des cultures différents qui, grâce à elle, se répondent.
 Elle incarne la dynamique antithétique du désir, sa part d'ombre et de lumière.
 À la fois lieu de rencontre avec la fée, lieu du désir, mais aussi lieu de la violence masculine, en témoigne les nombreuses scènes de viols qui ont eu lieu en son sein.
-Par son éloignement d'avec la cité, par sa couverture végétale, la forêt est ce lieu qu'appelle le désir, mystérieux, fascinant; parfois lieu de l'anti-cours, où les valeurs chrétiennes structurantes s'effondrent et où l'amour courtois s'inverse pour dénouer les frustrations accumulées.
+Par son éloignement d'avec la cité, par sa couverture végétale, la forêt est ce lieu qu'appelle le désir, mystérieux, fascinant; parfois lieu de l'anti-cour, où les valeurs chrétiennes structurantes s'effondrent et où l'amour courtois s'inverse pour dénouer les frustrations accumulées.
 
 ### L'Autre Monde et conclusion
 
@@ -115,12 +115,12 @@ On pourrait presque dire qu'il est issu de l'érotisme, en effet, « [celui-ci] 
 
 ##### L'Autre Monde
 
-Commençons par une précision d'ordre générale : le terme Autre Monde en est un contemporain, au surplus lit-on «autre pays[^20]», mais autrement il n'a pas de nom spécifique.
+Commençons par une précision d'ordre générale : le terme Autre Monde en est un contemporain, au surplus lit-on « autre pays[^20] », mais autrement il n'a pas de nom spécifique.
 Spatialement, si l'au-delà chrétien apparaît dans une hiérarchie verticale[^21], l'Autre Monde se place dans une hiérarchie horizontale.
 Il a pour caractéristique la richesse, la démesure, le renversement des codes sociétaux, la suspension du temps, la merveille ou le surnaturel (choses contraires à la nature ou à la raison) et procède souvent en miroir d'avec le monde réel du héros; par exemple, dans *Le Conte du graal*, Gauvin est un anti-Perceval et l'Autre Monde, une anti-cour.
 Par exemple, la quête de Gauvain dans *Le Conte du graal*, réussie au ver 7875 environ, alors que pour ses multiples désirs qui vont à l'encontre de la norme courtoise, le chevalier aurait dû être puni.
 L'Autre Monde est en fait une métaphore de la mort ou du rêve.
-Par exemple, le château du roi pêcheur dans *Le conte du graal* semble avoir disparu pour Perceval à son réveil, ce qui n'est pas sans le rapprocher d'un rêve[^22]; pour la mort, par sa suspension du temps, mais aussi, dans *Le conte du graal*, et dans *Guigemar*, par l'incapacité de donner la vie[^23] symbolisé par la blessure à la cuisse. Le roi pêcheur, par exemple, dit à Perceval : «je n'ai nul pooir de mon cors» (v.3342).
+Par exemple, le château du roi pêcheur dans *Le conte du graal* semble avoir disparu pour Perceval à son réveil, ce qui n'est pas sans le rapprocher d'un rêve[^22]; pour la mort, par sa suspension du temps, mais aussi, dans *Le conte du graal*, et dans *Guigemar*, par l'incapacité de donner la vie[^23] symbolisée par la blessure à la cuisse. Le roi pêcheur, par exemple, dit à Perceval : «je n'ai nul pooir de mon cors» (v.3342).
 Mais l'Autre Monde, c'est aussi ce qui est réel, mais spatialement éloigné : «l'Orient offre pêle-mêle les délices de ses jardins et les abominations de ses monstres divers pour donner un ailleurs où l'amour et la merveille peuvent se conjuguer au présent[^24] ».
 Et Gingras d'écrire au sujet des Îles que l'Occident y «exile» ses monstres, dont une créature particulière : l'amazone[^25], qui met en péril « l'ordre féodal et patriarcal [de] la sexualité masculine[^26]».
 Surtout, l'île y est représentée comme à la fois «un espace infernal et un lieu paradisiaque[^27] », ce qui illustre bien comment l'espace réussit à représenter la face antithétique du désir.
