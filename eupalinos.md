@@ -36,7 +36,7 @@ Il fut découragé à un moment de sa vie de ne pouvoir créer quelque chose d'a
 ### *Eupalinos ou l'Architecte*
 *Eupalinos* est écrit sous forme de dialogues entre deux protagonistes, Phèdre et Socrate.
 Le texte fait environ une centaine de pages et ne comporte aucune didascalie ou aucune écriture en dehors des dialogues, il n'y a pas d'intervention d'un narrateur.
-L'histoire se déroule dans le monde des morts, peu de temps après la mort de Socrate: quoique publié au 20e siècle, Valéry tente de circonscrire son écriture afin de pasticher le style antique.
+L'histoire se déroule dans le monde des morts, peu de temps après la mort de Socrate: quoique publié au 20<sup>e</sup> siècle, Valéry tente de circonscrire son écriture afin de pasticher le style antique.
 Le texte travaille plusieurs problématiques, notamment la valeur de l'architecture et de la musique, ainsi que de la peinture et de la littérature, puis finalement de la philosophie.
 *Eupalinos* est donc un texte littéraire qui représente des philosophes, en utilisant le style platonicien, c'est-à-dire celui des dialogues à caractère pédagogique, où le lecteur peut suivre l'élaboration de la pensée et des arguments pas à pas.
 Seulement, le texte prend une distance critique par rapport aux philosophes, et par rapport à la philosophie en général, puisque les deux protagonistes développent qu'elle est vaine en comparaison de l'architecture ou de la musique.
@@ -116,4 +116,4 @@ JARRETY, Michel. s. d. « [VALÉRY PAUL - (1871-1945) ](http://www.universali
 
 « SYMBOLISME ». s. d. [*Centre National de Ressources Textuelles et Lexicales*](https://www.cnrtl.fr/definition/symbolisme).
 
-Valéry, Paul. s. d. [*Eupalinos ou l’Architecte*](https://fr.wikisource.org/wiki/Eupalinos_ou_l%E2%80%99Architecte#).
+Valéry, Paul. 1921. [*Eupalinos ou l’Architecte*](https://fr.wikisource.org/wiki/Eupalinos_ou_l%E2%80%99Architecte#).
