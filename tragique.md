@@ -19,7 +19,7 @@ Pour l'une le devoir, pour l'autre Dieu.
 *Don Juan* est une comédie par Molière représentée en 1665.
 Mêlant à la fois des éléments tragiques au comique, cette pièce est parfois catégorisée comme tragi-comédie[^1]<sup>,</sup>[^2].
 Ce genre hybride comporte « une certaine confusion générique[^3] » selon Dandrey, mais pour le présent travail, je me pencherai principalement sur le tragique de la pièce, qui se retrouve en la figure féminine de Don Elvire.
-La pièce *Don Juan* fut censurée, avant de pouvoir être publié intégralement au 19<sup>e</sup> siècle; et pour cause, Molière met en scène un athée qui commet force impiétés; Don Elvire est une « victime » des fourberies de Don Juan.
+La pièce *Don Juan* fut censurée, avant de pouvoir être publiée intégralement au 19<sup>e</sup> siècle; et pour cause, Molière met en scène un athée qui commet force impiétés; Don Elvire est une « victime » des fourberies de Don Juan.
 *Œdipe* est une tragédie écrite par Corneille représentée en 1659, qui s'inscrit dans le mouvement de la galanterie, mouvement qui met de l'avant la force d'esprit des femmes.
 Corneille reprend à son compte l'histoire antique de Sophocle, afin de superposer à la trame narrative une nouvelle histoire sur les amants Dircé et Thésée, l'histoire d'Œdipe n'étant présente qu'en arrière-plan.
 Cette distanciation de l'histoire incestueuse d'Œdipe permit à la pièce de plaire à un public pour qui la bienséance était primordiale.
