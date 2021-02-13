@@ -17,7 +17,7 @@ Dans ce texte, je tenterai de définir qu'est-ce qu'un moraliste et en quoi Pasc
 ### Définitions
 
 Il nous importe premièrement de définir ce que veut dire moraliste.
-Selon le dictionnaire de l'Académie française de 1798, un moraliste est « un écrivain qui traite des mœurs[^3] », définition aussi appuyée et enrichie par François Trémolière : « au-delà de la description des mœurs, leur véritable objet n'est autre, en effet, que la nature humaine[^4] ».
+Selon le dictionnaire de l'Académie française de 1798, un moraliste est « un écrivain qui traite des mœurs[^3] », définition aussi appuyée et enrichie par François Trémolières : « au-delà de la description des mœurs, leur véritable objet n'est autre, en effet, que la nature humaine[^4] ».
 Ensuite, nous devons par conséquent définir ce que sont les mœurs.
 Toujours selon le dictionnaire de l'Académie, nous avons : « habitudes naturelles [...] dans tout ce qui regarde la conduite de la vie[^5] ».
 Pour prendre une définition semblable, mais moderne, tirée du CNRTL : « Ensemble de comportements propres à un groupe humain ou à un individu[^6] ».
