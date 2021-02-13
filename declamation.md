@@ -56,13 +56,13 @@ Nous avons donc un mauvais exemple d’un discours épidictique : l’exorde est
 Il serait intéressant de se pencher sur le cas du personnage de Dom Juan dans l’ensemble de la pièce.
 Il peut se présenter noblement, lorsqu’il sauve les deux frères et parle avec eux en qualité de gentilhomme, comme il peut être comique lorsqu’il est pris dans une situation embarrassante telle que celle des deux femmes se disputant son mariage, et cela devrait aussi influencer sa déclamation.
 Dans l’extrait choisi pour le présent travail, ainsi que le style de son discours, moyen, tout porte à croire que la déclamation du personnage est neutre, d’autant plus qu’il est sans pathos.
-On pourrait dire que la répétition entre le « on » et le « je », se ferait sentir au niveau de la déclamation, avec une voix légèrement plus forte pour le je, car il est l’élément sur lequel Dom Juan bénéficierait à appuyer[^19].
+On pourrait dire que la répétition entre le « on » et le « je », se ferait sentir au niveau de la déclamation, avec une voix légèrement plus forte pour le « je », car il est l’élément sur lequel Dom Juan bénéficierait à appuyer[^19].
 Cette différence de ton permettrait un meilleur passage pour la compréhension du public entre les différentes parties du discours.
 Pour la gestuelle, on pourrait supposer qu’en gentilhomme intelligent, Dom Juan s’en sert correctement afin d’appuyer les parties de son discours.
 La partie la plus intéressante à relever serait la digression.
 S’il devait y avoir quelque marque émotive, ce serait là.
 La digression, comme son nom l’indique, s’écarte, et « sert à distraire l’auditeur[^20] », ici, c’est Dom Juan qui semble se distraire lui-même, s’emportant dans ses pensées.
-Sganarelle n’a que peut à faire des prochains déportements de son maitre.
+Sganarelle n’a que peu à faire des prochains déportements de son maitre.
 La voix pourrait donc s’élever et le rythme s’accélérer.
 La seule marque de pathos de son discours, l’interrogation, sert à « éclaircir sans passion, et le ton doit être doux[^21] », et n’est donc pas véritablement une marque de pathos.
 
