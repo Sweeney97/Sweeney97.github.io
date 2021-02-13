@@ -108,8 +108,8 @@ Quoiqu’au début « Lol installa sa maison natale avec le même soin strict qu
 > Pourquoi ces lieux plutôt que d’autres? En quelque point qu’elle s’y trouve Lol y est comme une première fois. De la distance invariable du souvenir elle ne dispose plus : elle est là. Sa présence fait la ville pure, méconnaissable. Elle comme à marcher dans le palais fastueux de l’oubli de S. Thala (p.43).
 
 Ainsi Lol ne marche plus dans sa ville, S. Thala, mais dans l’oubli, oubli qui fait de la ville un lieu pur, absolu.
-Seul reste en sa mémoire T. Beach et ses acteurs, le bal à cannibalisé l’ensemble de ses souvenirs.
-La marche permettra à Lol de reconstruire continuellement l’instant du bal, sur lequel elle s’attarde : « Elle recommence le passé, elle l’ordonne, sa véritable demeure, elle la range lol progresse chaque jour dans la reconstitution de cet instant » (p.46).
+Seuls reste en sa mémoire T. Beach et ses acteurs, le bal a cannibalisé l’ensemble de ses souvenirs.
+La marche permettra à Lol de reconstruire continuellement l’instant du bal, sur lequel elle s’attarde : « Elle recommence le passé, elle l’ordonne, sa véritable demeure, elle la range Lol progresse chaque jour dans la reconstitution de cet instant » (p.46).
 Cette dernière image permet de consolider ce qui a déjà été mentionné dans la première section : Lol construit, aménage, elle vit dans ce souvenir plus que dans la réalité.
 Elle habite dans son souvenir du bal, et n’ayant pas de souvenir de S. Thala, elle n’y habite pas, la ville se donne comme immédiate, absolue.
 Du reste, les déambulations urbaines de Lol donnent lieu à une scène narrativement très forte, où Hold entre dans le jeu de Lol, se dédouble, et se suit lui, Hold, en train de suivre Lol.
@@ -125,7 +125,7 @@ Bien sûr cela est peine perdue, puisque dans ce mouvement de fuite perpétuelle
 ### Conclusion
 
 Ainsi, certains espace-temps structurent *Le ravissement* : le bal, la mer, la ville, etc.
-Évidemment, il y en a bien plus que les trois espace-temps couverts par ce travail, mais j’ai tenté de m’attarder sur ceux qui me semblaient plus importants.
+Évidemment, il y a bien plus que les trois espace-temps couverts par ce travail, mais j’ai tenté de m’attarder sur ceux qui me semblaient plus importants.
 Ils révèlent une importance tantôt symbolique : le bal est lié à la structuration d’un désir axé sur l’excentration, la plage à la quête de la dépersonnalisation et la ville au déplacement, à la construction, à l’agencement.
 Mais de plus, ils organisent aussi l’espace-temps diégétique et narratif.
 Le bal est un élément récurrent dans le récit, qui s’achève, en s’y emboîtant, dans la plage.
