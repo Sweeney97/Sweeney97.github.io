@@ -60,7 +60,7 @@ Elle permet à l'homme de libérer sa bestialité, sa violence.
 ##### Symbolique
 
 La forêt est un lieu où s'exprime l'ambivalence du désir : «Le jardin enchanté du locus *amoenus* pourrait bien trouver son double inversé dans les terreurs de la forêt, véritable locus *horroris* de la littérature médiévale[^10] ».
-La forêt inverse la topique traditionnelle de l'amour; là, plusieurs inconnus s'y terrent, dont la femme « [qui] se cache au cœur de la forêt, comme si elle était elle-même une créature sauvage[^11]».
+La forêt inverse la topique traditionnelle de l'amour; là, plusieurs inconnus s'y terrent, dont la femme « [qui] se cache au cœur de la forêt, comme si elle était elle-même une créature sauvage[^11] ».
 Dans le lai *Lanval* de Marie de France, le chevalier  
 
 >si vit venir dous dameiseles;
@@ -73,17 +73,17 @@ Dans le lai *Lanval* de Marie de France, le chevalier  
 
 La forêt est de plus un lieu où le chevalier devient voyeur, et ce voyeurisme préside l'érotisme.
 Le lieu de l'amour se transforme en lieu du désir, où la forêt fait appel à la part du sauvage en l'homme, et où la merveille renverse la symbolique de l'amour courtois au profit du désir sauvage[^12].
-S'y retrouvent alors plusieurs figurent exclue de la sexualité.
-«Le monstre porte avec sa différence la violence sexuelle bridée par la norme[^13]»; s'y côtoient géants, loups-garous et lépreux qui sont nécessairement confinés dans la forêt.
+S'y retrouvent alors plusieurs figurent exclues de la sexualité.
+« Le monstre porte avec sa différence la violence sexuelle bridée par la norme[^13] »; s'y côtoient géants, loups-garous et lépreux qui sont nécessairement confinés dans la forêt.
 Ces monstres, ou plutôt ces débordements sexuels incarnés par le monstre, lient ensemble le lieu de l'inconnu, le merveilleux par lesquels ils prennent forme, et la sexualité.
 On peut donc dire de la forêt que sans être en soi un lieu merveilleux, elle est un lieu où la sexualité s'exprime à l'aide du merveilleux.
 Elle contient en elle tant l'objet du désir (la femme) que les figures inquiétantes de la sexualité exprimées par le monstre; transformant la forêt en lieu d'horreur.
-Elle peut aussi «contaminer» l'homme qui y pénètre : le rendre fou ou révéler sa bestialité qu'il portait en lui.
+Elle peut aussi « contaminer » l'homme qui y pénètre : le rendre fou ou révéler sa bestialité qu'il portait en lui.
 Dans le lai de Marie de France le *Bisclavret*, l'homme se transforme en loup-garou dès qu'il pénètre dans la forêt, où il laisse libre court à sa forme animale, loin de sa société, il dit à ce sujet à sa femme que «Dame, jeo devienc bisclavret./ En cele grant forest me met/ al plus espés de la gualdine» (v. 63-65). L'homme essaie de s'enfoncer le plus loin possible afin de cacher son dérèglement sexuel.
 
 ##### Viol
 
-Le viol est un peu, en quelque sorte, le summum de la violence sexuelle masculine, d'ailleurs « la tradition courtoise [...] accorde d'abord au masculin la violence du désir insatisfait[^14]».
+Le viol est un peu, en quelque sorte, le summum de la violence sexuelle masculine, d'ailleurs « la tradition courtoise [...] accorde d'abord au masculin la violence du désir insatisfait[^14] ».
 Il pourrait difficilement se dérouler à la cour; un acte aussi contraire aux normes courtoises, aussi violent, doit se passer dans un lieu éloigné de la cité, comme le souligne Reiger :
 
 > Il n'est pas étonnant que la rupture de la norme courtoise ait lieu
@@ -94,10 +94,10 @@ Il pourrait difficilement se dérouler à la cour; un acte aussi contraire aux n
 > domestiquée[^15].
 
 La forêt se pose comme lieu double ou se découvre le désir dans ce qu'il a d'érotique, mais aussi dans sa violente crudité.
-Dans le *Graelent*, après que la fée refuse de se donner, le héros «fait de li ce que li plest[^16]» (v.296).
-Ceci est un exemple parmi beaucoup d'autres, tellement que cela « prend une dimension particulièrement récurrente dans littérature courtoise qui traite, dans ses fictions, les obsessions patriarcales intensifiées par le christianisme[^17].»
+Dans le *Graelent*, après que la fée refuse de se donner, le héros «fait de li ce que li plest[^16] » (v.296).
+Ceci est un exemple parmi beaucoup d'autres, tellement que cela « prend une dimension particulièrement récurrente dans littérature courtoise qui traite, dans ses fictions, les obsessions patriarcales intensifiées par le christianisme[^17]. »
 Mais le cas de *Graelant* est intéressant en ce que le chevalier se trouve récompensé de cet acte.
-Les répercussions sociales positives de son viol sont imputables au fait que « Le monde des fées ne connaît pas les contraintes courtoises[^18]».
+Les répercussions sociales positives de son viol sont imputables au fait que « Le monde des fées ne connaît pas les contraintes courtoises[^18] ».
 La forêt permet de libérer toute la violence sexuelle masculine dans sa forme la plus problématique, cette nature sauvage ne peut éclater que sous son couvert végétal, qui permet de voir les multiples aspects du désir.
 
 ##### Forêt du désir et de la bestialité
@@ -111,7 +111,7 @@ Par son éloignement d'avec la cité, par sa couverture végétale, la forêt es
 
 L'Autre Monde est un espace polymorphe; tantôt rêve, tantôt allégorie de la mort (ou à la fois l'un et l'autre), il est l'espace le plus patent de la matérialisation des fantasmes.
 Au contraire de la forêt, qui n'était pas un espace merveilleux, mais qui l'hébergeait, l'Autre Monde est toujours merveilleux *en soi*.
-On pourrait presque dire qu'il est issu de l'érotisme, en effet, « [celui-ci] est étranger au laisser-faire de l'ordre naturel; il s'épanouit plutôt dans l'artifice d'un ordre parallèle créé par ses propres moyens[^19]».
+On pourrait presque dire qu'il est issu de l'érotisme, en effet, « [celui-ci] est étranger au laisser-faire de l'ordre naturel; il s'épanouit plutôt dans l'artifice d'un ordre parallèle créé par ses propres moyens[^19] ».
 
 ##### L'Autre Monde
 
@@ -121,9 +121,9 @@ Il a pour caractéristique la richesse, la démesure, le renversement des codes 
 Par exemple, la quête de Gauvain dans *Le Conte du graal*, réussie au ver 7875 environ, alors que pour ses multiples désirs qui vont à l'encontre de la norme courtoise, le chevalier aurait dû être puni.
 L'Autre Monde est en fait une métaphore de la mort ou du rêve.
 Par exemple, le château du roi pêcheur dans *Le conte du graal* semble avoir disparu pour Perceval à son réveil, ce qui n'est pas sans le rapprocher d'un rêve[^22]; pour la mort, par sa suspension du temps, mais aussi, dans *Le conte du graal*, et dans *Guigemar*, par l'incapacité de donner la vie[^23] symbolisé par la blessure à la cuisse. Le roi pêcheur, par exemple, dit à Perceval : «je n'ai nul pooir de mon cors» (v.3342).
-Mais l'Autre Monde, c'est aussi ce qui est réel, mais spatialement éloigné : «l'Orient offre pêle-mêle les délices de ses jardins et les abominations de ses monstres divers pour donner un ailleurs où l'amour et la merveille peuvent se conjuguer au présent[^24]».
+Mais l'Autre Monde, c'est aussi ce qui est réel, mais spatialement éloigné : «l'Orient offre pêle-mêle les délices de ses jardins et les abominations de ses monstres divers pour donner un ailleurs où l'amour et la merveille peuvent se conjuguer au présent[^24] ».
 Et Gingras d'écrire au sujet des Îles que l'Occident y «exile» ses monstres, dont une créature particulière : l'amazone[^25], qui met en péril « l'ordre féodal et patriarcal [de] la sexualité masculine[^26]».
-Surtout, l'île y est représentée comme à la fois «un espace infernal et un lieu paradisiaque[^27]», ce qui illustre bien comment l'espace réussit à représenter la face antithétique du désir.
+Surtout, l'île y est représentée comme à la fois «un espace infernal et un lieu paradisiaque[^27] », ce qui illustre bien comment l'espace réussit à représenter la face antithétique du désir.
 
 ##### L'Autre Monde, c'est l'Autre
 
@@ -138,7 +138,7 @@ Nous avons vu dans ce travail comment l'espace se module en fonction du désir, 
 Chaque espace décrit dans ce travail rend cette double réalité.
 L'orée de la forêt, point d'entrée vers la merveille, incarne l'espace d'un désir double en ce que les chevaliers s'y rendront souvent pour de chasser, jeu mortel entre l'animal et l'homme.
 Dans la tente de la pucelle, l'initiatrice sexuelle de Perceval est abouchée par le chevalier, acte qui lui cause un immense déshonneur.
-La forêt quant à elle, lieu qui sans être merveilleux, l'héberge et qui par la nudité de ses personnages les rapproche de leur bestialité, porte en elle tant des scènes de viols, summum de la violente sexualité masculine problématique, que des figures exclue de la sexualité et du monde féodal, ainsi que des scènes de voyeurisme entre des chevaliers et des fées; s'y déroulent à la fois le désir et la violence sexuelle.
+La forêt quant à elle, lieu qui sans être merveilleux, l'héberge et qui par la nudité de ses personnages les rapproche de leur bestialité, porte en elle tant des scènes de viols, summum de la violente sexualité masculine problématique, que des figures exclues de la sexualité et du monde féodal, ainsi que des scènes de voyeurisme entre des chevaliers et des fées; s'y déroulent à la fois le désir et la violence sexuelle.
 Finalement vient l'Autre Monde.
 La mort, les fantasmes, le rêve.
 En leur sein, le temps se suspend, la réalité s'altère, l'espèce disparaît ou se distend.
