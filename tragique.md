@@ -88,7 +88,7 @@ Done Elvire accepte son destin et ne crain pas la mort : « je ne demande qu’a
 Dircé aussi non seulement ne crain pas la mort, mais elle veut littéralement y courir : « ma flamme à la mort m’avait trop résolue /Pour ne pas y courir quand les Dieux l’ont voulue » (acte 2, scène 3).
 Finalement, l’acceptation de la faute participe chez ces femmes d’un idéal de pureté et de franchise. Donne Elvire n’en glisse que quelques mots, dont en autres : « ce même ciel, qui m’a touché le cœur et fait jeter les yeux sur les égarements de ma conduite » (acte 4, scène 9), peu après dans le même paragraphe, elle avoue avoir « oublié son devoir » (acte 4, scène 9).
 Dircé de son côté affirme aussi son erreur : « si j’ai causé sa mort, puis-je vivre sans crime? » (acte 2, scène 3) pour ensuite conclure quelques vers plus loin « ainsi j’en fus la cause » (acte 2, scène 3).
-Ainsi donc, toutes deux acceptent sans détour leur erreur, leur destin et confrontent les hommes de manière à en ressortir plus grande qu’eux, plus forte qu’eux dans leur franchise.
+Ainsi donc, toutes deux acceptent sans détour leur erreur, leur destin et confrontent les hommes de manière à en ressortir plus grandes qu’eux, plus fortes qu’eux dans leur franchise.
 La seule différence étant l’idéologie jésuitique ou janséniste qui fait de la première une résignée, et de l’autre, une combattante.
 Et chacune portent un idéal de société : pour Done Elvire, il s’agit de la femme pieuse, et même, plus encore, du pieux qu’il soit homme ou femme.
 Done Elvire incarne ni plus ni moins un idéal de piété.
@@ -131,7 +131,7 @@ Pour Œdipe, la pitié et la crainte sont présentes, tant pour l’erreur qu’
 Ensuite, les deux personnages éponymes sont des personnages d’actions moralement répréhensibles : Don Juan pour son libertinage, Œdipe pour son parricide et inceste.
 Pour Don Juan il est intéressant de voir comment Molière s’oppose aux essences dans ses pièces par la figure de l’hypocrite.
 En effet, durant l’Ancien Régime, les caractères permettaient la reconnaissance, ainsi qu’une étiquette, du personnage et des actions qu’il devait commettre.
-Au contraire, en bon matérialiste, Aristote indique que c’est plutôt le contraire : les actions déterminent les caractères[^22].
+Au contraire, en bon matérialiste, Aristote indique que les actions déterminent les caractères[^22].
 Là où le bât blesse, c’est que malgré l’étiquette du personnage (par exemple, Don Juan, gentilhomme) les actes transgressent l’éthique.
 Et c’est encore pire quand l’auteur se permet de nuancer : Don Juan n’est pas qu’un méchant homme, en fait foi le sauvetage des deux hommes assaillis par des brigands à l’acte trois.
 Le personnage devait se trouver dès lors dans une zone grise inconfortable pour le public d’époque.
