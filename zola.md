@@ -84,7 +84,7 @@ Le monstre se transforme en mécanique moins coercitive, plus « humaine », et,
 ### Conclusion
 
 Ainsi, le roman fait de la représentation des grands magasins une grandeur certaine, irrésistible, fatale.
-Mais c’est, dans les nuances de l’intelligence, sans être dupe : la narration s’arrête longuement sur les persécutés, sur les morts, les malheurs, «la misère sacrée des vaincus[^37]», et malgré la considération qu’ils sont essentiels pour le mouvement continuel de la vie, l’auteur sème ici et là, discrètement en regard des autres images largement appuyées (le monstre, la machine, la maison de la femme, etc.) des avertissements.
+Mais c’est, dans les nuances de l’intelligence, sans être dupe : la narration s’arrête longuement sur les persécutés, sur les morts, les malheurs, « la misère sacrée des vaincus[^37] », et malgré la considération qu’ils sont essentiels pour le mouvement continuel de la vie, l’auteur sème ici et là, discrètement en regard des autres images largement appuyées (le monstre, la machine, la maison de la femme, etc.) des avertissements.
 En effet, ce « paradis[^38] » qu’en apparence, puisque qu’il s’agit d’un au-delà d’une beauté commercialisée et marchande, s’avère être une tour de Babel[^39] et la recette d’un million qu’elle engrange, un veau d’or[^40].
 Des symboles bibliques riches de sens : pour Babel, une démesure humaine, servant à rejoindre Dieu.
 (À ce sujet, n’est-il donc pas écrit que « les églises que désertait peu à peu la foi chancelante étaient remplacées par [le] bazar[^41] »?)
@@ -93,7 +93,7 @@ Mais dans la bible, la démesure de la tour est sévèrement punie par Dieu qui 
 Et le veau d’or est quant à lui littéralement une substitution divine par de l’argent : les hommes sous la déréliction créèrent leur Dieu en or.
 Mais cet aveuglement entraîne aussi la colère divine puisqu’ultimement, cet or, n’est que de l’or; une idole.
 Cela n’est pas sans rappeler la lucidité de Paul, l’un des personnages d’*Au Bonheur des Dames*, « qui, dans l’ennui de son pessimisme, continuait à trouver inepte la turbulence de cette humanité, pour des chiffons[^42] ».
-Finalement, le texte semble disséminer les indices de la mort prochaine de cette vie en train de prendre forme, en raison de « cette lutte pour la vie qui [fait] pousser les êtres sur le charnier de l’éternelle destruction[^43] », et pose en filigrane la fatuité humaine : « la foule n’était plus que poussière humaine [^44] », ce qui rappelle, sans conteste le «tu es poussière et tu retourneras en poussière» de la génèse.
+Finalement, le texte semble disséminer les indices de la mort prochaine de cette vie en train de prendre forme, en raison de « cette lutte pour la vie qui [fait] pousser les êtres sur le charnier de l’éternelle destruction[^43] », et pose en filigrane la fatuité humaine : « la foule n’était plus que poussière humaine [^44] », ce qui rappelle, sans conteste le « tu es poussière et tu retourneras en poussière » de la génèse.
 
 ### Bibliographie
 
