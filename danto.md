@@ -9,7 +9,7 @@ Date: avril 2018
 
 Selon Danto, il existe des prédicats esthétiques spécifiques aux œuvres d’art.
 Si l’on dit que des fleurs peintes sont puissantes, ce n’est pas la même chose que de le dire pour celles d’un jardin.
-Au contraire, on peut dire de belles fleurs à la fois pour la peinture que pour le réel.
+Au contraire, on peut dire que ce sont de belles fleurs à la fois pour la peinture que pour le réel.
 Ce qui donne lieu à un élargissement du vocabulaire esthétique, car la beauté nous dit peu sur les œuvres.
 De plus, la compréhension esthétique est plus intellectuelle que sensitive pour les œuvres d’art, et selon Danto, la beauté est visible.
 Ce qui le mène à un revirement définitionnel de l’art en évacuant la beauté.
