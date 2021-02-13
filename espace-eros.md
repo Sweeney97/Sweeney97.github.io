@@ -140,7 +140,7 @@ L'orée de la forêt, point d'entrée vers la merveille, incarne l'espace d'un d
 Dans la tente de la pucelle, l'initiatrice sexuelle de Perceval est abouchée par le chevalier, acte qui lui cause un immense déshonneur.
 La forêt quant à elle, lieu qui sans être merveilleux, l'héberge et qui par la nudité de ses personnages les rapproche de leur bestialité, porte en elle tant des scènes de viols, summum de la violente sexualité masculine problématique, que des figures exclues de la sexualité et du monde féodal, ainsi que des scènes de voyeurisme entre des chevaliers et des fées; s'y déroulent à la fois le désir et la violence sexuelle.
 Finalement vient l'Autre Monde: lieu de mort, de fantasmes, de rêve.
-En leur sein, le temps se suspend, la réalité s'altère, l'espèce disparaît ou se distend.
+En son sein, le temps se suspend, la réalité s'altère, l'espèce disparaît ou se distend.
 Là, la part d'inconnu de chacun resurgit, et l'espace ultime est finalement dans le héros; c'est de ce qu'il ignore, qui le fascine et lui fait peur, que naît le désir.
 La littérature médiévale réussit à mettre en lumière cette part d'ombre que chaque homme portait en lui à cette époque, et en cela, elle est universelle et intemporelle.
 Toutefois, une dernière question se pose : que peut-on réellement intégrer dans l'espace? Concept assez large s'il en est.
