@@ -135,7 +135,7 @@ Au contraire, en bon matérialiste, Aristote indique que les actions déterminen
 Là où le bât blesse, c’est que malgré l’étiquette du personnage (par exemple, Don Juan, gentilhomme) les actes transgressent l’éthique.
 Et c’est encore pire quand l’auteur se permet de nuancer : Don Juan n’est pas qu’un méchant homme, en fait foi le sauvetage des deux hommes assaillis par des brigands à l’acte trois.
 Le personnage devait se trouver dès lors dans une zone grise inconfortable pour le public d’époque.
-À ce titre Don Juan soulève bien des questions, autre trait principal de la tragédie, autant que par son incarnation sur l’espèce humaine pécheresse.
+À ce titre Don Juan soulève bien des questions, autre trait principal de la tragédie, en raison de son incarnation de l’espèce humaine pécheresse.
 Œdipe soulève aussi des questions quant à la monstruosité de son destin, alors qu’il est innocent; ce destin malheureux est aussi à l’image de l’espèce humaine, qui doit composer avec des malheurs sans pour autant qu’ils soient explicables.
 Finalement, en prenant la définition de tragédie comme mécanisme, on peut voir chez Don Juan que son athéisme (« je crois que deux et deux sont quatre, Sganarelle, et que quatre et quatre sont huit » (acte 3, scène 1)) contient sa fin en puissance.
 Même chose pour Œdipe, mécanisme tragique par excellence selon Rosset.
