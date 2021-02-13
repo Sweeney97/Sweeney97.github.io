@@ -59,7 +59,7 @@ Mais qu'est-ce que l'honnête homme? Figure de la conversation polie, représent
 Ou encore, dans le fragment 10, Pascal détaille son projet : « il faut commencer par montrer que la Religion n'est point contraire à la raison [...] [et] la rendre ensuite aimable[^33] », cette citation illustre bien l'attention que porte Pascal à son public, et à ses *Pensées* qu'il veut rendre cohérentes d'un point de vue logique et agréables à lire.
 Autre preuve que Pascal veut concilier raison et religion : dans le fragment 185 il philosophe sur Dieu, cette fois en reprenant un argument cartésien : « C'est une sphère infinie dont le centre est partout, la circonférence, nulle part.
 Enfin c'est le plus grand caractère sensible de la toute-puissance de Dieu que notre imagination se perde dans cette pensée[^34] ».
-Descartes disait la même chose dans la méthode, comme quoi l'idée que l'on a de l'infini sans le pouvoir saisir est la preuve de Dieu.
+Descartes disait la même chose dans *la méthode*, comme quoi l'idée que l'on a de l'infini sans le pouvoir saisir est la preuve de Dieu.
 Ainsi, Pascal parle de Dieu avec la raison, même si pour lui cela n'est qu'une partie du chemin, puisque le cœur doit accomplir ce que la raison a préparé : « sans [sentiment de cœur] la foi n'est qu'humaine et inutile pour le salut[^35] ».
 Donc, en utilisant la raison afin de se faire compréhensible et persuasif, Pascal tend vers la figure d'honnête homme.
 Mais comment s'opère, ailleurs dans les *Pensées* de Pascal, cette persuasion, cette simplicité? Par un glissement entre signifié et référent.
