@@ -23,7 +23,7 @@ Toujours selon le dictionnaire de l'Académie, nous avons : « habitudes natur
 Pour prendre une définition semblable, mais moderne, tirée du CNRTL : « Ensemble de comportements propres à un groupe humain ou à un individu[^6] ».
 Pour leurs caractéristiques, les moralistes sont descriptifs et non prescriptifs[^7], ils ont un style fragmentaire[^8], illustré par une « tension qui ne serait autre que celle qui existe entre la maxime (exacerbation d'un style) et la sentence (généralité, impersonnalité, universel)[^9] ».
 Trémolières note aussi que les moralistes sont des amateurs honnêtes hommes, ce qui les différencie des lettrés professionnels[^10].
-Trémolières note aussi le caractère du « libertin [qui] serait en quelque sorte l'horizon du moraliste, qui ne serait jamais autant lui-même qu'en assumant une position exclusivement, intégralement mondaine[^11] ».
+Toujours selon Trémolières, le caractère du « libertin serait en quelque sorte l'horizon du moraliste, qui ne serait jamais autant lui-même qu'en assumant une position exclusivement, intégralement mondaine[^11] ».
 Terminons la définition du moraliste par le style, plus souvent simple, proche de l'homme[^12], incisif en ce qu'il se veut vrai, sans détour.
 Nous allons donc observer comment Pascal est moraliste, en ce qu'il décrit les habitudes humaines, mais aussi sur quels aspects il s'en détourne.
 
