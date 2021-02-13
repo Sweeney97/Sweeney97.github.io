@@ -14,7 +14,7 @@ Date: avril 2020
 Cette phrase, lancée par Mouret alors qu’il toise sa « machine », son invention, et la foule de clientes prêtes à succomber à la tentation d’un tissu à rabais, renseigne sur la volonté de Mouret d’autonomiser son magasin en ville miniature.
 Mais après tout, comme le dit Ignotus dans son article du Figaro, « les grands bazars sont les premières maisons de la grande cité de l’avenir[^2] ».
 Mais afin d’en arriver là, il faut « conquérir [...] l’acheteuse[^3] » écrit Pierre Larousse dans son dictionnaire de 1878.
-Et pour ce faire, paradoxalement, la rendre reine. Ces textes de Larousse et Ignotus font partie des discours ambiants qui circulaient lorsque Zola écrivait son roman Au Bonheur des Dames, et ils n’ont pas été sans répercussions.
+Et pour ce faire, paradoxalement, la rendre reine. Ces textes de Larousse et Ignotus font partie des discours ambiants qui circulaient lorsque Zola écrivait son roman *Au Bonheur des Dames*, et ils n’ont pas été sans répercussions.
 Comment l’auteur utilise ces éléments issus de discours journalistique et encyclopédique afin de les fictionnaliser?
 Dans ce bref travail, je me pencherai sur deux figures : la maison de la femme et le monstre-machine, puis conclurai sur les symboles bibliques proprement littéraires semés discrètement par l’auteur.
 
@@ -62,12 +62,12 @@ Ainsi, le ton est lancé, il s’agira d’êtres animés plus grands que nature
 Zola, quoique le terme colosse soit présent, se distancie de ces discours et se les approprie en utilisant le terme de « monstre » pour désigner les grands magasins, ajoutant ainsi une connotation morale, ou à tout le moins péjorative.
 Par le fait même, Zola peut manipuler des éléments qui deviendront proprement fictionnels : « le poète [...] fait converger toutes les sensations lui venant du monde réel vers le point de fuite d’un grand mythe.
 C’est qu’il vient un moment, dans la genèse de l’œuvre, où la réalité perçue quitte le plan de l’expérience quotidienne et personnelle de l’écrivain, pour pénétrer dans un espace et une temporalité qui sont ceux du roman[^27] ».
-Le monstre en tant qu’incarnation des grands magasins est, dans Au Bonheur des dames, l’être ayant une « consommation effroyable de chair[^28] », l’être qui assassine, qui se meut, grossit: « les toitures du Bonheur, les grandes lettres d’or des enseignes, les bannières hissées en plein ciel [...] évoquaient le monstre des réclames, le phalanstère dont les ailes, multipliées sans cesse, dévoraient les quartiers, jusqu’aux bois lointains de la banlieue[^29] ».
+Le monstre en tant qu’incarnation des grands magasins est, dans *Au Bonheur des dames*, l’être ayant une « consommation effroyable de chair[^28] », l’être qui assassine, qui se meut, grossit: « les toitures du Bonheur, les grandes lettres d’or des enseignes, les bannières hissées en plein ciel [...] évoquaient le monstre des réclames, le phalanstère dont les ailes, multipliées sans cesse, dévoraient les quartiers, jusqu’aux bois lointains de la banlieue[^29] ».
 L’autre figure récurrente utilisée par Zola est celle de la machine, qui n’implique pas d’être animé mais s’avère une mécanique insensible mût par une idée; cette idée étant nulle autre que celle du progrès qui revêt la caractéristique de la fatalité : « ces grands bazars sont la conséquence fatale et immédiate d’une époque matérialiste et démocratique[^30] » écrit Ignotus.
 Cette fatalité est reprise par Zola : « s’il avait eu la folie de fermer le Bonheur, un autre magasin aurait poussé de lui-même à côté, car l’idée soufflait des quatre points du ciel[^31] ».
 Cette qualité universelle du progrès, Zola la travaille tout en conservant l’image du progrès-train; le magasin est comparé à une gare[^32] , et partout au travers le texte les nations sont présentes dans les multiples provenances des marchandises : Japon, Moyen-Orient, Angleterre, etc. De plus, cette idée du progrès s’inscrit dans un système logique qui l’englobe : « Denise, posément, dit ses raisons [...] : l’évolution logique du commerce, les nécessités des temps modernes[^33] ».
 Cette idée, tout autant qu’elle est englobée, régit une logique, celle des grands magasins.
-C’est ainsi qu’à chaque fois que la machine apparaît dans Au Bonheur des Dames, il s’y lie le traitement soit des clientes ou des employés comme des éléments de cette mécanique.
+C’est ainsi qu’à chaque fois que la machine apparaît dans *Au Bonheur des Dames*, il s’y lie le traitement soit des clientes ou des employés comme des éléments de cette mécanique.
 Par exemple, lors du renvoi de masse estival[^34], il est question de pièces défectueuses de la machine.
 Et la foule semble être une source d’énergie de la machine, un genre de combustible, quelque chose qui brûle et qui rejoint ces idées soudées ensemble dans l’imaginaire collectif de l’époque de lumière-travail-progrès-circulation.
 Mais, comme le laisse sous-entendre ce quatuor, il n’y a pas que la foule (dans le sens de la circulation) qui alimente la machine; ces quatre éléments sont consubstantiels.
@@ -92,7 +92,7 @@ Comme Ignotus pour qui la lumière électrique se substitue au soleil, serait-il
 Mais dans la bible, la démesure de la tour est sévèrement punie par Dieu qui sème la zizanie entre les hommes.
 Et le veau d’or est quant à lui littéralement une substitution divine par de l’argent : les hommes sous la déréliction créèrent leur Dieu en or.
 Mais cet aveuglement entraîne aussi la colère divine puisqu’ultimement, cet or, n’est que de l’or; une idole.
-Cela n’est pas sans rappeler la lucidité de Paul, l’un des personnages d’Au Bonheur des Dames, « qui, dans l’ennui de son pessimisme, continuait à trouver inepte la turbulence de cette humanité, pour des chiffons[^42] ».
+Cela n’est pas sans rappeler la lucidité de Paul, l’un des personnages d’*Au Bonheur des Dames*, « qui, dans l’ennui de son pessimisme, continuait à trouver inepte la turbulence de cette humanité, pour des chiffons[^42] ».
 Finalement, le texte semble disséminer les indices de la mort prochaine de cette vie en train de prendre forme, en raison de « cette lutte pour la vie qui [fait] pousser les êtres sur le charnier de l’éternelle destruction[^43] », et pose en filigrane la fatuité humaine : « la foule n’était plus que poussière humaine [^44] », ce qui rappelle, sans conteste le «tu es poussière et tu retourneras en poussière» de la génèse.
 
 ### Bibliographie
