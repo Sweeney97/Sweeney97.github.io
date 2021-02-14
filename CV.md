@@ -8,7 +8,7 @@ Montréal - Rosemont
 ### Éducation
 
 - Université de Montréal
-  - Baccalauréat par cumul (littérature de langue française et rédaction professionnelle)
+  - Baccalauréat ès arts (littératures de langue française et rédaction professionnelle)
   - D.E.S.S. en édition numérique
 
 
