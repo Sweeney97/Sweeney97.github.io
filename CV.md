@@ -8,7 +8,7 @@ Montréal - Rosemont
 ### Éducation
 
 - Université de Montréal
-  - Baccalauréat ès arts ( majeure en littératures de langue française) - 2020
+  - Baccalauréat ès arts (majeure en littératures de langue française) - 2020
   - D.E.S.S. en édition numérique - obtention prévue en 2022
 
 
