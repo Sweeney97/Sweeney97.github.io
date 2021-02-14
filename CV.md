@@ -9,7 +9,7 @@ Montréal - Rosemont
 
 - Université de Montréal
   - Baccalauréat ès arts (majeure en littératures de langue française) - 2020
-  - D.E.S.S. en édition numérique - obtention prévue en 2022
+  - D.E.S.S. en édition numérique - 2022
 
 
 ### Expérience
