@@ -31,7 +31,6 @@ Montréal - Rosemont
 
 - Stagiaire chez Atelier 10 - été 2018
 
-   - Correction d’épreuves
    - Suivi des corrections
    - Vérification des faits 
    - Révision de fond et de forme des textes
