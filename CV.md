@@ -43,3 +43,4 @@ Montréal - Rosemont
 - Compétences en création littéraire
 - Connaissance du protocole Git
 - Connaissances de base en codage
+- [Contributeur de Wikipédia](https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Contributions/Sweeney97)
