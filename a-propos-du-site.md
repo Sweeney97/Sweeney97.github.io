@@ -8,7 +8,7 @@ Dans cette optique, tous les sites web «artisanaux» devraient inclure une sect
 
 ### Utiliser GitHub pour créer un site en quelques minutes
 
-Premièrement il suffit d'apprendre la syntaxe <a href="https://www.markdownguide.org/ target="_blank">Markdown</a> qui sert à mettre en forme du texte brut (format txt).
+Premièrement il suffit d'apprendre la syntaxe <a href="https://www.markdownguide.org/" target="_blank">Markdown</a> qui sert à mettre en forme du texte brut (format txt).
 C’est une syntaxe incroyablement simple, qui ne prend que quelques minutes à apprendre, une quinzaine à maîtriser.
 Si vous n’avez pas d’éditeur texte, il en existe plusieurs; voici mes coups de cœur: <a href="https://atom.io/" target="_blank">Atom</a>, <a href="https://marktext.app/" target="_blank">Mark Text</a> et <a href="https://wiki.gnome.org/Apps/Gedit" target="_blank">Gedit</a>.
 Vous pouvez toujours utiliser Bloc-notes sur Windows, mais la visibilité n’est pas idéale.
