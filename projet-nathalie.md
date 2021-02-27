@@ -15,4 +15,4 @@ Des gens qui marchent aussi, des choses à analyser.
 Considérer le tout comme une coquille contenant l'histoire.
 
 Vous serez gentil de me rapporter tout défaut, toute lacune que vous rencontrerez.
-N'hésitez pas à essayer de tout casser dans le jeu: essayer de prendre l'imprenable (portes, fauteuil, éléments du décor, etc.) et d'essayer de détruire ce que vous pouvez
+N'hésitez pas à essayer de tout casser dans le jeu: essayer de prendre l'imprenable (portes, fauteuil, éléments du décor, etc.) et d'essayer de détruire ce que vous pouvez.
