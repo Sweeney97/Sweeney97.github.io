@@ -1,6 +1,6 @@
 # Projet Nathalie en ligne
 
-Bonjour chères âmes généreuses qui joueront à [mon jeu](https://iplayif.com/?story=https://www.antoinesweeney.com/Nathalie.z5) plein de lacunes et de bogues.
+Bonjour chères âmes généreuses qui joueront à [mon jeu](https://iplayif.com/?story=https://www.antoinesweeney.com/Nathalie_V1.0.z5) plein de lacunes et de bogues.
 
 Si vous avez des difficultés avec cette version, jetez un oeil à [la page du projet](https://github.com/Sweeney97/Projet_Nathalie), où vous pourrez télécharger la dernière version.
 
