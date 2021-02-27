@@ -7,7 +7,7 @@ Si vous avez des difficultés avec cette version, jetez un oeil à [la page du p
 Cette version jouable en ligne contient l'introduction et un premier quartier.
 Ce n'est certainement pas une version finale, ainsi, le quartier pourra sembler vide et c'est normal.
 
-J'aurais à ajouter des évènements dans le quartier, peut-être une ou deux quêtes secondaires.
+J'aurai à ajouter des évènements dans le quartier, peut-être une ou deux quêtes secondaires.
 Des gens qui marchent aussi, des choses à analyser.
 
 Considérer le tout comme une coquille contenant l'histoire.
