@@ -31,13 +31,8 @@ On voit l’importance de l’espace littéraire pour Ziethen, mais il est inté
 Le chronotope, qui par son nom annonce déjà la réunion de l’espace-temps, est définit par Bakhtine comme étant : « ce qui se traduit, littéralement, par "temps-espace " : la corrélation essentielle des rapports spatio-temporels, telle qu’elle a été assimilée par la littérature[^3]  ».
 Pour lui, le chronotope véhicule une vision du monde, configuré dans et par le récit.
 Le chronotope apparaît pour Bakhtine comme un point de convergence essentiel dans le récit, qui matérialise les idées, l’intrigue, dialogues signifiants: « ici, le temps se condense, devient compact, visible pour l’art, tandis que l’espace s’intensifie, s’engouffre dans le mouvement du temps, du sujet, de l’Histoire.
-<<<<<<< HEAD
-Les indices de temps se découvrent dans l’espace, celui-ci est mesuré d’après le temps  ».
-
-=======
 Les indices de temps se découvrent dans l’espace, celui-ci est mesuré d’après le temps[^4]  ».
-Finalement, définissons le terme diégèse, qui renvoie à l’histoire, aux événements pris dans leur spatialité et leur chronologie. 
->>>>>>> 49497fd06a43d6261737706cea7824919479d95e
+Finalement, définissons le terme diégèse, qui renvoie à l’histoire, aux événements pris dans leur spatialité et leur chronologie.
 
 ### Le bal
 
