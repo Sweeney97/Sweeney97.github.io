@@ -30,19 +30,19 @@ On sait par exemple qu'à l'âge de 21 ans environ, Valéry tenta de concevoir u
 
 #### Littérature
 L'influence de Mallarmé sur Valéry fut importante tant comme auteur qu'ami; Mallarmé était un poète symboliste, mouvement littéraire qui met l'accent sur la forme (« SYMBOLISME », s. d.).
-Donc Valéry s'inscrit aussi dans le mouvement des symbolistes, puisqu'il accorde dans son écriture poétique une grande place non seulement à la forme et au rythme qui prime sur le sens, mais aussi au processus d'élaboration: « la composition d’un poème n’implique pas d’organisation préalable, elle s’impose peu à peu [à Valéry] dans l'obligation de remplir son cadre rythmique (Barriere 1974); donc, à ce qui se rattache principalement à l'aspect technique.
+Donc Valéry s'inscrit aussi dans le mouvement des symbolistes, puisqu'il accorde dans son écriture poétique une grande place non seulement à la forme et au rythme qui prime sur le sens, mais aussi au processus d'élaboration: « la composition d’un poème n’implique pas d’organisation préalable, elle s’impose peu à peu [à Valéry] dans l'obligation de remplir son cadre rythmique » (Barriere 1974); donc, à ce qui se rattache principalement à l'aspect technique.
 Il fut découragé à un moment de sa vie de ne pouvoir créer quelque chose d'aussi parfait que la musique de Wagner, dont il était l'admirateur, ce qui, encore une fois, démontre son attachement à une forme « pure ».
 
 ### *Eupalinos ou l'Architecte*
 *Eupalinos* est écrit sous forme de dialogues entre deux protagonistes, Phèdre et Socrate.
 Le texte fait environ une centaine de pages et ne comporte aucune didascalie ou aucune écriture en dehors des dialogues, il n'y a pas d'intervention d'un narrateur.
-L'histoire se déroule dans le monde des morts, peu de temps après la mort de Socrate: quoique publié au 20e siècle, Valéry tente de circonscrire son écriture afin de pasticher le style antique.
+L'histoire se déroule dans le monde des morts, peu de temps après la mort de Socrate: quoique publié au 20<sup>e</sup> siècle, Valéry tente de circonscrire son écriture afin de pasticher le style antique.
 Le texte travaille plusieurs problématiques, notamment la valeur de l'architecture et de la musique, ainsi que de la peinture et de la littérature, puis finalement de la philosophie.
 *Eupalinos* est donc un texte littéraire qui représente des philosophes, en utilisant le style platonicien, c'est-à-dire celui des dialogues à caractère pédagogique, où le lecteur peut suivre l'élaboration de la pensée et des arguments pas à pas.
 Seulement, le texte prend une distance critique par rapport aux philosophes, et par rapport à la philosophie en général, puisque les deux protagonistes développent qu'elle est vaine en comparaison de l'architecture ou de la musique.
 La situation est ironique, puisque Socrate est mis en scène disant des choses contraires à ce qu'il dit dans les écrits platoniciens: démarche proprement littéraire plutôt que philosophique.
 Le texte n'élabore pas un récit, dans le sens où aucune action n'est commise par les personnages sinon celle de parler. En sus, il n'y a ni quête au sens romanesque du terme (il y a probablement une quête du savoir) ni moteur diégétique. D'un autre côté, l'espace-temps (le monde des morts) du récit concorde parfaitement à ce point zéro de l'histoire.
-D'ailleurs, Socrate dit dans *Eupalinos*: « ne crois-tu pas que nous devions maintenant employer cet immense loisir que la mort nous abandonne, à nous juger nous-mêmes, et à nous rejuger infatigablement, reprenant, corrigeant, essayant d’autres réponses aux événements qui sont arrivés ; et cherchant, en somme, à nous défendre de l’inexistence par des illusions, comme font les vivants de leur existence ? » (Valéry 1923).
+D'ailleurs, Socrate dit dans *Eupalinos*: « ne crois-tu pas que nous devions maintenant employer cet immense loisir que la mort nous abandonne, à nous juger nous-mêmes, et à nous rejuger infatigablement, reprenant, corrigeant, essayant d’autres réponses aux événements qui sont arrivés ; et cherchant, en somme, à nous défendre de l’inexistence par des illusions, comme font les vivants de leur existence? » (Valéry 1923).
 
 ### Philosophie et objet blanc
 Si l'on définit la philosophie par l'amour de la sagesse, ou encore par cette quête constante du savoir, cette posture qui refuse tout savoir préconçu, alors *Eupalinos* est un texte véritablement philosophique, avec en outre des qualités littéraires indéniables.
@@ -79,7 +79,7 @@ En effet, il est écrit dans le texte que la résistance au temps s'obtient par 
 Mais l'objet blanc reste toutefois à plusieurs égards problématique.
 C'est à partir de cet aspect problématique que Socrate a dû décider de sa vie même: entre la connaissance, et la construction.
 Il avait alors le choix entre créer de l’Art, mais l’objet blanc le lui prouvait, cet art serait ultimement néantisé.
-Puisque, comme je l'ai déjà rapporté, la beauté ne peut exister que si elle peut mourir, Socrate a choisi connaître, et tirer une connaissance à l’abri du temps, un savoir permanent.
+Puisque, comme je l'ai déjà rapporté, la beauté ne peut exister que si elle peut mourir, Socrate a choisi de connaître, et tirer une connaissance à l’abri du temps, un savoir permanent.
 Or, il s'en aperçoit après sa mort, que ce savoir déconnecté de la nature est vain.
 Mais l'objet blanc étant in-définit cette indéfinition oblige à rechercher cette définition impossible, elle apporte un mouvement.
 D'ailleurs Socrate était travaillé par l'idée de cet objet même après l'avoir rejeté à la mer.
@@ -103,7 +103,7 @@ Mais le texte, ultimement, dénigre la philosophie et lui préfère plutôt l'ar
 La philosophie ne crée pas du mouvement, de l'équivalence, de la résistance au temps.
 Elle cristallise, s'enferme dans un virtuel néant, et développe des concepts intemporels, donc inexistants.
 À cela, le texte l'oppose aux arts non figuratifs, qui incarnent directement, sans biais, les formes et lois; structure et texture mêmes de l'univers.
-Mais pour que ces lois composent une forme, il faut que la proposition « soit obéie de tous les moments [d'un] mouvement de telle sorte que toutes les parties de la figure soient une me chose dans la pensée, quoique différente dans l’étendue »(Valéry 1923).
+Mais pour que ces lois composent une forme, il faut que la proposition « soit obéie de tous les moments [d'un] mouvement de telle sorte que toutes les parties de la figure soient une même chose dans la pensée, quoique différente dans l’étendue »(Valéry 1923).
 Au fond, les consignes de ce travail contenaient en germe ce texte, qui n’est que ces même consignes appliquées à mon esprit, qui les applique à un objet, ici *L'Eupalinos*.
 
 ### Bibliographie
@@ -112,8 +112,8 @@ Barriere, Pierre. 1974. *Vie Intellectuelle En France (La) (Collections Histoire
 
 JARRETY, Michel. s. d. « [VALÉRY PAUL - (1871-1945) ](http://www.universalis-edu.com/encyclopedie/valery-paul-1871-1945/)». Encyclopædia Universalis.
 
-« Paul VALÉRY ». s. d. Institution publique. [*L’Académie française*](http://www.academie-francaise.fr/les-immortels/paul-valery.).
+« Paul VALÉRY ». s. d. Institution publique. [*L’Académie française*](http://www.academie-francaise.fr/les-immortels/paul-valery).
 
 « SYMBOLISME ». s. d. [*Centre National de Ressources Textuelles et Lexicales*](https://www.cnrtl.fr/definition/symbolisme).
 
-Valéry, Paul. s. d. [*Eupalinos ou l’Architecte*](https://fr.wikisource.org/wiki/Eupalinos_ou_l%E2%80%99Architecte#).
+Valéry, Paul. 1923. [*Eupalinos ou l’Architecte*](https://fr.wikisource.org/wiki/Eupalinos_ou_l%E2%80%99Architecte#).

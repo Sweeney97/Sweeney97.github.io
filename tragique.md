@@ -19,7 +19,7 @@ Pour l'une le devoir, pour l'autre Dieu.
 *Don Juan* est une comédie par Molière représentée en 1665.
 Mêlant à la fois des éléments tragiques au comique, cette pièce est parfois catégorisée comme tragi-comédie[^1]<sup>,</sup>[^2].
 Ce genre hybride comporte « une certaine confusion générique[^3] » selon Dandrey, mais pour le présent travail, je me pencherai principalement sur le tragique de la pièce, qui se retrouve en la figure féminine de Don Elvire.
-La pièce *Don Juan* fut censurée, avant de pouvoir être publié intégralement au 19<sup>e</sup> siècle; et pour cause, Molière met en scène un athée qui commet force impiétés; Don Elvire est une « victime » des fourberies de Don Juan.
+La pièce *Don Juan* fut censurée, avant de pouvoir être publiée intégralement au 19<sup>e</sup> siècle; et pour cause, Molière met en scène un athée qui commet force impiétés; Don Elvire est une « victime » des fourberies de Don Juan.
 *Œdipe* est une tragédie écrite par Corneille représentée en 1659, qui s'inscrit dans le mouvement de la galanterie, mouvement qui met de l'avant la force d'esprit des femmes.
 Corneille reprend à son compte l'histoire antique de Sophocle, afin de superposer à la trame narrative une nouvelle histoire sur les amants Dircé et Thésée, l'histoire d'Œdipe n'étant présente qu'en arrière-plan.
 Cette distanciation de l'histoire incestueuse d'Œdipe permit à la pièce de plaire à un public pour qui la bienséance était primordiale.
@@ -48,7 +48,7 @@ Ce qui rejoint Aristote lorsqu'il dit : « la tragédie imite non pas les homme
 Bien qu'Aristote ne parle pas du tragique mais de la tragédie, cette dernière est nécessairement tragique.
 Aristote explique qu'il faut que le personnage soit d'une grande lignée, et que le passage soit du bonheur au malheur.
 Mais ce qui est intéressant ici, c'est que le philosophe soulève que la tragédie n'est pas un miroir, puisqu'elle ne représente pas la réalité, mais une « réalité fictionnelle », la vie humaine « quintessenciée » ; selon Batteux, c'est parce qu'ils sont imités que les malheurs deviennent agréables, car réels ils seraient désagréables[^12].
-Don Elvire et Dircé appartiennent à des grandes familles (respectivement les Tenorio et les Labdacides), et passent du malheur au bonheur, mais avant de pouvoir les identifier à des personnages proprement tragiques, il faut définir plus avant le héros tragique.
+Don Elvire et Dircé appartiennent à des grandes familles (respectivement les Tenorio et les Labdacides), et passent du malheur au bonheur, mais avant de pouvoir les identifier comme des personnages proprement tragiques, il faut définir plus avant le héros tragique.
 Premièrement il est essentiel d'avoir cette « idée de malheur et celle de souffrance, le plus souvent associée à celle de mort, et l'idée que, dans la souffrance, la peine est dite sur un mode qui manifeste une certaine grandeur[^13] ».
 Mais aussi, il faut deuxièmement que le héros tragique suscite chez le spectateur « de la compassion et du respect[^14] ».
 Don Elvire, par la malchance d'être tombé sur un fourbe, et par sa discipline religieuse et émotionnelle exemplaire, inspire à la fois de la compassion et du respect, et Dircé, par sa volonté courageuse et en raison de la malédiction, en inspire tout autant.
@@ -88,7 +88,7 @@ Done Elvire accepte son destin et ne crain pas la mort : « je ne demande qu’a
 Dircé aussi non seulement ne crain pas la mort, mais elle veut littéralement y courir : « ma flamme à la mort m’avait trop résolue /Pour ne pas y courir quand les Dieux l’ont voulue » (acte 2, scène 3).
 Finalement, l’acceptation de la faute participe chez ces femmes d’un idéal de pureté et de franchise. Donne Elvire n’en glisse que quelques mots, dont en autres : « ce même ciel, qui m’a touché le cœur et fait jeter les yeux sur les égarements de ma conduite » (acte 4, scène 9), peu après dans le même paragraphe, elle avoue avoir « oublié son devoir » (acte 4, scène 9).
 Dircé de son côté affirme aussi son erreur : « si j’ai causé sa mort, puis-je vivre sans crime? » (acte 2, scène 3) pour ensuite conclure quelques vers plus loin « ainsi j’en fus la cause » (acte 2, scène 3).
-Ainsi donc, toutes deux acceptent sans détour leur erreur, leur destin et confrontent les hommes de manière à en ressortir plus grande qu’eux, plus forte qu’eux dans leur franchise.
+Ainsi donc, toutes deux acceptent sans détour leur erreur, leur destin et confrontent les hommes de manière à en ressortir plus grandes qu’eux, plus fortes qu’eux dans leur franchise.
 La seule différence étant l’idéologie jésuitique ou janséniste qui fait de la première une résignée, et de l’autre, une combattante.
 Et chacune portent un idéal de société : pour Done Elvire, il s’agit de la femme pieuse, et même, plus encore, du pieux qu’il soit homme ou femme.
 Done Elvire incarne ni plus ni moins un idéal de piété.
@@ -131,11 +131,11 @@ Pour Œdipe, la pitié et la crainte sont présentes, tant pour l’erreur qu’
 Ensuite, les deux personnages éponymes sont des personnages d’actions moralement répréhensibles : Don Juan pour son libertinage, Œdipe pour son parricide et inceste.
 Pour Don Juan il est intéressant de voir comment Molière s’oppose aux essences dans ses pièces par la figure de l’hypocrite.
 En effet, durant l’Ancien Régime, les caractères permettaient la reconnaissance, ainsi qu’une étiquette, du personnage et des actions qu’il devait commettre.
-Au contraire, en bon matérialiste, Aristote indique que c’est plutôt le contraire : les actions déterminent les caractères[^22].
+Au contraire, en bon matérialiste, Aristote indique que les actions déterminent les caractères[^22].
 Là où le bât blesse, c’est que malgré l’étiquette du personnage (par exemple, Don Juan, gentilhomme) les actes transgressent l’éthique.
 Et c’est encore pire quand l’auteur se permet de nuancer : Don Juan n’est pas qu’un méchant homme, en fait foi le sauvetage des deux hommes assaillis par des brigands à l’acte trois.
 Le personnage devait se trouver dès lors dans une zone grise inconfortable pour le public d’époque.
-À ce titre Don Juan soulève bien des questions, autre trait principal de la tragédie, autant que par son incarnation sur l’espèce humaine pécheresse.
+À ce titre Don Juan soulève bien des questions, autre trait principal de la tragédie, en raison de son incarnation de l’espèce humaine pécheresse.
 Œdipe soulève aussi des questions quant à la monstruosité de son destin, alors qu’il est innocent; ce destin malheureux est aussi à l’image de l’espèce humaine, qui doit composer avec des malheurs sans pour autant qu’ils soient explicables.
 Finalement, en prenant la définition de tragédie comme mécanisme, on peut voir chez Don Juan que son athéisme (« je crois que deux et deux sont quatre, Sganarelle, et que quatre et quatre sont huit » (acte 3, scène 1)) contient sa fin en puissance.
 Même chose pour Œdipe, mécanisme tragique par excellence selon Rosset.
@@ -143,12 +143,12 @@ En conclusion, cette accumulation de définitions autour de la tragédie nous ai
 Cela m’amène à soulever la question suivante : ces femmes ne sont-elles que des paravents camouflant la tragédie?
 Des idéaux qui se tendent comme remparts devant l’inexplicable, le nœud de ces pièces?
 Et pourtant, toutes deux sont plus élevées que les hommes, plus grandes, plus fortes.
-Comme si Done Elvire servait à cacher habilement la déréliction, la nature mauvaise de l’homme, et Dircé la légitimité du pouvoir politique incarné par Œdipe.
+Comme si Done Elvire servait à cacher habilement la déréliction, la nature mauvaise de l’homme, et Dircé les questionnements de la légitimité du pouvoir politique incarné par Œdipe.
 
 ### Forme
 
-Œdipe de Corneille, en filiation avec celui de Sophocle, est une tragédie.
-Pourtant, plusieurs siècles les séparent, et, la société ayant changée grandement, le terme tragédie ne revoit plus exactement à la même réalité.
+*Œdipe* de Corneille, en filiation avec celui de Sophocle, est une tragédie.
+Pourtant, plusieurs siècles les séparent, et, la société ayant changée grandement, le terme tragédie ne renvoie plus exactement à la même réalité.
 Par exemple, la tragédie antique portait en elle une symbolique collective beaucoup plus forte.
 À preuve, le chœur, personnification de la multitude, du peuple, qui rendait intelligible le drame, disparaît au profit du confident : « la tragédie du XVI<sup>e</sup> et surtout du XVII<sup>e</sup> siècle voit se développer la dimension psychologique de l’intrigue.
 La tragédie se centre ainsi de plus en plus sur l’intériorité du héros ou de l’héroïne, phénomène qui coïncide avec l’émergence du sujet moderne[^23] ».
@@ -158,10 +158,10 @@ De plus, l’absence du chœur pour nuancer et problématiser le drame peut mene
 Du reste, dans la forme de la pièce de Corneille, le cadre formel encarcane l’intrigue, en alexandrins bien découpés.
 À l’exception de Dircé, qui à l’acte 3, scène 1, peut se permettre de déroger de la forme.
 En vers libres, elle peut déverser ses sentiments; ce passage témoigne de l’autonomie et de la force de l’héroïne, qui est la seule à pouvoir prendre ces licences.
-Pour Don Juan cependant, son aspect tragi-comique lui permet de mettre en tension « ces deux manières d’exister – l’une dans laquelle l’homme décide d’assumer sa condition d’être-pour-la-mort et l’autre où il décide, d’une manière tout aussi résolue bien que non explicite, d’ignorer la possibilité de sa fin et de transformer son horizon temporaire en une suite d’instants – sont, en même temps, les deux modalités fondamentales [tragédie et comédie] du théâtre histrionique[^25] ».
+Pour *Don Juan* cependant, son aspect tragi-comique lui permet de mettre en tension « ces deux manières d’exister – l’une dans laquelle l’homme décide d’assumer sa condition d’être-pour-la-mort et l’autre où il décide, d’une manière tout aussi résolue bien que non explicite, d’ignorer la possibilité de sa fin et de transformer son horizon temporaire en une suite d’instants – sont, en même temps, les deux modalités fondamentales [tragédie et comédie] du théâtre histrionique[^25] ».
 Donc, Don Juan refuse de voir sa fin (annoncée par tous les personnages) et la fuit dans une suite d’instants comiques, dans une « temporalité éternelle », comme « amnésique ».
-Au contraire, le personnage tragique de Donne Elvire est celle la temporalité mouvante, qui voit sa fin, et qui se rappelle ses fautes. En cela Don Juan me paraît, tant par son genre inclassable que par son personnage presque « prophétique » d’une humanité moderne, quasi anachronique.
-En effet, si l’on prend une citation sur la tragédie moderne, l’on peut voir à quel point il peut y avoir quelque résonnance : « le problème de la liberté de choix se pose alors dans des termes nouveaux, non pas face au destin ordonné par les dieux, mais face à la nature profonde de l’homme[^26] ».
+Au contraire, le personnage tragique de Donne Elvire est celle la temporalité mouvante, qui voit sa fin, et qui se rappelle ses fautes. En cela *Don Juan* me paraît, tant par son genre inclassable que par son personnage presque « prophétique » d’une humanité moderne, quasi anachronique.
+En effet, si l’on prend une citation sur la tragédie moderne, l’on peut voir à quel point il peut y avoir résonnance : « le problème de la liberté de choix se pose alors dans des termes nouveaux, non pas face au destin ordonné par les dieux, mais face à la nature profonde de l’homme[^26] ».
 Car même si Don Juan est puni par Dieu, c’est par sa faute et non en raison de son destin qu’il subit la damnation, et sa faute est sa nature profonde.
 
 ### Conclusion
@@ -172,8 +172,8 @@ Ces deux femmes inspirent sans conteste la pitié et la grandeur.
 Mais, malgré cela, elles ne semblent pas être le point principal de leur pièce.
 En effet, il semblerait que la tragédie se joue en dehors de ses personnages tragiques.
 Dès lors, leur perfection semble détourner le regard du public de la tragédie.
-Cachée dans Don Juan derrière l’humour, il s’agit de la nature impie de l’espèce humaine.
-Et, caché dans Œdipe par l’histoire d’amour propre aux tragédies psychologiques du 17<sup>e</sup>, il semblerait que ce soit une remise en question de la légitimité du pouvoir politique.
+Cachée dans *Don Juan* derrière l’humour, il s’agit de la nature impie de l’espèce humaine.
+Et, caché dans *Œdipe* par l’histoire d’amour propre aux tragédies psychologiques du 17<sup>e</sup>, il semblerait que ce soit une remise en question de la légitimité du pouvoir politique.
 Dans les deux cas, les auteurs avaient tout intérêt à camoufler ce genre de thématique.
 Après tout, comme l’a dit la spécialiste du 17<sup>e</sup> Judith Sribnai, la littérature d’Ancien Régime est une esthétique du biais[^27].
 

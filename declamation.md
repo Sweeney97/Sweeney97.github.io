@@ -56,13 +56,13 @@ Nous avons donc un mauvais exemple d’un discours épidictique : l’exorde est
 Il serait intéressant de se pencher sur le cas du personnage de Dom Juan dans l’ensemble de la pièce.
 Il peut se présenter noblement, lorsqu’il sauve les deux frères et parle avec eux en qualité de gentilhomme, comme il peut être comique lorsqu’il est pris dans une situation embarrassante telle que celle des deux femmes se disputant son mariage, et cela devrait aussi influencer sa déclamation.
 Dans l’extrait choisi pour le présent travail, ainsi que le style de son discours, moyen, tout porte à croire que la déclamation du personnage est neutre, d’autant plus qu’il est sans pathos.
-On pourrait dire que la répétition entre le « on » et le « je », se ferait sentir au niveau de la déclamation, avec une voix légèrement plus forte pour le je, car il est l’élément sur lequel Dom Juan bénéficierait à appuyer[^19].
+On pourrait dire que la répétition entre le « on » et le « je », se ferait sentir au niveau de la déclamation, avec une voix légèrement plus forte pour le « je », car il est l’élément sur lequel Dom Juan bénéficierait à appuyer[^19].
 Cette différence de ton permettrait un meilleur passage pour la compréhension du public entre les différentes parties du discours.
 Pour la gestuelle, on pourrait supposer qu’en gentilhomme intelligent, Dom Juan s’en sert correctement afin d’appuyer les parties de son discours.
 La partie la plus intéressante à relever serait la digression.
 S’il devait y avoir quelque marque émotive, ce serait là.
 La digression, comme son nom l’indique, s’écarte, et « sert à distraire l’auditeur[^20] », ici, c’est Dom Juan qui semble se distraire lui-même, s’emportant dans ses pensées.
-Sganarelle n’a que peut à faire des prochains déportements de son maitre.
+Sganarelle n’a que peu à faire des prochains déportements de son maitre.
 La voix pourrait donc s’élever et le rythme s’accélérer.
 La seule marque de pathos de son discours, l’interrogation, sert à « éclaircir sans passion, et le ton doit être doux[^21] », et n’est donc pas véritablement une marque de pathos.
 
@@ -97,8 +97,8 @@ En fait, on pourrait presque s’aventurer à parler de la faillite de la raison
 Réfléchir, ce sera au contraire abonder en ce sens.
 Pourtant, on le sait, cette conduite mène à la damnation.
 Le pathos prend ici une valeur rédemptrice, ce qui est aux antipodes de la pensée de l’époque.
-Le « oh ciel » de Sganarelle contient en germe tous ces réseaux de tensions : un homme simple, mais sensible, touché par des événements tragiques, et ne pouvant articuler ces dépits par la raison, car alors il se ridiculise.
-Cette confrontation dans l’extrait analysé, c’est celle d’un homme intelligent qui fait peut d’effort pour articuler son discours, car tout existe déjà à sa portée contre un homme sot qui tire le diable par la queue pour construire du sens, mais qui n’y parvient pas, car il enferme sa raison en elle-même, dans un argumentaire vide de référent concret.
+Le « oh ciel&nbsp;» de Sganarelle contient en germe tous ces réseaux de tensions : un homme simple, mais sensible, touché par des événements tragiques, et ne pouvant articuler ces dépits par la raison, car alors il se ridiculise.
+Cette confrontation dans l’extrait analysé, c’est celle d’un homme intelligent qui fait peu d’effort pour articuler son discours, car tout existe déjà à sa portée contre un homme sot qui tire le diable par la queue pour construire du sens, mais qui n’y parvient pas, car il enferme sa raison en elle-même, dans un argumentaire vide de référents concrets.
 La déclamation de cet extrait peut donc refléter ou aider à illustrer ces oppositions : d’un côté un homme libertin, vil par ses actes, brillant par son esprit, tour à tour noble, intelligent ou bas, qui prône par la raison exactement le contraire de ce que la raison devrait prôner.
 D’un autre un homme sot, de basse condition, mais sensible et touché par Dieu, témoin du pathétique de la situation, qui rend comme il peut ce combat perdu d’avance sur le terrain de la rhétorique.
 D’une manière plus large, ces oppositions peuvent trouver écho dans la pensée générale de Molière, par exemple avec *Tartuffe* ou *L’École des femmes*, où l’hypocrisie prend corps dans la manipulation du langage, et la réelle valeur apparaît par les actes.

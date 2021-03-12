@@ -8,8 +8,8 @@ Montréal - Rosemont
 ### Éducation
 
 - Université de Montréal
-  - Baccalauréat par cumul (littérature de langue française et rédaction professionnelle)
-  - D.E.S.S. en édition numérique
+  - Baccalauréat ès arts (majeure en littératures de langue française) - septembre 2016 à mai 2020
+  - D.E.S.S. en édition numérique - septembre 2020 à aujourd'hui
 
 
 ### Expérience
@@ -31,7 +31,6 @@ Montréal - Rosemont
 
 - Stagiaire chez Atelier 10 - été 2018
 
-   - Correction d’épreuves
    - Suivi des corrections
    - Vérification des faits 
    - Révision de fond et de forme des textes
@@ -44,3 +43,4 @@ Montréal - Rosemont
 - Compétences en création littéraire
 - Connaissance du protocole Git
 - Connaissances de base en codage
+- <a href="https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Contributions/Sweeney97" target="_blank">Contributeur de Wikipédia</a>

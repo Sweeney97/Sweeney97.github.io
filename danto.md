@@ -9,7 +9,7 @@ Date: avril 2018
 
 Selon Danto, il existe des prédicats esthétiques spécifiques aux œuvres d’art.
 Si l’on dit que des fleurs peintes sont puissantes, ce n’est pas la même chose que de le dire pour celles d’un jardin.
-Au contraire, on peut dire de belles fleurs à la fois pour la peinture que pour le réel.
+Au contraire, on peut dire que ce sont de belles fleurs à la fois pour la peinture que pour le réel.
 Ce qui donne lieu à un élargissement du vocabulaire esthétique, car la beauté nous dit peu sur les œuvres.
 De plus, la compréhension esthétique est plus intellectuelle que sensitive pour les œuvres d’art, et selon Danto, la beauté est visible.
 Ce qui le mène à un revirement définitionnel de l’art en évacuant la beauté.
@@ -69,7 +69,7 @@ Parler d’une interprétation juste me semble hasardeux, mais il est vrai que c
 En définitive, l’art peut être un médium des idées qu’elles incarnent.
 Danto prend à contre-pied Schopenhauer pour prouver que cela est faux en disant que les œuvres peuvent avoir pour sujet elles-mêmes.
 Il cite Schopenhauer : « l’œuvre d’art n’est qu’un moyen pour faciliter cette connaissance[^7] ».
-Puis : « Le plaisir esthétique est le même, qu’il soit provoqué par une œuvre d’art ou directement par la contemplation de la vie et de la nature [^8] ».
+Puis : « Le plaisir esthétique est le même, qu’il soit provoqué par une œuvre d’art ou directement par la contemplation de la vie et de la nature[^8] ».
 Pourtant, dans la citation, jamais il n’est mentionné que les idées ne peuvent être tournées sur le médium lui-même et que l’art ne pourrait proposer une réflexion (dans les deux sens du terme) sur lui-même, à la fois comme contenu et contenant.
 Ce qui mène à l’erreur où Danto prend deux objets similaires en disant qu’ils renvoient à la même expérience esthétique.
 À cela, précisons : ils procurent le même plaisir que s’ils sont vus de la même manière; que s’ils sont vus artistiquement.

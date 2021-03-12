@@ -17,13 +17,13 @@ Dans ce texte, je tenterai de définir qu'est-ce qu'un moraliste et en quoi Pasc
 ### Définitions
 
 Il nous importe premièrement de définir ce que veut dire moraliste.
-Selon le dictionnaire de l'Académie française de 1798, un moraliste est « un écrivain qui traite des mœurs[^3] », définition aussi appuyée et enrichie par François Trémolière : « au-delà de la description des mœurs, leur véritable objet n'est autre, en effet, que la nature humaine[^4] ».
+Selon le dictionnaire de l'Académie française de 1798, un moraliste est « un écrivain qui traite des mœurs[^3] », définition aussi appuyée et enrichie par François Trémolières : « au-delà de la description des mœurs, leur véritable objet n'est autre, en effet, que la nature humaine[^4] ».
 Ensuite, nous devons par conséquent définir ce que sont les mœurs.
 Toujours selon le dictionnaire de l'Académie, nous avons : « habitudes naturelles [...] dans tout ce qui regarde la conduite de la vie[^5] ».
 Pour prendre une définition semblable, mais moderne, tirée du CNRTL : « Ensemble de comportements propres à un groupe humain ou à un individu[^6] ».
-Pour leurs caractéristiques, les moralistes sont descriptifs et non prescriptifs[^7], ils ont un style fragmentaire[^8], illustré par une « tension qui ne serait autre que celle qui existe entre la maxime (exacerbation d'un style) et la sentence (généralité, impersonnalité, universel)[^9]».
+Pour leurs caractéristiques, les moralistes sont descriptifs et non prescriptifs[^7], ils ont un style fragmentaire[^8], illustré par une « tension qui ne serait autre que celle qui existe entre la maxime (exacerbation d'un style) et la sentence (généralité, impersonnalité, universel)[^9] ».
 Trémolières note aussi que les moralistes sont des amateurs honnêtes hommes, ce qui les différencie des lettrés professionnels[^10].
-Trémolières note aussi le caractère du « libertin [qui] serait en quelque sorte l'horizon du moraliste, qui ne serait jamais autant lui-même qu'en assumant une position exclusivement, intégralement mondaine[^11] ».
+Toujours selon Trémolières, le caractère du « libertin serait en quelque sorte l'horizon du moraliste, qui ne serait jamais autant lui-même qu'en assumant une position exclusivement, intégralement mondaine[^11] ».
 Terminons la définition du moraliste par le style, plus souvent simple, proche de l'homme[^12], incisif en ce qu'il se veut vrai, sans détour.
 Nous allons donc observer comment Pascal est moraliste, en ce qu'il décrit les habitudes humaines, mais aussi sur quels aspects il s'en détourne.
 
@@ -40,8 +40,8 @@ Je m'explique en quoi une apologie chrétienne n'est pas tant éloignée qu'on l
 Pascal s'inscrit dans la lignée d'intellectuels qui fréquentèrent Port-Royal, lieu tributaire de la pensée janséniste.
 On distingue souvent le jansénisme en opposition au jésuitisme, par la définition de grâce.
 Pour les jansénistes, la grâce est efficace, c'est-à-dire qu'elle ne peut provenir que de Dieu, alors que pour les jésuites, la grâce est suffisante, c'est-à-dire dépendante de la volonté humaine individuelle[^16].
-Or, « Plutôt que l'adhésion à une certaine doctrine de la grâce, ce qui caractérise Port-Royal, c'est un certain esprit [^17]».
-Esprit décrit comme « [l'affirmation de] l'absolu de Dieu, le néant de l'homme sans Dieu, la non-valeur d'une société sans Dieu : attitude archaïque par son antihumanisme, moderne par la promotion de l'individu qu'elle favorisait indirectement[^18]».
+Or, « Plutôt que l'adhésion à une certaine doctrine de la grâce, ce qui caractérise Port-Royal, c'est un certain esprit [^17] ».
+Esprit décrit comme « [l'affirmation de] l'absolu de Dieu, le néant de l'homme sans Dieu, la non-valeur d'une société sans Dieu : attitude archaïque par son antihumanisme, moderne par la promotion de l'individu qu'elle favorisait indirectement[^18] ».
 Dans l'édition Le Guern, le néant de l'homme sans Dieu apparaît dès la quatrième pensée : « Misère de l'homme sans Dieu. [...] Félicité de l'homme avec Dieu[^19] ».
 Dans une société où les croyants semblent faire preuve d'artifice afin d'arriver à leurs moyens, Pascal peut alors se livrer à un portrait incisif de la fatuité, de la vanité : « qui ne voit pas la vanité est bien vain lui-même[^20] ».
 Et par ce rejet, il se replie sur sa « conscience personnelle, son inviolabilité[^21] », à partir de laquelle il peut aussi se peindre lui-même : « le moi est haïssable[^22] », nous dit franchement Pascal dans une de ses pensées.
@@ -59,8 +59,8 @@ Mais qu'est-ce que l'honnête homme? Figure de la conversation polie, représent
 Ou encore, dans le fragment 10, Pascal détaille son projet : « il faut commencer par montrer que la Religion n'est point contraire à la raison [...] [et] la rendre ensuite aimable[^33] », cette citation illustre bien l'attention que porte Pascal à son public, et à ses *Pensées* qu'il veut rendre cohérentes d'un point de vue logique et agréables à lire.
 Autre preuve que Pascal veut concilier raison et religion : dans le fragment 185 il philosophe sur Dieu, cette fois en reprenant un argument cartésien : « C'est une sphère infinie dont le centre est partout, la circonférence, nulle part.
 Enfin c'est le plus grand caractère sensible de la toute-puissance de Dieu que notre imagination se perde dans cette pensée[^34] ».
-Descartes disait la même chose dans la méthode, comme quoi l'idée que l'on a de l'infini sans le pouvoir saisir est la preuve de Dieu.
-Ainsi, Pascal parle de Dieu avec la raison, même si pour lui cela n'est qu'une partie du chemin, puisque le cœur doit accomplir ce que la raison a préparé : « sans [sentiment de cœur] la foi n'est qu'humaine et inutile pour le salut[^35]».
+Descartes disait la même chose dans *la méthode*, comme quoi l'idée que l'on a de l'infini sans le pouvoir saisir est la preuve de Dieu.
+Ainsi, Pascal parle de Dieu avec la raison, même si pour lui cela n'est qu'une partie du chemin, puisque le cœur doit accomplir ce que la raison a préparé : « sans [sentiment de cœur] la foi n'est qu'humaine et inutile pour le salut[^35] ».
 Donc, en utilisant la raison afin de se faire compréhensible et persuasif, Pascal tend vers la figure d'honnête homme.
 Mais comment s'opère, ailleurs dans les *Pensées* de Pascal, cette persuasion, cette simplicité? Par un glissement entre signifié et référent.
 Dans les *Pensées*, il y a mouvance du référent : souvent l'Homme est désigné différemment, mais toujours par le même locuteur.
@@ -156,7 +156,7 @@ TRÉMOLIÈRES, François. "[MORALISTES](http://www.universalis-edu.com/encyclope
 
 [^6]: Centre National de Ressources Textuelles et Lexicales. « [Moeurs](https://www.cnrtl.fr/definition/moeurs) » (consulté de le 06 novembre 2019).
 
-[^7]: TRÈMOLIÈRES, François. *Op. cit.*
+[^7]: Trèmolières, *opt. cit.*
 
 [^8]: *Ibid.*
 
@@ -180,15 +180,15 @@ TRÉMOLIÈRES, François. "[MORALISTES](http://www.universalis-edu.com/encyclope
 
 [^18]: *Ibid.*
 
-[^19]: BLAISE, Pascal. *Op. cit.*, p. 72.
+[^19]: Blaise, *opt. cit.*, p. 72.
 
 [^20]: *Ibid.,* p. 81.
 
-[^21]: COGNET, Louis *et al*. *Op. cit.*
+[^21]: Cognet *et al*, *op. cit.*
 
-[^22]: BLAISE, Pascal. *Op. cit.,* p. 385.
+[^22]: Blaise, *opt. cit.,* p. 385.
 
-[^23]: COGNET, Louis *et al*. *Op. cit.*
+[^23]: Cognet *et al*, *Opt. cit.*
 
 [^24]: *Ibid.*
 
@@ -200,13 +200,13 @@ TRÉMOLIÈRES, François. "[MORALISTES](http://www.universalis-edu.com/encyclope
 
 [^28]: *Ibid.*
 
-[^29]: TRÈMOLIÈRES, François. *Op. cit.*
+[^29]: Trèmolières, *opt. cit.*
 
 [^30]: *Ibid.*
 
 [^31]: *Ibid.*
 
-[^32]: BLAISE, Pascal. *Op. cit.,* p. 402.
+[^32]: Blaise, *opt. cit.,* p. 402.
 
 [^33]: *Ibid.*, p. 73.
 
@@ -232,12 +232,12 @@ TRÉMOLIÈRES, François. "[MORALISTES](http://www.universalis-edu.com/encyclope
 
 [^44]: *Ibid.*, p. 77.
 
-[^45]: COGNET, Louis. *Op. Cit.*
+[^45]: Cognet, *opt. Cit.*
 
 [^46]: *Ibid.*
 
 [^47]: *Ibid.*
 
-[^48]: TRÈMOLIÈRES, François. *Op. cit.*
+[^48]: Trèmolières, *opt. cit.*
 
 [^49]: BIET, Christian. "[LES PROVINCIALES, Blaise Pascal -- Fiche de lecture](http://www.universalis-edu.com/encyclopedie/les-provinciales/)", Encyclopædia Universalis, (consulté le 06 novembre 2019).
