@@ -8,7 +8,7 @@
 
 -Je ne vois pas quelle solution il y aurait.
 
--Moi aussi, je suis au dépourvus, je ne sais que faire.
+-Moi aussi, je suis au dépourvu, je ne sais que faire.
 
 -Quelle importunité! Cependant il nous faut agir.
 
@@ -54,7 +54,7 @@
 
 -Dans la bouche d’égout?
 
--Tient, la bouche d’égout! En voilà une idée!
+-Tiens, la bouche d’égout! En voilà une idée!
 
 (*Tous trois se regardent*)
 
@@ -90,23 +90,23 @@
 
 <br />
 
-*L'action se déroule dans la chambre du mécène*
+*L'action se déroule dans la chambre du mécène.*
 
-*Charles ouvre un tiroir du semainier. Il prend des bons et s'enfuit, entre le mécène*
+*Charles ouvre un tiroir du semainier. Il prend des bons et s'enfuit, entre le mécène.*
 
-*Ferrare ouvre le susdit tiroir, et n'y trouve rien*
+*Ferrare ouvre le susdit tiroir, et n'y trouve rien.*
 
 <br />
 
 ###### Ferrare
 
--Mon argent, où est-elle? ne l'avais-je pas laissée ici? Ah moins qu'elle serait plutôt là... Non?  Ah! j'enrage! Mon argent, ma fortune! c'est bien la seule chose qui m'incombe, et au diable cette satanée femme! c'est plutôt un gouffre d'argent, oui. Peut-être l'ai-je déplacé durant mon sommeil? Voilà qui serait joli. Fichu somnambulisme! Il faudra que je fouille de fond en comble cette chambre, et que je prie Antoine de Saint-Padoue. Sous le lit? Les enfants auraient pris ces bons pour jouer au banquier, peut-être? Non, non, je ne dois pas commencer à divaguer. Je dois m'en remettre à ma raison. En parler à Gabrielle? je serais bien avancé: je ne saurai pas plus l'emplacement et elle sera au courant de mon petit secret. Des plans pour qu'elle dépense encore plus... Ah ça non! Oui je sais! je lui en parlerai de manière détournée, et je guetterai son visage, pour y déceler des réactions qui la trahiront certainement: il en est toujours ainsi des voleurs et des menteurs, qui plus est je connais bien Gabrielle.
+-Mon argent, où est-il? ne l'avais-je pas laissé ici? Ah moins qu'il serait plutôt là... Non?  Ah! j'enrage! Mon argent, ma fortune! c'est bien la seule chose qui m'incombe, et au diable cette satanée femme! c'est plutôt un gouffre d'argent, oui. Peut-être l'ai-je déplacé durant mon sommeil? Voilà qui serait joli. Fichu somnambulisme! Il faudra que je fouille de fond en comble cette chambre, et que je prie Saint-Antoine de Padoue. Sous le lit? Les enfants auraient pris ces bons pour jouer au banquier, peut-être? Non, non, je ne dois pas commencer à divaguer. Je dois m'en remettre à ma raison. En parler à Gabrielle? je serais bien avancé: je ne saurai pas plus l'emplacement et elle sera au courant de mon petit secret. Des plans pour qu'elle dépense encore plus... Ah ça non! Oui je sais! je lui en parlerai de manière détournée, et je guetterai son visage, pour y déceler des réactions qui la trahiront certainement: il en est toujours ainsi des voleurs et des menteurs, qui plus est je connais bien Gabrielle.
 
 (*Il regarde par la fenêtre*)
 
 La voici qui arrive! Oh! serait-ce mes bons? Ah, non: que de vieux papiers qui traînent…
 
-(*Gabrielle, accompagné de deux serviteurs, surprend Ferrare qui cherche ses bons*)
+(*Gabrielle, accompagnée de deux serviteurs, surprend Ferrare qui cherche ses bons*)
 
 ###### Gabrielle
 
@@ -162,11 +162,11 @@ La voici qui arrive! Oh! serait-ce mes bons? Ah, non: que de vieux papiers qui t
 
 ###### Gabrielle
 
--Désolé, Ferrare mon choux. Je suis tellement habituée à vos manières rustre de fieffé ladre, et j'ai encore sur le cœur le refus de notre mariage (les retardements)…
+-Désolé, Ferrare mon choux. Je suis tellement habituée à vos manières rustre de fieffé ladre, et j'ai encore sur le cœur les éternels retardements de notre mariage…
 
 ###### Ferrare
 
--Assez! Nous en avons parlé hier, avant-hier, et ainsi de suite tout le mois! Un mariage nous ruinerais, je ne suis pas assez riche.
+-Assez! Nous en avons parlé hier, avant-hier, et ainsi de suite tout le mois! Un mariage nous ruinerait, je ne suis pas assez riche.
 
 ###### Gabrielle
 
@@ -182,7 +182,7 @@ La voici qui arrive! Oh! serait-ce mes bons? Ah, non: que de vieux papiers qui t
 
 ###### Ferrare
 
-Mais en vrai, un mariage me ruinerais. Je n'ai pas les reins assez solide pour...
+-Mais en vrai, je n'ai pas les reins assez solide pour...
 Enfin, je m'écarte, ce que je m'écarte! Ce que j'ai perdu?
 
 ###### Gabrielle
@@ -243,11 +243,11 @@ Enfin, je m'écarte, ce que je m'écarte! Ce que j'ai perdu?
 
 ###### Gabrielle (*avec un petit cri*)
 
--Nous nous sommes faites volé!
+-Nous nous sommes faites voler!
 
 ###### Ferrare
 
--Gaudriole! Je cherche la lettre du... du Duc de Valence qui m'avait invité à son bal.
+-Bagatelle! Je cherche la lettre du... du Duc de Valence qui m'avait invité à son bal.
 
 ###### Gabrielle
 
@@ -281,6 +281,14 @@ Oh, 235.
 ###### Ferrare
 
 -Quelle ferblanterie!
+
+###### Gabrielle
+
+-Ces gants de velour?
+
+###### Ferrare
+
+-Vous n'êtes bonne qu'à dépenser, ma parole! 
 
 ###### Gabrielle (*à ses serviteurs*)
 
