@@ -110,7 +110,7 @@ La voici qui arrive! Oh! serait-ce mes bons? Ah, non: que de vieux papiers qui t
 
 ###### Gabrielle
 
--Ferrare, mon choux! je suis là!
+-Ferrare, mon chou! je suis là!
 
 ###### Ferrare (*Bas*)
 
@@ -162,7 +162,7 @@ La voici qui arrive! Oh! serait-ce mes bons? Ah, non: que de vieux papiers qui t
 
 ###### Gabrielle
 
--Désolé, Ferrare mon choux. Je suis tellement habituée à vos manières rustre de fieffé ladre, et j'ai encore sur le cœur les éternels retardements de notre mariage…
+-Désolé, Ferrare mon chou. Je suis tellement habituée à vos manières rustre de fieffé ladre, et j'ai encore sur le cœur les éternels retardements de notre mariage…
 
 ###### Ferrare
 
@@ -187,7 +187,7 @@ Enfin, je m'écarte, ce que je m'écarte! Ce que j'ai perdu?
 
 ###### Gabrielle
 
--Encore faut-il que je sache, Ferrare mon choux, ce dont il s'agit.
+-Encore faut-il que je sache, Ferrare mon chou, ce dont il s'agit.
 
 ###### Ferrare
 
@@ -235,7 +235,7 @@ Enfin, je m'écarte, ce que je m'écarte! Ce que j'ai perdu?
 
 ###### Gabrielle
 
--N'est-ce pas que j'ai raison, mon choux?
+-N'est-ce pas que j'ai raison, mon chou?
 
 ###### Ferrare
 
