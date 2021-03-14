@@ -1,6 +1,6 @@
 # Présentation pour Ubisoft
 
-Bienvenue sur ma page de présentation pour ma candidature de scénariste.
+Bienvenu sur ma page de présentation pour ma candidature de scénariste.
 
 J'ai essayé de mettre des petites créations puisque vous avez un temps restreint à consacrer pour chaque candidature.
 Notez cependant que ce serait pour moi un grand bonheur d'écrire quelque chose pour vous sur mesure si cela vous intéresse, afin que vous puissiez évaluer plus précisément l'étendue de mes talents en création. Je peux écrire autant un conte, des dialogues, des nouvelles, de la longueur que vous désireriez sur le sujet de votre choix.
