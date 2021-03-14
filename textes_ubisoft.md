@@ -321,7 +321,7 @@ Je ne suis, hélas, que marin à la mer
 
 Et j’ai beau réfléchir, jamais je n’ai vu
 
-Un de mes théorème, une de mes pensées
+Un de mes théorèmes, une de mes pensées
 
 Une déferlante dans sa course arrêter
 
@@ -333,13 +333,13 @@ Qui donc serait insensible au rire d’Avril?
 
 Les bras de fumée se tendent une dernière fois
 
-Flores galope es prairies, vole d’îles en îles
+Flores galope ès prairies, vole d’îles en îles
 
 Et les fleurs et les cœurs s’éveillent d’émois
 
 <br />
 
-### Le champs
+### Le champ
 
 Comme un puissant bœuf qui vigoureusement traine
 
@@ -353,7 +353,7 @@ Il nous faut porter jusqu’à la tombe notre peine
 
 Sillonner un destin duquel on ne peut dévoyer
 
-Arpenter le champs qu’arrosa nos ancêtres
+Arpenter le champ qu’arrosa nos ancêtres
 
 Y planter pour ceux que demain verra naître
 
