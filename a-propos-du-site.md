@@ -12,7 +12,7 @@ Premièrement il suffit d'apprendre la syntaxe <a href="https://www.markdownguid
 C’est une syntaxe incroyablement simple, qui ne prend que quelques minutes à apprendre, une quinzaine à maîtriser.
 Si vous n’avez pas d’éditeur texte, il en existe plusieurs; voici mes coups de cœur: <a href="https://atom.io/" target="_blank">Atom</a>, <a href="https://marktext.app/" target="_blank">Mark Text</a> et <a href="https://wiki.gnome.org/Apps/Gedit" target="_blank">Gedit</a>.
 Vous pouvez toujours utiliser Bloc-notes sur Windows, mais la visibilité n’est pas idéale.
-Pour placer mes fichers Markdown en ligne, j’ai utilisé est la plateforme <a href="https://github.com/" target="_blank">GitHub</a>.
+Pour placer mes fichers Markdown en ligne, j’ai utilisé la plateforme <a href="https://github.com/" target="_blank">GitHub</a>.
 Après la création d’un compte, l’utilisateur obtient automatiquement un lien publique qui lui est propre.
 La marche à suivre pour initialiser son site web depuis GitHub est détaillée sur <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 Si vous n’êtes pas initié à GitHub, cela peut prendre quelque temps avant que vous y soyez à l’aise, mais il existe plusieurs tutoriels sur GitHub, YouTube et sur le web.
