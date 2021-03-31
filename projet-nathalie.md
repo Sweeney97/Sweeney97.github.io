@@ -2,7 +2,7 @@
 
 Bonjour chères âmes généreuses qui joueront à [mon jeu](https://iplayif.com/?story=https://github.com/Sweeney97/Projet_Nathalie/raw/master/Nathalie-V1.1.z8) plein de lacunes et de bogues.
 
-N'oubliez pas de tenir [la mappe](https://github.com/Sweeney97/Projet_Nathalie/blob/master/Para_meta_texte/map.txt) près de vous! Elle aide vraiment à s'orienter dans ce petit espace textuel.
+N'oubliez pas de tenir [la mappe](https://github.com/Sweeney97/Projet_Nathalie/blob/master/Para_meta_texte/map.txt) près de vous! Elle aide vraiment à s'orienter dans ce petit espace textuel. Vous avez aussi accès à la solution, à savoir [la transcription du jeu](https://github.com/Sweeney97/Projet_Nathalie/blob/master/DESS/transcript.md). 
 
 Si vous avez des difficultés avec cette version, jetez un oeil à [la page du projet](https://github.com/Sweeney97/Projet_Nathalie), où vous pourrez télécharger la dernière version.
 
