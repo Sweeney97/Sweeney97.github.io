@@ -1,6 +1,6 @@
 # Projet Nathalie en ligne
 
-Bonjour chères âmes généreuses qui [joueront à mon jeu](https://iplayif.com/?story=https://github.com/Sweeney97/Projet_Nathalie/raw/master/Nathalie-V1.1.z8) plein de lacunes et de bogues.
+Bonjour chères âmes généreuses qui [joueront à mon jeu](https://iplayif.com/?story=https://github.com/Sweeney97/Projet_Nathalie/raw/master/Nathalie-V1.1.0.z8) plein de lacunes et de bogues.
 
 N'oubliez pas de tenir [la mappe](https://github.com/Sweeney97/Projet_Nathalie/blob/master/Para_meta_texte/map.txt) près de vous! Elle aide vraiment à s'orienter dans ce petit espace textuel. Vous avez aussi accès à la solution, à savoir [la transcription du jeu](https://github.com/Sweeney97/Projet_Nathalie/blob/master/DESS/transcript.md). 
 
