@@ -42,5 +42,5 @@ Montréal - Rosemont
 - Maîtrise de la langue française
 - Compétences en création littéraire
 - Connaissance du protocole Git
-- <a href="https://www.antoinesweeney.com/analyseur_textes" target="_blank">Connaissances de base en codage</a>
+- Connaissances de base en codage
 - Contributeur de Wikipédia
