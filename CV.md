@@ -14,6 +14,13 @@ Montréal - Rosemont
 
 ### Expérience
 
+- Testeur de logiciels pour Druide - mai 2021 à aujourd'hui
+
+ - Effectuer des tests logiciels
+ - Rédactions de rapports d'erreur
+ - Connaissance de JIRA et TestRail
+ - Réfléchir et améliorer l'expérience utilisateur
+
 
 - Éditeur web pour TeamInside - octobre 2019 à novembre 2020
 
@@ -39,8 +46,7 @@ Montréal - Rosemont
 ### Compétences
 
 - Anglais fonctionnel
-- Maîtrise de la langue française
-- Compétences en création littéraire
-- Connaissance du protocole Git
-- Connaissances de base en codage
 - Contributeur de Wikipédia
+- Connaissance du protocole Git
+- Connaissances de base de HTML et JavaScript
+- Révision et rédaction de textes (français uniquement)
