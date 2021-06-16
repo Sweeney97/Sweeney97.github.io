@@ -103,7 +103,7 @@ Mais le texte, ultimement, dénigre la philosophie et lui préfère plutôt l'ar
 La philosophie ne crée pas du mouvement, de l'équivalence, de la résistance au temps.
 Elle cristallise, s'enferme dans un virtuel néant, et développe des concepts intemporels, donc inexistants.
 À cela, le texte l'oppose aux arts non figuratifs, qui incarnent directement, sans biais, les formes et lois; structure et texture mêmes de l'univers.
-Mais pour que ces lois composent une forme, il faut que la proposition « soit obéie de tous les moments [d'un] mouvement de telle sorte que toutes les parties de la figure soient une même chose dans la pensée, quoique différente dans l’étendue »(Valéry 1923).
+Mais pour que ces lois composent une forme, il faut que la proposition « soit obéie de tous les moments [d'un] mouvement de telle sorte que toutes les parties de la figure soient une même chose dans la pensée, quoique différente dans l’étendue » (Valéry 1923).
 Au fond, les consignes de ce travail contenaient en germe ce texte, qui n’est que ces même consignes appliquées à mon esprit, qui les applique à un objet, ici *L'Eupalinos*.
 
 ### Bibliographie
