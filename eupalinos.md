@@ -72,8 +72,8 @@ Pivot donc dans la structure du texte (milieu du texte), dans l'espace du récit
 Il permet notamment au texte d'aborder la notion d'infini: « mais peut-être, ce n'était que le fruit d’un temps infini...
 Moyennant l’éternel travail des ondes [cet objet pourrait être plusieurs choses], les siècles ne coûtant rien, qui en dispose, change ce qu’il veut en ce qu’il veut » (Valéry 1923).
 Le texte discrédite l'infini, car en son sein tout s'annule, se tempère, et rien n'est singulier. Au contraire, l'art prend place dans un espace nécessairement fini, concret.
-Et l'homme, par son acte créateur, abrège les millers de siècles du hasard, abrège la nature, en construisant il impose ses idées à la matière, il fabrique par abstraction, suivant ses conditions arbitraires.
-En opposition, la nature ne crée que par nécessité, dans une parfaite concordance substance-forme-foncion.
+Et l'homme, par son acte créateur, abrège les milliers de siècles du hasard, abrège la nature, en construisant il impose ses idées à la matière, il fabrique par abstraction, suivant ses conditions arbitraires.
+En opposition, la nature ne crée que par nécessité, dans une parfaite concordance substance-forme-fonction.
 C'est grâce à cette parfaite concordance entre la substance-forme-fonction qui sont toutes trois indéfinies que l'objet blanc tire sa dureté, sa résistance au temps.
 En effet, il est écrit dans le texte que la résistance au temps s'obtient par l'équivalence.
 Mais l'objet blanc reste toutefois à plusieurs égards problématique.
@@ -104,7 +104,7 @@ La philosophie ne crée pas du mouvement, de l'équivalence, de la résistance a
 Elle cristallise, s'enferme dans un virtuel néant, et développe des concepts intemporels, donc inexistants.
 À cela, le texte l'oppose aux arts non figuratifs, qui incarnent directement, sans biais, les formes et lois; structure et texture mêmes de l'univers.
 Mais pour que ces lois composent une forme, il faut que la proposition « soit obéie de tous les moments [d'un] mouvement de telle sorte que toutes les parties de la figure soient une même chose dans la pensée, quoique différente dans l’étendue » (Valéry 1923).
-Au fond, les consignes de ce travail contenaient en germe ce texte, qui n’est que ces même consignes appliquées à mon esprit, qui les applique à un objet, ici *L'Eupalinos*.
+Au fond, les consignes de ce travail contenaient en germe ce texte, qui n’est que ces mêmes consignes appliquées à mon esprit, qui les applique à un objet, ici *L'Eupalinos*.
 
 ### Bibliographie
 
