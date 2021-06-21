@@ -28,7 +28,7 @@ Définir le temps ou l’espace peut sembler une tâche ardue, voire quasi impos
 Je me bornerai à ce sujet à dire que l’espace-temps structure à priori notre perception du réel.
 L’espace en littérature est décrit par Antje Ziethen comme « enjeu diégétique, substance génératrice, agent structurant et vecteur signifiant[^1]  », en étant de plus « moteur de l’intrigue, véhicule de mondes possibles et médium permettant aux auteurs d’articuler une critique sociale[^2]  ».
 On voit l’importance de l’espace littéraire pour Ziethen, mais il est intéressant de voir les variations que lui apporte Bakhtine en ajoutant le temps grâce à la notion de chronotope.
-Le chronotope, qui par son nom annonce déjà la réunion de l’espace-temps, est définit par Bakhtine comme étant : « ce qui se traduit, littéralement, par "temps-espace " : la corrélation essentielle des rapports spatio-temporels, telle qu’elle a été assimilée par la littérature[^3]  ».
+Le chronotope, qui par son nom annonce déjà la réunion de l’espace-temps, est défini par Bakhtine comme étant : « ce qui se traduit, littéralement, par "temps-espace " : la corrélation essentielle des rapports spatio-temporels, telle qu’elle a été assimilée par la littérature[^3]  ».
 Pour lui, le chronotope véhicule une vision du monde, configuré dans et par le récit.
 Le chronotope apparaît pour Bakhtine comme un point de convergence essentiel dans le récit, qui matérialise les idées, l’intrigue, dialogues signifiants: « ici, le temps se condense, devient compact, visible pour l’art, tandis que l’espace s’intensifie, s’engouffre dans le mouvement du temps, du sujet, de l’Histoire.
 Les indices de temps se découvrent dans l’espace, celui-ci est mesuré d’après le temps[^4]  ».
@@ -124,8 +124,8 @@ Bien sûr cela est peine perdue, puisque dans ce mouvement de fuite perpétuelle
 
 ### Conclusion
 
-Ainsi, certains espace-temps structurent *Le ravissement* : le bal, la mer, la ville, etc.
-Évidemment, il y a bien plus que les trois espace-temps couverts par ce travail, mais j’ai tenté de m’attarder sur ceux qui me semblaient plus importants.
+Ainsi, certains espaces-temps structurent *Le ravissement* : le bal, la mer, la ville, etc.
+Évidemment, il y a bien plus que les trois espaces-temps couverts par ce travail, mais j’ai tenté de m’attarder sur ceux qui me semblaient plus importants.
 Ils révèlent une importance tantôt symbolique : le bal est lié à la structuration d’un désir axé sur l’excentration, la plage à la quête de la dépersonnalisation et la ville au déplacement, à la construction, à l’agencement.
 Mais de plus, ils organisent aussi l’espace-temps diégétique et narratif.
 Le bal est un élément récurrent dans le récit, qui s’achève, en s’y emboîtant, dans la plage.
@@ -135,7 +135,7 @@ La plage quant à elle entraîne inévitablement la fin de l’histoire. Une foi
 Pour la ville, les déambulations de Lol donnent lieu à cette scène particulière d’enfilade et de dédoublement narratif.
 Ils permettent aussi au récit à trouver son souffle, comme Lol, qui ne peut continuer dans la parfaite virtualité de U. Bridge, ni dans sa crise de folie à S. Thala.
 Nous avons donc vu à quel point l’espace-temps est structurant dans un récit, et les impacts qu’il peut avoir sur le moteur de l’histoire, les personnages ou encore la narration.
-À preuve, j’avais commencé l’écriture de ce travail en disposant l’espace-temps narratif et diégétique en une section à part, mais l’impossibilité de cette séparation m’a poussé à intégrer l’espace-temps du bal, de la mer et de la ville, à la narration et à la diégèse. Parler d’un de ces trois espace-temps revenait à parler, nécessairement, de l’espace-temps de la narration et de la diégèse.
+À preuve, j’avais commencé l’écriture de ce travail en disposant l’espace-temps narratif et diégétique en une section à part, mais l’impossibilité de cette séparation m’a poussé à intégrer l’espace-temps du bal, de la mer et de la ville, à la narration et à la diégèse. Parler d’un de ces trois espaces-temps revenait à parler, nécessairement, de l’espace-temps de la narration et de la diégèse.
 Une fusion aussi essentielle que l’espace-temps lui-même?
 
 ### Bibliographie
