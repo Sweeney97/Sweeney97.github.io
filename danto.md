@@ -78,11 +78,11 @@ Si l'on reprend la thèse de Schopenhauer, on peut comprendre que les deux entit
 En conclusion, je pense que Danto était plus près d’une définition de l’art lorsqu’il parlait de signification, avant qu’il n’introduise l’interprétation.
 
 ### Bibliographie
-DANTO, Arthur. *L'assujetissement philosophique de l'art*, Paris, Seuil, 1993 (anglais : 1986).
+DANTO, Arthur. *L'assujettissement philosophique de l'art*, Paris, Seuil, 1993 (anglais : 1986).
 
 ### Notes de bas de page
 
-[^1]: DANTO, Arthur. L'assujetissement philosophique de l'art, Paris, Seuil, 1993 (anglais : 1986), p.47.
+[^1]: DANTO, Arthur. L'assujettissement philosophique de l'art, Paris, Seuil, 1993 (anglais : 1986), p.47.
 
 [^2]: *loc. cit.*
 
