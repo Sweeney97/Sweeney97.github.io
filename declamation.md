@@ -35,7 +35,7 @@ En effet, Dom Juan n’utilise pas de type particulier d’argumentation, il dé
 À cela, Sganarelle ne peut rester muet.
 Puisque rien ne semble toucher son maitre, ni les émotions des femmes qu’il maltraite ou les situations embarrassantes, ni les conseils qu’il reçoit d’autrui, le valet se décide à « jouer » sur le terrain de son maitre : l’argumentation.
 Sganarelle réplique avec un discours qui prend en pied de nez celui de son maitre, discours de style épidictique, puisqu’il tente de le convaincre[^10], et d’un style moyen, car il s’agit encore ici d’argumentation[^11].
-D’emblée son discours argumentatif est faussé, car porte la marque d’une forte émotion : « Ô ciel! qu’entend-je ici?[^12] »
+D’emblée son discours argumentatif est faussé, car porte la marque d’une forte émotion : « Ô ciel! qu’entends-je ici?[^12] »
 L’exclamation en plus de l’interrogation étant une double marque du pathos.
 La partie est pour le valet perdue d’avance, c’est l’émotion qui le pousse à argumenter, et non son intelligence, et cela nuit à l’articulation de son discours.
 Ensuite, il explique à son maitre qu’il est obligé de parler, et cette explication forme son exorde, à laquelle suit une narration en peau de chagrin : « Sachez, Monsieur, que tant va la cruche à l'eau qu'enfin eile se brise[^13] ».
@@ -88,7 +88,7 @@ Ainsi il pourrait y avoir des résonnances plus nobles dans Dom Juan, car certai
 
 ### Analyse rhétorique
 
-Après avoir relevé brièvement les marques déclamatoires dans l’extrait en question, nous pouvons comprendre certains aspects et faire une toute aussi brève analyse.
+Après avoir relevé brièvement les marques déclamatoires dans l’extrait en question, nous pouvons comprendre certains aspects et faire une tout aussi brève analyse.
 C’est un duel entre la foi et la raison qui s’opère non seulement dans l’extrait analysé, mais aussi dans toute la pièce.
 La figure du bon croyant est incarnée par Done Elvire et Sganarelle.
 Or, ni un ni l’autre n’incarnent l’intelligence, car elle revient à Dom Juan.
@@ -115,7 +115,7 @@ Même le comique n’échappe, à l’époque, à l’emprise de la rhétorique,
 La lecture du chapitre de la déclamation de Grimarest permet aussi de mieux mettre en lumière comment les personnages et leur déclamation vont de pair.
 En effet, nous l’avons remarqué dans le présent travail, la déclamation correcte de Dom Juan accompagne un discours correctement articulé en ses diverses parties, et son ton et son absence de pathos vont avec de pair avec son discours.
 À l’inverse, la mauvaise articulation du discours pourrait s’accompagner pour le valet, par une mauvaise déclamation, qui renforcerait l’écart déjà présent sur le plan textuel entre les deux personnages.
-Elle rend aussi, part ce contraste, plus pathétique le vain essai de la foi à s’ériger par la raison, où elle se confine dans le pathos, dont son plus fort représentant, l’amour, est incarné par Done Elvire.
+Elle rend aussi, par ce contraste, plus pathétique le vain essai de la foi à s’ériger par la raison, où elle se confine dans le pathos, dont son plus fort représentant, l’amour, est incarné par Done Elvire.
 Si Dom Juan est une comédie, son sujet n’a rien de drôle, et comme d’autres comédies de Molière, il est facile de comprendre pourquoi la pièce fut bannie à l’époque.
 Pour conclure, comme mentionnée dans la brève analyse, cette opposition entre foi et raison se trouve de manière plus générale dans le théâtre de Molière sous cette forme : la fausseté des mots *versus* la vérité des actes.
 Comme quoi avoir de l’esprit et bien parler n’est en rien une garantie de probité.
