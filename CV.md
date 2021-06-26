@@ -17,7 +17,7 @@ Montréal - Rosemont
 - Testeur de logiciels pour Druide - mai 2021 à aujourd'hui
 
   - Effectuer des tests logiciels
-  - Rédactions de rapports d'erreur
+  - Rédaction de rapports d'erreur
   - Connaissance de JIRA et TestRail
   - Réfléchir et améliorer l'expérience utilisateur
 
