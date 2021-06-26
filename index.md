@@ -6,7 +6,6 @@
    - [*Dom Juan*: analyse de la déclamation de Sganarelle](https://www.antoinesweeney.com/declamation)
    - [Donne Elvire et Dircé: le tragique au féminin](https://www.antoinesweeney.com/tragique)
    - [*Eupalinos ou l'architecte*: compte rendu](https://www.antoinesweeney.com/eupalinos)
-   - [Espace et Eros dans la littérature du Moyen Âge](https://www.antoinesweeney.com/espace-eros)
    - [La représentation des grands magasins dans *Au Bonheur des Dames*](https://www.antoinesweeney.com/zola)
    - [L'art selon Danto](https://www.antoinesweeney.com/danto)
    - [Pascal, écrivain moraliste?](https://www.antoinesweeney.com/moraliste)
