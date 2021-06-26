@@ -8,7 +8,7 @@ Lieu: Montréal
 # [Donne Elvire et Dircé : le tragique au féminin](https://www.antoinesweeney.com)
 
 Les tragédies font office de modèles sociétaux, tant durant l'Antiquité que durant l'Ancien Régime.
-Or, il arrive que la tragédie sorte don son cadre pour déborder; il sera alors question du tragique, et si la tragédie est nécessairement tragique, il peut arriver que le tragique se trouve dans une comédie par exemple.
+Or, il arrive que la tragédie sorte de son cadre pour déborder; il sera alors question du tragique, et si la tragédie est nécessairement tragique, il peut arriver que le tragique se trouve dans une comédie par exemple.
 Le tragique sert à aménager un espace de réflexion collective sur le destin et la condition humaine; à cet égard, il est intéressant de se pencher sur la femme tragique, afin de voir comment elle peut incarner un idéal sociétal.
 Je comparerai donc deux pièces d'Ancien Régime : *Œdipe* de Corneille et *Don Juan* de Molière, soit une tragédie et une comédie, ayant toute deux une protagoniste tragique; Dircé et Don Elvire.
 Pour ce faire, je devrai aborder le contexte, effleurer quelques notions nodales sur le tragique, afin de pouvoir dégager et cerner l'idéal qu'elles incarnent, puisque pour les deux femmes, quelque chose de plus grand se place devant leurs sentiments.
