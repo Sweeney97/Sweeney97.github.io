@@ -45,11 +45,11 @@ Il débute par « et, comme dit fort bien cet auteur que je ne connois pas[^15] 
 Puis il enchaine avec un autre lieu commun explicite, celui de la cause et de l’effet[^17], dans une chaine tellement longue qu’elle s’étale sur 180 mots! (En plus d’être rocambolesque.)
 Les explications cause à effet sont habituellement morcelées, afin de conduire l’auditeur plus clairement.
 En créant cette suite démesurément longue, c’est plutôt l’effet inverse qui se produit : on perd facilement l’interlocuteur.
-Ici aussi, nous sommes en présence d’un contre- exemple d’un lieu commun explicite.
+Ici aussi, nous sommes en présence d’un contre-exemple d’un lieu commun explicite.
 Sa péroraison, elle, sans appel, est fort claire à tout le moins : « et par conséquent vous serez damné à tous les diables[^18]. »
 Nous notons que là où Dom Juan n’utilise que des arguments naturels, à l’inverse, Sganarelle n’utilise que des arguments artificiels, c’est-à-dire des formes argumentatives.
 Mais si Dom Juan le faisait avec aise, Sganarelle s’en tire plutôt mal.
-Nous avons donc un mauvais exemple d’un discours épidictique : l’exorde est marqué par le pathos alors qu’elle annonce un discours épidictique, la narration, qui est un point central, est pauvre, et la confirmation est composée de deux anti-lieux.
+Nous avons donc un mauvais exemple d’un discours épidictique : l’exorde est marqué par le pathos alors qu’il annonce un discours épidictique, la narration, qui est un point central, est pauvre, et la confirmation est composée de deux anti-lieux.
 
 ### Conséquences déclamatoires
 
@@ -66,7 +66,7 @@ Sganarelle n’a que peu à faire des prochains déportements de son maitre.
 La voix pourrait donc s’élever et le rythme s’accélérer.
 La seule marque de pathos de son discours, l’interrogation, sert à « éclaircir sans passion, et le ton doit être doux[^21] », et n’est donc pas véritablement une marque de pathos.
 
-Pour son valet, la déclamation pourrait être à l’image de son argumentation : incorrectement utilisée. L’exorde, elle, est nécessairement marqué par le pathos.
+Pour son valet, la déclamation pourrait être à l’image de son argumentation : incorrectement utilisée. L’exorde, lui, est nécessairement marqué par le pathos.
 Pour l’interrogation par exemple, on peut supposer qu’elle est prononcée d’une voix plaintive, mais ferme[^22].
 La narration pourrait être précipitée, et la confirmation récitée d’un ton égal, trop rapidement aussi, cela sachant que la narration doit être déclamée clairement afin d’être bien entendue, et la confirmation en augmentant le ton graduellement.
 Certains mots du discours du valet sont des mots emphatiques, et pourraient nécessiter une prononciation marquée[^23] : hypocrite, abomination, damné et diable par exemple, mots tous contenus dans l’exorde et la péroraison, et qui attaquent directement Dom Juan, alors qu’ailleurs dans la pièce Sganarelle peine à lui dire en face ce qu’il pense de son maitre.
