@@ -35,7 +35,7 @@ En effet, Dom Juan n’utilise pas de type particulier d’argumentation, il dé
 À cela, Sganarelle ne peut rester muet.
 Puisque rien ne semble toucher son maitre, ni les émotions des femmes qu’il maltraite ou les situations embarrassantes, ni les conseils qu’il reçoit d’autrui, le valet se décide à « jouer » sur le terrain de son maitre : l’argumentation.
 Sganarelle réplique avec un discours qui prend en pied de nez celui de son maitre, discours de style épidictique, puisqu’il tente de le convaincre[^10], et d’un style moyen, car il s’agit encore ici d’argumentation[^11].
-D’emblée son discours argumentatif est faussé, car il porte la marque d’une forte émotion : « Ô ciel! qu’entends-je ici?[^12] »
+D’emblée son discours argumentatif est faussé, car il porte la marque d’une forte émotion : « Ô ciel! qu’entends-je ici?[^12] ».
 L’exclamation en plus de l’interrogation étant une double marque du pathos.
 La partie est pour le valet perdue d’avance, c’est l’émotion qui le pousse à argumenter, et non son intelligence, et cela nuit à l’articulation de son discours.
 Ensuite, il explique à son maitre qu’il est obligé de parler, et cette explication forme son exorde, à laquelle suit une narration en peau de chagrin : « Sachez, Monsieur, que tant va la cruche à l'eau qu'enfin eile se brise[^13] ».
