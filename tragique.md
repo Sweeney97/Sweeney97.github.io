@@ -76,16 +76,16 @@ Et puis-je au moins espérer que vous daigniez tourner le visage de ce côté ? 
 Il envoie son valet pour lui fournir des explications inexistantes, puis invente un mensonge pour justifier ses actes.
 Or, si Don juan se fait un plaisir d’expliquer à son valet les raisons de ses aventures galantes, il invente de toutes pièces un pieux repentir pour justifier son abandon.
 Done Elvire reprend dans les grandes lignes le discours de Sganarelle, mais, au contraire de ce dernier, regarde en face Don Juan, lui parle franchement et avec un discours correctement articulé.
-Cette confrontation entre les deux personnages met en lumière leur qualité inhérente : la franchise et l’aplomb pour Done Elvire, et la couardise pour Don Juan.
+Cette confrontation entre les deux personnages met en lumière leurs qualités inhérentes : la franchise et l’aplomb pour Done Elvire, et la couardise pour Don Juan.
 Dans le quatrième acte, après avoir placé une tirade sur les agissements de Don Juan, Done Elvire veut s’en aller, mais le désir ranimé, le coureur de jupons veut la retenir pour la nuit.
 À ce moment, Done Elvire n’en a que faire de Don Juan, revendique son indépendance et part sans s’étaler en explications.
 Alors que Done Elvire n’exige rien d’autre que la vérité et la franchise, Dircé se permet d’être plus incisive dans sa confrontation.
-Lorsqu’elle affirme à Œdipe qu’elle veut Thésée comme époux et qu’il refuse, jusqu’à affirmer que le peuple eut une « lâche faiblesse /De livrer en vos mains l’État, et sa princesse » (acte 2, scène 1).
+Lorsqu’elle affirme à Œdipe qu’elle veut Thésée comme époux et qu’il refuse, elle va jusqu’à affirmer que le peuple eut une « lâche faiblesse /De livrer en vos mains l’État, et sa princesse » (acte 2, scène 1).
 Dircé discrédite le couronnement d’Œdipe, ainsi que le choix du peuple.
 Dircé ajoute de plus « en vous faisant son roi, vous-a-t-il fait mien? /En se donnant à vous, eut-il droit de me vendre? » (acte 2, scène 1). Ainsi, face aux hommes, les deux héroïnes tragiques revendiquent leur autonomie, et toutes deux s’élèvent au-delà de leur adversaire masculin.
 Pour ce qui est de leur attitude face destin, elle est semblable mais légèrement différente.
 Done Elvire accepte son destin et ne craint pas la mort : « je ne demande qu’assez de vie pour pouvoir expier la faute que j’ai faite, et mériter, par une austère pénitence, le pardon de l’aveuglement où m’ont plongée les transports d’une passion condamnable » (acte 4, scène 9).
-Dircé aussi non seulement ne crain pas la mort, mais elle veut littéralement y courir : « ma flamme à la mort m’avait trop résolue /Pour ne pas y courir quand les Dieux l’ont voulue » (acte 2, scène 3).
+Dircé aussi non seulement ne craint pas la mort, mais elle veut littéralement y courir : « ma flamme à la mort m’avait trop résolue /Pour ne pas y courir quand les Dieux l’ont voulue » (acte 2, scène 3).
 Finalement, l’acceptation de la faute participe chez ces femmes d’un idéal de pureté et de franchise. Donne Elvire n’en glisse que quelques mots, dont en autres : « ce même ciel, qui m’a touché le cœur et fait jeter les yeux sur les égarements de ma conduite » (acte 4, scène 9), peu après dans le même paragraphe, elle avoue avoir « oublié son devoir » (acte 4, scène 9).
 Dircé de son côté affirme aussi son erreur : « si j’ai causé sa mort, puis-je vivre sans crime? » (acte 2, scène 3) pour ensuite conclure quelques vers plus loin « ainsi j’en fus la cause » (acte 2, scène 3).
 Ainsi donc, toutes deux acceptent sans détour leur erreur, leur destin et confrontent les hommes de manière à en ressortir plus grandes qu’eux, plus fortes qu’eux dans leur franchise.
@@ -166,7 +166,7 @@ Car même si Don Juan est puni par Dieu, c’est par sa faute et non en raison d
 
 ### Conclusion
 
-Plusieurs éléments de ces deux pièces témoignent de l’importance capitale des femmes : liberté formelle, caractéristique du héros tragique, force de caractère et supériorité face aux hommes qu’elles confrontent.
+Plusieurs éléments de ces deux pièces témoignent de l’importance capitale des femmes : liberté formelle, caractéristiques du héros tragique, force de caractère et supériorité face aux hommes qu’elles confrontent.
 Tant et si bien qu’elles incarnent de véritables idéaux qui les transcendent : pour l’une le janséniste et pour l’autre le jésuitisme.
 Ces deux femmes inspirent sans conteste la pitié et la grandeur.
 Mais, malgré cela, elles ne semblent pas être le point principal de leur pièce.
