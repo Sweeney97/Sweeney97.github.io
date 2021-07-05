@@ -74,7 +74,7 @@ On sait que, selon Grimarest, un valet demande de l’inégalité dans les tons 
 Dans l’ensemble de sa réplique donc, Sganarelle illustrerait en plus par sa déclamation qu’il est incapable d’articuler sa pensée, ne maitrisant pas la rhétorique par sa voix et ses gestes.
 D’ailleurs pour les gestes, il est amusant de penser comment Sganarelle appuierait sa chaine cause-conséquence: un discours aussi ridiculement long ne peut que venir qu’avec des gestes drolatiques ou maladroits.
 De manière générale, une certaine colère anime Sganarelle.
-Cette colère doit être murmurée fortement[^25], car le valet est en position d’infériorité vis- à-vis son maitre, mêlée d’indignation puisque Sganarelle est excité par le désir d’empêcher Dom Juan de commettre le mal, ainsi que par le déplaisir de le voir sous les honneurs alors qu’il devrait être honni[^26] (ce que permet la projection dans le futur qu’avait faite Dom Juan).
+Cette colère doit être murmurée fortement[^25], car le valet est en position d’infériorité vis- à-vis son maitre, et mêlée d’indignation puisque Sganarelle est excité par le désir d’empêcher Dom Juan de commettre le mal, ainsi que par le déplaisir de le voir sous les honneurs alors qu’il devrait être honni[^26] (ce que permet la projection dans le futur qu’avait faite Dom Juan).
 On pourrait penser que le serment prononcé par Sganarelle lors de la péroraison, partie généralement prononcée avec plus de verve étant le point culminant de sa tirade, serait prononcé d’un ton éclatant, car « il est prononcé par qui veut assurer la vérité[^27] ».
 On pourrait supposer que Sganarelle s’exclame d’une exclamation de crainte ou de peur, ces deux dernières demandent un ton plus élevé qu’une exclamation ordinaire[^28] (au début de l’exorde).
 Peut-être qu’un peu d’audace se mêle au discours de Sganarelle, mais étant donné sa position, elle ne sera pas hautaine, mais à tout le moins d’une voix ferme[^29] (et peut-être mal assurée en raison de son personnage et du genre de la pièce), donc médiocrement ferme, et ce, lors de son exorde.
@@ -83,7 +83,7 @@ Finalement, on peut se demander comment appliquer ces éléments soulevés par G
 C’est pourquoi, selon moi, Dom Juan consiste une pièce intéressante du point de vue déclamatoire : elle joue sur les deux registres : moyen et bas.
 Comique et tragique.
 Son personnage principal est tiraillé entre bassesse (des actes), intelligence (de ses discours) et noblesse (de son statut social).
-Je serai porté à croire que la déclamation des personnages s’adapte selon leur statut, mais aussi selon la situation, comme le pense Grimarest[^31].
+Je serais porté à croire que la déclamation des personnages s’adapte selon leur statut, mais aussi selon la situation, comme le pense Grimarest[^31].
 Ainsi il pourrait y avoir des résonnances plus nobles dans Dom Juan, car certains personnages, comme la femme usurpée qui pardonne son persécuteur, frôlent le sublime.
 
 ### Analyse rhétorique
@@ -97,7 +97,7 @@ En fait, on pourrait presque s’aventurer à parler de la faillite de la raison
 Réfléchir, ce sera au contraire abonder en ce sens.
 Pourtant, on le sait, cette conduite mène à la damnation.
 Le pathos prend ici une valeur rédemptrice, ce qui est aux antipodes de la pensée de l’époque.
-Le « oh ciel&nbsp;» de Sganarelle contient en germe tous ces réseaux de tensions : un homme simple, mais sensible, touché par des événements tragiques, et ne pouvant articuler ces dépits par la raison, car alors il se ridiculise.
+Le « oh ciel&nbsp;» de Sganarelle contient en germe tous ces réseaux de tensions : un homme simple, mais sensible, touché par des événements tragiques, et ne pouvant articuler ses dépits par la raison, car alors il se ridiculise.
 Cette confrontation dans l’extrait analysé, c’est celle d’un homme intelligent qui fait peu d’effort pour articuler son discours, car tout existe déjà à sa portée contre un homme sot qui tire le diable par la queue pour construire du sens, mais qui n’y parvient pas, car il enferme sa raison en elle-même, dans un argumentaire vide de référents concrets.
 La déclamation de cet extrait peut donc refléter ou aider à illustrer ces oppositions : d’un côté un homme libertin, vil par ses actes, brillant par son esprit, tour à tour noble, intelligent ou bas, qui prône par la raison exactement le contraire de ce que la raison devrait prôner.
 D’un autre un homme sot, de basse condition, mais sensible et touché par Dieu, témoin du pathétique de la situation, qui rend comme il peut ce combat perdu d’avance sur le terrain de la rhétorique.
