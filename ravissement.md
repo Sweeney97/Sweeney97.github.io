@@ -30,7 +30,7 @@ L’espace en littérature est décrit par Antje Ziethen comme « enjeu diégét
 On voit l’importance de l’espace littéraire pour Ziethen, mais il est intéressant de voir les variations que lui apporte Bakhtine en ajoutant le temps grâce à la notion de chronotope.
 Le chronotope, qui par son nom annonce déjà la réunion de l’espace-temps, est défini par Bakhtine comme étant : « ce qui se traduit, littéralement, par "temps-espace " : la corrélation essentielle des rapports spatio-temporels, telle qu’elle a été assimilée par la littérature[^3]  ».
 Pour lui, le chronotope véhicule une vision du monde, configuré dans et par le récit.
-Le chronotope apparaît pour Bakhtine comme un point de convergence essentiel dans le récit, qui matérialise les idées, l’intrigue, dialogues signifiants: « ici, le temps se condense, devient compact, visible pour l’art, tandis que l’espace s’intensifie, s’engouffre dans le mouvement du temps, du sujet, de l’Histoire.
+Le chronotope apparaît pour Bakhtine comme un point de convergence essentiel dans le récit, qui matérialise les idées, l’intrigue, les dialogues signifiants: « ici, le temps se condense, devient compact, visible pour l’art, tandis que l’espace s’intensifie, s’engouffre dans le mouvement du temps, du sujet, de l’Histoire.
 Les indices de temps se découvrent dans l’espace, celui-ci est mesuré d’après le temps[^4]  ».
 Finalement, définissons le terme diégèse, qui renvoie à l’histoire, aux événements pris dans leur spatialité et leur chronologie.
 
@@ -97,7 +97,7 @@ Deux villes prennent corps dans *Le ravissement* : S. Thala et U. Bridge.
 Pourtant, de U. Bridge, le texte ne dit pas grand-chose.
 Et parfois U. Bridge apparaît que pour mieux montrer sa nullité.
 Par exemple, lorsque Lol rencontre Tatianna, et qu’elle lui pose des questions sur son passé à U. Brige, Lol raconte qu’elle voyait la mer d’où elle était.
-Or cela est impossible puisque U. Bridge est trop éloigné de la mer, à ce moment, Lol est dans S. Thala, son souvenir recrée la ville.
+Or, cela est impossible puisque U. Bridge est trop éloigné de la mer, à ce moment, Lol est dans S. Thala, son souvenir recrée la ville.
 Même depuis U. Bridge, Lol vivait encore, en projection, dans S. Thala.
 D’ailleurs cela échappe à Lol, qui, en racontant U. Bridge, se laisse emporter : « elle parle plus vite, à voix plus haute, son regard nous a laché » (p.82), ce qui conforte cette idée selon laquelle U. Bridge est de l’ordre de l’artificiel, du convenu, du planifié, alors que S. Thala est du côté du naturel, de l’événement traumatique encore présent dans l’esprit de Lol, encore « chaud ».
 De cette maison à U. Bridge, sinon, nous pouvons citer ce passage : « Un ordre rigoureux régnait dans la maison de Lol à U. Bridge. Celui-ci était presque tel qu’elle le désirait, presque, dans l’espace et dans le temps. Les heures étaient respectées. Les emplacements de toutes choses, également.
@@ -105,7 +105,7 @@ On ne pouvait approcher davantage […] la perfection » (p.33).
 Cette rigidité est évidemment artificielle : en structurant parfaitement son espace-temps, dans les moindres détails, Lol essaie d’empêcher ce désir de la dépersonnalisation qui la consume, désir, tel qu’écrit plus haut, qui rejoint au contraire un espace immense et déstructuré autant dans l’espace que dans le temps.
 Quoiqu’au début « Lol installa sa maison natale avec le même soin strict que celle de U. Bridge (p. 35) », rapidement la marche, qui au début s’inscrivait dans sa routine de la perfection, perturba son établissement :
 
-> Pourquoi ces lieux plutôt que d’autres? En quelque point qu’elle s’y trouve Lol y est comme une première fois. De la distance invariable du souvenir elle ne dispose plus : elle est là. Sa présence fait la ville pure, méconnaissable. Elle comme à marcher dans le palais fastueux de l’oubli de S. Thala (p.43).
+> Pourquoi ces lieux plutôt que d’autres? En quelque point qu’elle s’y trouve Lol y est comme une première fois. De la distance invariable du souvenir elle ne dispose plus : elle est là. Sa présence fait la ville pure, méconnaissable. Elle commence à marcher dans le palais fastueux de l’oubli de S. Thala (p.43).
 
 Ainsi Lol ne marche plus dans sa ville, S. Thala, mais dans l’oubli, oubli qui fait de la ville un lieu pur, absolu.
 Seuls reste en sa mémoire T. Beach et ses acteurs, le bal a cannibalisé l’ensemble de ses souvenirs.
