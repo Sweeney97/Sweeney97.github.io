@@ -39,7 +39,7 @@ En somme, nous identifions et apprécions les œuvres d’art par leur interpré
 #### Comment intervient l’interprétation dans l’appréciation des œuvres
 
 Avec une telle vision des choses, on comprend qu’une correcte appréciation des œuvres est inextricablement liée avec une correcte interprétation et vice-versa.
-Afin d’apprécier les œuvres à leurs justes valeurs, il faudrait donc, dans un monde idéal, s’entretenir avec l’artiste, discuter avec lui.
+Afin d’apprécier les œuvres à leur juste valeur, il faudrait donc, dans un monde idéal, s’entretenir avec l’artiste, discuter avec lui.
 Au demeurant, il faudrait consulter les spécialistes qui seraient ceux étant le plus près de la pensée de l’auteur, puisqu’en général ils connaissent le contexte de l’artiste (lieu, époque, mœurs, etc.); bien sûr, à moins d’être un spécialiste de l’auteur soi-même.
 Interpréter l’œuvre sans préparations ou lectures sur celle-ci reviendrait à interpréter à tâtons, en essayant de deviner pourquoi l’artiste fait les choses telles qu’il les fait.
 
