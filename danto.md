@@ -5,7 +5,7 @@ Lieu: Montréal
 Date: avril 2018
 ---
 
-### [L'art selon Danto](https://www.antoinesweeney.com/)
+# [L'art selon Danto](https://www.antoinesweeney.com/)
 
 Selon Danto, il existe des prédicats esthétiques spécifiques aux œuvres d’art.
 Si l’on dit que des fleurs peintes sont puissantes, ce n’est pas la même chose que de le dire pour celles d’un jardin.
