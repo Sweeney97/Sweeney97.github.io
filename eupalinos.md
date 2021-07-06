@@ -29,7 +29,7 @@ L'homme se tourne vers lui-même, cherchant sa part irréductible, celle irrempl
 On sait par exemple qu'à l'âge de 21 ans environ, Valéry tenta de concevoir un système qui schématisait le fonctionnement de l'esprit, et que ce système faisait appel à divers savoirs, dont l'électromagnétisme et la thermodynamique (JARRETY, s. d.).
 
 #### Littérature
-L'influence de Mallarmé sur Valéry fut importante tant comme auteur qu'ami; Mallarmé était un poète symboliste, mouvement littéraire qui met l'accent sur la forme (« SYMBOLISME », s. d.).
+L'influence de Mallarmé sur Valéry fut importante tant comme auteur qu'ami; Mallarmé était un poète symboliste, mouvement littéraire qui met l'accent sur la forme.
 Donc Valéry s'inscrit aussi dans le mouvement des symbolistes, puisqu'il accorde dans son écriture poétique une grande place non seulement à la forme et au rythme qui prime sur le sens, mais aussi au processus d'élaboration: « la composition d’un poème n’implique pas d’organisation préalable, elle s’impose peu à peu [à Valéry] dans l'obligation de remplir son cadre rythmique » (Barriere 1974); donc, à ce qui se rattache principalement à l'aspect technique.
 Il fut découragé à un moment de sa vie de ne pouvoir créer quelque chose d'aussi parfait que la musique de Wagner, dont il était l'admirateur, ce qui, encore une fois, démontre son attachement à une forme « pure ».
 
