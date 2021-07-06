@@ -48,7 +48,7 @@ D'ailleurs, Socrate dit dans *Eupalinos*: « ne crois-tu pas que nous devions ma
 Si l'on définit la philosophie par l'amour de la sagesse, ou encore par cette quête constante du savoir, cette posture qui refuse tout savoir préconçu, alors *Eupalinos* est un texte véritablement philosophique, avec en outre des qualités littéraires indéniables.
 Mais il est intéressant de voir comment le texte produit lui-même sa définition de la philosophie.
 Dans *Eupalinos*, la philosophie est décrite comme une connaissance portée au-delà du Tout, au-delà du réel, une connaissance trop prompte, qui s'enferme en soi-même, dans sa propre virtualité.
-En opposition, l'artiste pense ou ressent puis produit quelque chose issue de cette pensée, qui a quelque concordance avec le monde réel.
+En opposition, l'artiste pense ou ressent puis produit quelque chose issu de cette pensée, qui a quelque concordance avec le monde réel.
 Dans la hiérarchie artistique, l'architecture est placée en première place, puisqu'elle est obligatoirement fonctionnelle.
 Il ne pourrait exister de maison constituée d'idées pures.
 La musique vient en second, puisqu'elle aussi doit être pleinement incarnée dans le réel.
