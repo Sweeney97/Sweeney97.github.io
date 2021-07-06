@@ -79,7 +79,7 @@ En effet, il est écrit dans le texte que la résistance au temps s'obtient par 
 Mais l'objet blanc reste toutefois à plusieurs égards problématique.
 C'est à partir de cet aspect problématique que Socrate a dû décider de sa vie même: entre la connaissance, et la construction.
 Il avait alors le choix entre créer de l’Art, mais l’objet blanc le lui prouvait, cet art serait ultimement néantisé.
-Puisque, comme je l'ai déjà rapporté, la beauté ne peut exister que si elle peut mourir, Socrate a choisi de connaître, et tirer une connaissance à l’abri du temps, un savoir permanent.
+Puisque, comme je l'ai déjà rapporté, la beauté ne peut exister que si elle peut mourir, Socrate a choisi de connaître, et de tirer une connaissance à l’abri du temps, un savoir permanent.
 Or, il s'en aperçoit après sa mort, que ce savoir déconnecté de la nature est vain.
 Mais l'objet blanc étant in-définit cette indéfinition oblige à rechercher cette définition impossible, elle apporte un mouvement.
 D'ailleurs Socrate était travaillé par l'idée de cet objet même après l'avoir rejeté à la mer.
@@ -104,7 +104,7 @@ La philosophie ne crée pas du mouvement, de l'équivalence, de la résistance a
 Elle cristallise, s'enferme dans un virtuel néant, et développe des concepts intemporels, donc inexistants.
 À cela, le texte l'oppose aux arts non figuratifs, qui incarnent directement, sans biais, les formes et lois; structure et texture mêmes de l'univers.
 Mais pour que ces lois composent une forme, il faut que la proposition « soit obéie de tous les moments [d'un] mouvement de telle sorte que toutes les parties de la figure soient une même chose dans la pensée, quoique différente dans l’étendue » (Valéry 1923).
-Au fond, les consignes de ce travail contenaient en germe ce texte, qui n’est que ces mêmes consignes appliquées à mon esprit, qui les applique à un objet, ici *L'Eupalinos*.
+Au fond, les consignes de ce travail contenaient en germe ce texte, qui n’est que ces mêmes consignes appliquées à mon esprit, qui les applique à un objet: *Eupalinos*.
 
 ### Bibliographie
 
